@@ -1,0 +1,94 @@
+{
+    "books": [
+        {
+            "isbn": "9796559668",
+            "title": "The Sky is Falling",
+            "author": "Sidney Sheldon",
+            "published": "Jakarta, 2001",
+            "publisher": "Gramedia Pustaka Utama",
+            "pages": 432,
+            "description": "Buku ini mengisahkan tentang intrik politik dan jurnalistik."
+        },
+        {
+            "isbn": "9786239726232",
+            "title": "Rasa",
+            "author": "Tere Liye",
+            "published": "Depok, 2023",
+            "publisher": "Sabak Grip Nusantara",
+            "pages": 421,
+            "description": "Buku ini mengisahkan tentang persahabatan antara lin, jo, dan putri di masa SMA serta berbagai rasa yang mereka alami."
+        },
+        {
+            "isbn": "9786025297298",
+            "title": "Giselle",
+            "author": "Akiyoshi Rikako",
+            "published": "Jakarta, 2019",
+            "publisher": "Penerbit Haru",
+            "pages": 400,
+            "description": "Buku ini mengisahkan tentang balerina Hamemiya Mayumi yang meninggal dunia saat menampilkan balet Giselle."
+        },
+        {
+            "isbn": "9780670919536",
+            "title": "A Little life",
+            "author": "Hanya Yanagihara",
+            "published": "USA, 2015",
+            "publisher": "Double Day Publisher",
+            "pages": 720,
+            "description": "Buku ini mengisahkan tentang kehidupan empat sahabat yag berjuang keras dengan depresi, kekerasan seksual, dan penyalahgunaan zat terlarang, meskipun begitu buku ini juga memuat kisah tentang persahabatan, cinta, dan kasih sayang ."
+        },
+        {
+            "isbn": "9786020454153",
+            "title": "Salt To The Sea",
+            "author": "Ruta Sepetys",
+            "published": "Jakarta, 2023",
+            "publisher": "Gramedia Pustaka Utama",
+            "pages": 372,
+            "description": "Buku ini mengisahkan tentang tragedi yang terjadi pada kapal Wilhelm Gustloff di tahun 1945."
+        },
+        {
+            "isbn": "9786020621906",
+            "title": "Pembunuhan di Nihonbashi",
+            "author": "Keigo Higashino",
+            "published": "Jakarta, 2020",
+            "publisher": "Gramedia Pustaka Utama",
+            "pages": 304,
+            "description": "Buku ini mengisahkan tentang detektif Kaga yang bertugas untuk mengungkap tersangka di dalam kasus pembunuhan seorang perempuan di daerah Nihonbashi."
+        },
+        {
+            "isbn": "9786020662503",
+            "title": "Anxious People",
+            "author": "Fredrik Backman",
+            "published": "Jakarta, 2022",
+            "publisher": "Gramedia Pustaka Utama",
+            "pages": 424,
+            "description": "Buku ini mengisahkan sekelompok perampok yang gagal dan menyandera sekelompok orang asing di sebuah apartemen."
+        },
+        {
+            "isbn": "9786237351948",
+            "title": "Cinderella Addiction",
+            "author": "Akiyoshi Rikako",
+            "published": "Jakarta, 2023",
+            "publisher": "Penerbit Haru",
+            "pages": 264,
+            "description": "Buku ini mengisahkan tentang Sakura yang hidupnya dipenuhi kemalangan, dia hanya bermimpi untuk bisa hidup dengan bahagia."
+        },
+        {
+            "isbn": "9780143132295",
+            "title": "Love for imperfect things",
+            "author": "Haemin Sunim",
+            "published": "USA, 2018",
+            "publisher": "Penguin Publisher",
+            "pages": 272,
+            "description": "Buku ini mengisahkan tentang cara mencintai ketidaksempurnaan yang ada di dalam hidup."
+        },
+        {
+            "isbn": "9789799731234",
+            "title": "Bumi Manusia",
+            "author": "Pramoedya Ananta Toer",
+            "published": "Jakarta, 2005",
+            "publisher": "Lentera Dipantara",
+            "pages": 551,
+            "description": "Buku ini mengisahkan tentang perjuangan tokoh Minke yang memperjuangkan kedudukan pribumi melawan diskriminasi Belanda pada masa kolonial Belanda di awal abad keduapuluh."
+        }
+    ]
+}
