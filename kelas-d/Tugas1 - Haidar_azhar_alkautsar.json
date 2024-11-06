@@ -1,0 +1,91 @@
+{
+  "no 1": {
+    "judul": "Laskar Pelangi",
+    "penulis": "Andrea hirata",
+    "penerbit": "Bentang Pustaka",
+    "tahun": 2005,
+    "bahasa": ["Indonesia", "Inggris", "Jepang"],
+    "buku terjemahan": false
+  },
+
+  "no 2": {
+    "judul": "Bumi : Serial bumi",
+    "penulis": "Tere liye",
+    "penerbit": "Gramedia pustaka utama",
+    "tahun": 2014,
+    "bahasa": ["Indonesia", "Inggris"],
+    "buku terjemahan": false
+  },
+
+  "no 3": {
+    "judul": "Harry potter dan batu bertuah",
+    "penulis": " J.K. Rowling",
+    "penerbit": "Gramedia Pustaka Utama",
+    "tahun": 2000,
+    "bahasa": ["Indonesia", "Inggris", "Jepang"],
+    "buku terjemahan": true
+  },
+
+  "no 4": {
+    "judul": "Vengeful : pembalasan",
+    "penulis": " V. E. Schwab",
+    "penerbit": "Gramedia Pustaka Utama",
+    "tahun": 2019,
+    "bahasa": ["Indonesia", "Inggris", "Jerman"],
+    "buku terjemahan": true
+  },
+
+  "no 5": {
+    "judul": "Bumi Manusia",
+    "penulis": " Pramoedya Ananta Toer",
+    "penerbit": "Lentera Dipantara",
+    "tahun": 1980,
+    "bahasa": ["Indonesia", "Inggris", "Jepang", "Jerman"],
+    "buku terjemahan": false
+  },
+
+  "no 6": {
+    "judul": "Ayat-ayat cinta : novel pembangun jiwa",
+    "penulis": " Habiburrahman El Shirazy",
+    "penerbit": "Penerbit Republika",
+    "tahun": 2004,
+    "bahasa": ["Indonesia"],
+    "buku terjemahan": false
+  },
+
+  "no 7": {
+    "judul": "Dry : Kering",
+    "penulis": " Neal Shusterman",
+    "penerbit": "Gramedia Pustaka Utama",
+    "tahun": 2020,
+    "bahasa": ["Indonesia", "Inggris"],
+    "buku terjemahan": true
+  },
+
+  "no 8": {
+    "judul": "Funiculi Funicula Part 1",
+    "penulis": " Toshikazu Kawaguchi",
+    "penerbit": "Gramedia Pustaka Utama",
+    "tahun": 2021,
+    "bahasa": ["Indonesia", "Inggris", "Jepang"],
+    "buku terjemahan": true
+  },
+
+  "no 9": {
+    "judul": "Laut bercerita",
+    "penulis": " Leila S. Chudori",
+    "penerbit": "Kepustakaan Populer Gramedia (KPG) ",
+    "tahun": 2017,
+    "bahasa": ["Indonesia", "Inggris"],
+    "buku terjemahan": false
+  },
+
+  "no 10": {
+    "judul": "Cantik itu luka",
+    "penulis": " Eka kurniawan",
+    "penerbit": "Gramedia Pustaka Utama",
+    "tahun": 2002,
+    "bahasa": ["Indonesia"],
+    "buku terjemahan": false
+  }
+}
