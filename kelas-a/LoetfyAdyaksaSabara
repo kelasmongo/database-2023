@@ -1,0 +1,96 @@
+{
+    "books": [
+        {
+            "isbn": "979-605-886-3",
+            "title": "Lupus",
+            "subtitle": "The Lost Boy Salah Culik",
+            "author": "Hilman",
+            "published": "Jakarta, Mei 2004",
+            "publisher": "Gramedia Pustaka Utama; Cet.7",
+            "pages": 160,
+            "description": "Berkisah tentang seorang penculik yang salah menangkap orang, yang malah menyebabkan penculik tersebut mengalami kerugian."
+        },
+        {
+            "isbn": "978-623-97262-8-7",
+            "title": "Bulan",
+            "author": "Tere Liye",
+            "published": "Jakarta, 2023",
+            "publisher": "Sabak Grip Nusantara",
+            "pages": 398,
+            "description": "Buku ini merupakan lanjutan dari perjalanan Raib dan dua temannya ke dunia ke dunia antah berantah."
+        },
+        {
+            "isbn": "979-3925-39-6",
+            "title": "Ilmu Sosial dan Budaya Dasar",
+            "author": "Elly M. Setiadi, DKK",
+            "published": "Jakarta, 2006",
+            "publisher": "Kencana; cet.1",
+            "pages": 196,
+            "description": "Buku ini menjelaskan prinsip-prinsip pokok tentang pemahaman diri dan lingkungan sekitar."
+        },
+        {
+            "isbn": "978-602-7544-47-5",
+            "title": "Antropologi Budaya",
+            "author": "R. Warsito",
+            "published": "Yogyakarta, 2015",
+            "publisher": "Ombak; cet.2",
+            "pages": 106,
+            "description": "Buku ini disusun secara khusus untuk menyediakan bahan ajaran dan referensi bagi mahasiswa dan bangsa indonesia yang berbudaya."
+        },
+        {
+            "isbn": "979-3421-85-1",
+            "title": "Undang-Undang Perikanan 2004",
+            "author": "Redaksi Sinar Grafika",
+            "published": "Jakarta, 2006",
+            "publisher": "Sinar Grafikaa; cet.2",
+            "pages": 84,
+            "description": "Buku ini memaparkan perundang-undangan tentang perikanan yang diterbitkan oleh pemerintah republik indonesia."
+        },
+        {
+            "title": "Media Penilian Autentik",
+            "subtitle": "Biologi",
+            "author": "Tim Penulis Tiga Serangkai Pustaka Mandiri",
+            "published": "Solo, 2020",
+            "publisher": "PT Tiga Serangkai Pustaka Mandiri",
+            "pages": 106,
+            "description": "Buku yang menjalaskan kumpulan-kumpulan materi bagi para siswa jurusan Ilmu Pengetahuan Alam."
+        },
+        {
+            "isbn": "979-623-88296-7-5",
+            "title": "Tanah Para Bandit",
+            "author": "Tere Liye",
+            "published": "Jawa Barat",
+            "publisher": "Sabak Grip Nusantara",
+            "pages": 436,
+            "description": "Buku ini adalah buku ke-7 dari serial aksi tere liye. Setelah seri-seri lainnya di publikasikan."
+        },
+        {
+            "isbn": "978-602-8997-90-4",
+            "title": "Rindu",
+            "author": "Tere Liye",
+            "published": "Jakarta, 2014",
+            "publisher": "Republika",
+            "pages": 544,
+            "description": "Ini adalah kisah berbagai macam individu yang bersatu dalam sebuah perjalan panajng kerinduan."
+        },
+        {
+            "isbn": "978-602-03-3295-6",
+            "title": "Bumi",
+            "author": "Tere Liye",
+            "published": "Jakarta, 2016",
+            "publisher": "Gramedia Pustaka Utama",
+            "pages": 440,
+            "description": "Seorang remaja perempuan berusia 15 tahun yang tiba-tiba memiliki kekuatan bisa menghilangkan dirinya sendiri, dia adalah raib."
+        },
+        {
+            "isbn": "979-780-619-7",
+            "title": "Pandangan Pertama",
+            "subtitle": "Ada hadirmu di mataku",
+            "author": "Yoana Dianika",
+            "published": "Jakarta, 2013",
+            "publisher": "Gagas Media",
+            "pages": 418,
+            "description": "Seorang perempuan tomboy yang menyukai breakdance dipertemukan dengan laki-laki lembut dan pintar, akankah cinta keduanya bersemi seperti di film-film?."
+        }
+    ]
+}
