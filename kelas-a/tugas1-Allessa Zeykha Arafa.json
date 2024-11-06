@@ -1,1 +1,108 @@
-
+{
+    "books":[
+        {
+            "isbn":"978-602-60644-3-1",
+            "title":"Surat Kecil dari Surga",
+            "subtitle":"Keikhlasan gadis kecil melawan penyakit yang mematikan",
+            "author":"Kirana Kejora",
+            "published":"Jakarta Timur, 2017",
+            "publisher":"HI-FEST Production",
+            "pages":182,
+            "description":"Namun aku telah puas menangis kali ini. Tangisanku terakhir, air mata yang kujanjikan keluar hanya sekali. Setelah itu harus kujadikan batu air mata berdarah ini. Sungguhpun begitu, aku tetap memohon pertolongan, perlindungan & cintamu untuk anak titipanmu"
+        },
+        {
+            "isbn":"978-602-434-219-7",
+            "title":"Nihongo Kirakira",
+            "subtitle":"Bahasa Jepang untuk SMA/MA KELAS X",
+            "author":"Japan Foundation",
+            "published":"Jakarta, 2017",
+            "publisher":"Japan Foundation",
+            "pages":203,
+            "description":"Buku ini disusun untuk kebutuhan pembelajaran Bahasa Jepang di SMA/MA yang sesuai kurikulum 2013 yang dievisi 2016, untuk mengasah kemampuan siswa berbahasa Jepang. Buku ini juga memiliki audio yang dapat didengarkan pada website yang tertera dibelakang buku ini."
+        },
+        {
+            "isbn":"978-533-746-7",
+            "title":"Konsep Dasar Pemrograman Bahasa C",
+            "author":"Jogiyanto Hartono",
+            "published":"Yogyakarta, 2002",
+            "publisher":"ANDI",
+            "pages":"585",
+            "description":"Buku ini membahas tentang konsep dasar pemrograman dengan Bahasa C yang sesuai standar dari ANSI (American National Standars Institute). Yang termasuk di dalam standar ini diantaranya adalah Turbo C. Semua program yang ada di buku ini dapat dijalankan di Turbo C versi 2.0."
+        },
+        {
+            "isbn":"978-071-468-104-7",
+            "title":"Scotland Decides",
+            "subtitle":"The Devolution Issue and the 1997 Referendum",
+            "author":"David Denver, dkk.",
+            "published":"London, 2000",
+            "publisher":"Frank Class",
+            "pages":460,
+            "description":"Buku ini ditulis dalam Bahasa Inggris. Dalam buku ini adalah kisah tentang bagaimana parlemen pertama Skotlandia terbentuk dalam 300 tahun. Kisah ini menelusuri asal-usul dan sejarah tuntutan pemerintahan sendiri, dengan fokus khusus pada perkembangan setelah kegagalan referendum pertama pada tahun 1979."
+        },
+        {
+            "isbn":"978-602-242-362-1",
+            "title":"While Only",
+            "subtitle":"semua indah pada waktunya",
+            "author":"Hilda Liliana",
+            "published":"Bandung, 2014",
+            "publisher":"DAR! Mizan",
+            "pages":180,
+            "description":"Daph dan Qimmy adalah dua bersaudara yang selalu bertengkar sebagai kakak darri kedua bersaudara tersebut Michele selalu berusaha untuk mendamaikan mereka. Lalu apa saja yang akan dilakukan oleh Michele."
+        },
+        {
+            "isbn":"978-623-00-1345-4",
+            "title":"Moriarty the patriot 9",
+            "subtitle":"Yukoku no Moriarty 9",
+            "author":"pengarang, Ryosuke Takeuchi, Hikaru Miyoshi ; alih bahasa, Adrian ; editor, Louis",
+            "published":"Jakarta, 2020",
+            "publisher":"Elex Media Komputindo",
+            "description":"Komik ini menceritan tentang penyelidikan Milverton atas musuh barunya tiba pada sebuah catatan sidang. Dalam sidang ini, seorang anak dari kalangan kelas bawah berhasil memenangkan tuntutannya atas seorang bangsawan. Ini adalah sepotong dari kisah masa lalu William."
+        },
+        {
+            "issn":"1693-5454",
+            "title":"Nakayoshi Gress!",
+            "subtitle":"Majalah Komik UniQ & Trendy",
+            "author":"Elex Media Komputindo",
+            "published":"Jakarta, Maret 2004",
+            "publisher":"Elex Media Komputindo",
+            "description":"Frekuensi terbit : Setiap Bulan. Merupakan majalah terjemahan dari bahsa Jepang dengan nama yang sama."
+        },
+        {
+            "isbn":"978-602-6466-02-0",
+            "title":"The memoirs of sherlock holmes",
+            "subtitle":"Koleksi memoar sherlock holmes",
+            "author":"Sir Arthur Conan Doyle ; penerjemah, Ismanto, Ahmad Asnawi, Sutrisno",
+            "published":"Yogyakarta, 2016",
+            "publisher":"Penerbit Indoliterasi",
+            "pages":289,
+            "description":"Buku yang mengisahkan tentang mata-mata yang agak berbeda dari kisah-kisah sherlock kebanyakan yang bernuansa detektif. penerbitan buku ini terasa heroik karena bertepatan dengan perang dunia pertama dan dianggap sebagai alat propaganda untuk membangkitkan semangat dan moralitas pembaca inggris. Di dalam buku ini terdiri dari beberapa judul, diantaranya: Silver blaze, The Yellow Face, The Stockbroker’s Clerk, The Gloria Scott, The Musgrave Ritual, The Reigate Puzzle, The Crooked Man, The Resident Patient, The Greek Interpreter, The Naval Treaty, dan The Final Problem. reference and improve the productivity of your software teams. This open access book collects the wisdom of the 2017 \"Dagstuhl\" seminar on productivity in software engineering, a meeting of community leaders, who came together with the goal of rethinking traditional definitions and measures of productivity."
+        },
+        {
+            "isbn":"978-098-0200-48-5",
+            "title":"So you want to be a librarian",
+            "author":"Lauren Pressley",
+            "published":"Minnesota, 2009",
+            "publisher":"Library Juice Press",
+            "pages":213,
+            "description":"So You Want To Be a Librarian membahas berbagai hal mengenai pusakawan, ilmu perpustakaan hingga berbagai seluk beluk perpustakaan secara ringkas dan lengkap. Pembahasan dimulai dari berbagai jenis perpustakaan yang ada di dunia hingga berbagai jenis organisasi pengelolanya. Kemudian pembahasan berlanjut mengenai berbagai hal pekerjaan pustakwan, isu-isu profesional hingga pendidikan formal yang harus ditempuh untuk mendapatkan gelar pustakawan."
+        },
+        {
+            "isbn":"978-602-255-767-8",
+            "title":"The return of sherlock holmes",
+            "subtitle":"Sherlock Holmes : petualangan di rumah kosong",
+            "author":"Sir Arthur Conan Doyle ; penerjemah, Dion, Busyra, Amin ; editor, Julie",
+            "published":"Yogyakarta, 2014",
+            "publisher":"DIVA Pres",
+            "pages":320,
+            "description":"Dalam buku ini, dihadirkan cerita-cerita terbaik yang akan mengajak pembaca bertualang mendampingi Sherlock Holmes dan Dokter Watson mengungkap berbagai kejahatan yang mengancam kedamaian London dan juga Eropa, termasuk pertemuan dengan sang rival terberat, Profesor Moriarty yang demikian melegenda. Perseteruan brilian keduanya sudah berlangsung lama dan mengarah pada sebuah ending yang sulit diterima akal sehat dengan tewasnya sang detektif di tangan sang profesor. Benarkah dunia akan benar-benar kehilangan Holmes untuk selamanya ataukah hanya strategi genius untuk mengelabui Moriarty? Kembali pembaca diajak menyusuri kota London dengan kabut pekatnya hingga sepinya pedalaman Surrey. Perjalanan Sherlock Holmes selalu menawarkan penghiburan sekaligus petualangan yang teramat seru!"
+        },
+        {
+            "isbn":"978-623-0301-93-3",
+            "title":"Haikyuu!! Fly High! Volleyball 22",
+            "author":"Furudate Haruichi",
+            "published":"Jakarta Pusat, 2021",
+            "publisher":"M&C",
+            "description":"Pertandingan penentuan wakil Tokyo pun dimulai dengan SMA Nekoma dan Perguruan Fukurodani yang berhadapan di babak semifinal! Untuk mengatasi Bokuto dari Fukurodani yang sedang dalam kondisi prima, Nekoma mengandalkan dua orang: Yaku untuk menghadapinya secara langsung dan Kenma untuk menyusun rencana! Apakah akhirnya mereka akan berhasil mengalah- kan Bokuto?!"
+        }
+    ]
+}
