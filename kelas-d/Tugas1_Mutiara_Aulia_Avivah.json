@@ -1,0 +1,132 @@
+{
+    "Buku Ke-1": [
+        {
+            "Judul": "Monograf Kesantunan Bahasa",
+            "Pengarang": "Nuniek Setya Sukmayani",
+            "Tempat Terbit": "Yogyakarta",
+            "Tahun Terbit": "2023",
+            "Penerbit": "Deepublish",
+            "Halaman": "105 halaman",
+            "ISBN": "978-623-02-6756-7",
+            "Bahasa": "Indonesia",
+            "Fiksi": false
+        }
+    ],
+    "Buku Ke-2": [
+        {
+            "Judul": "The Star and I",
+            "Pengarang": "Ilana Tan",
+            "Tempat Terbit": "Jakarta",
+            "Tahun Terbit": "2021",
+            "Penerbit": "Gramedia Pustaka Utama",
+            "Halaman": "337 halaman",
+            "ISBN": "978-602-06-4966-5",
+            "Bahasa": "Indonesia",
+            "Fiksi": true
+        }
+    ],
+    "Buku Ke-3": [
+        {
+            "Judul": "Manajemen Pemasaran",
+            "Pengarang": "Melati",
+            "Tempat Terbit": "Sleman",
+            "Tahun Terbit": "2020",
+            "Penerbit": "Deepublish",
+            "Halaman": "162 halaman",
+            "ISBN": "978-623-02-1880-4",
+            "Bahasa": "Indonesia",
+            "Fiksi": false
+        }
+    ],
+    "Buku Ke-4": [
+        {
+            "Judul": "Cerpenku",
+            "Pengarang": "Inayah Putri Wibowo",
+            "Tempat Terbit": "Kebumen",
+            "Tahun Terbit": "2018",
+            "Penerbit": "Intishar Publishing",
+            "Halaman": "46 halaman",
+            "ISBN": "978-602-5909-26-9",
+            "Bahasa": "Indonesia",
+            "Fiksi": true
+        }
+    ],
+    "Buku Ke-5": [
+        {
+            "Judul": "Psikologi Kepribadian dan Psikologi Kepemimpinan",
+            "Pengarang": "Sudjiwanati",
+            "Tempat Terbit": "Malang",
+            "Tahun Terbit": "2000",
+            "Penerbit": "Asrori",
+            "Halaman": "128 halaman",
+            "ISBN": "979-952-374-5",
+            "Bahasa": "Indonesia",
+            "Fiksi": false
+        }
+    ],
+    "Buku Ke-6": [
+        {
+            "Judul": "Surat Cinta Tanpa Nama",
+            "Pengarang": "Pit Sansi",
+            "Tempat Terbit": "Yogyakarta",
+            "Tahun Terbit": "2020",
+            "Penerbit": "Bntang Belia",
+            "Halaman": "268 halaman",
+            "ISBN": "978-602-430-619-9",
+            "Bahasa": "Indonesia",
+            "Fiksi": true
+        }
+    ],
+    "Buku Ke-7": [
+        {
+            "Judul": "Promosi Kesehatan dan Pendidikan Kesehatan",
+            "Pengarang": "Eti Wati",
+            "Tempat Terbit": "Cirebon",
+            "Tahun Terbit": "2017",
+            "Penerbit": "LovRinz Publishing",
+            "Halaman": "150 halaman",
+            "ISBN": "978-602-5557-03-3",
+            "Bahasa": "Indonesia",
+            "Fiksi": false
+        }
+    ],
+    "Buku Ke-8": [
+        {
+            "Judul": "Iris",
+            "Pengarang": "Innayah Putri",
+            "Tempat Terbit": "Yogyakarta",
+            "Tahun Terbit": "2019",
+            "Penerbit": "Penerbit Bentang Belia",
+            "Halaman": "150 halaman",
+            "ISBN": "978-602-430-439-3",
+            "Bahasa": "Indonesia",
+            "Fiksi": true
+        }
+    ],
+    "Buku Ke-9": [
+        {
+            "Judul": "Perspektif Pendidikan Inklusif : Pendidikan untuk Semua",
+            "Pengarang": "Tarmansyah",
+            "Tempat Terbit": "Padang",
+            "Tahun Terbit": "2019",
+            "Penerbit": "Universitas Negeri Padang Press",
+            "Halaman": "260 halaman",
+            "ISBN": "978-979-8587-70-2",
+            "Bahasa": "Indonesia",
+            "Fiksi": false
+        }
+    ],
+    "Buku Ke-10": [
+        {
+            "Judul": "Wawasan Al-Quran : Tafsir Tematik Atas Perbagai Persoalan Umat",
+            "Pengarang": "M. Quraish Shihab",
+            "Tempat Terbit": "Bandung",
+            "Tahun Terbit": "2014",
+            "Penerbit": "Mizan",
+            "Halaman": "764 halaman",
+            "ISBN": "978-979-433-825-4",
+            "Bahasa": "Indonesia",
+            "Fiksi": false
+        }
+    ]
+}
