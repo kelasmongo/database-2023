@@ -1,5 +1,5 @@
-{
-  {"books_1" : {
+ {
+   "books_1" : {
     "title" : "xxx",
     "subtitle" : "xxx",
     "author" : "xxx",
@@ -8,10 +8,9 @@
     "year" : "xxx",
     "isbn" : "xxx",
     "pages" : "xxx",
-    "genre" : "xxx",
-    "available" : "yes" }
-  },
-  {"books_2" : {
+    "genre" : "xxx"
+   },
+    "books_2" : {
     "title" : "xxx",
     "subtitle" : "xxx",
     "author" : "xxx",
@@ -20,10 +19,9 @@
     "year" : "xxx",
     "isbn" : "xxx",
     "pages" : "xxx",
-    "genre" : "xxx",
-    "available" : "yes"
-  },
-  {"books_3" : {
+    "genre" : "xxx"
+    },
+    "books_3" : {
     "title" : "xxx",
     "subtitle" : "xxx",
     "author" : "xxx",
@@ -32,10 +30,9 @@
     "year" : "xxx",
     "isbn" : "xxx",
     "pages" : "xxx",
-    "genre" : "xxx",
-    "available" : "yes"
-  },
-  {"books_4" : {
+    "genre" : "xxx"
+    },
+    "books_4" : {
     "title" : "xxx",
     "subtitle" : "xxx",
     "author" : "xxx",
@@ -44,10 +41,9 @@
     "year" : "xxx",
     "isbn" : "xxx",
     "pages" : "xxx",
-    "genre" : "xxx",
-    "available" : "yes"
-  },
-  {"books_5" : {
+    "genre" : "xxx"
+    },
+    "books_5" : {
     "title" : "xxx",
     "subtitle" : "xxx",
     "author" : "xxx",
@@ -56,10 +52,9 @@
     "year" : "xxx",
     "isbn" : "xxx",
     "pages" : "xxx",
-    "genre" : "xxx",
-    "available" : "true"
-  },
-  {"books_6" : {
+    "genre" : "xxx"
+    },
+    "books_6" : {
     "title" : "xxx",
     "subtitle" : "xxx",
     "author" : "xxx",
@@ -68,10 +63,9 @@
     "year" : "xxx",
     "isbn" : "xxx",
     "pages" : "xxx",
-    "genre" : "xxx",
-    "available" : "true"
-  },
-  {"books_7" : {
+    "genre" : "xxx"
+    },
+    "books_7" : {
     "title" : "xxx",
     "subtitle" : "xxx",
     "author" : "xxx",
@@ -80,10 +74,9 @@
     "year" : "xxx",
     "isbn" : "xxx",
     "pages" : "xxx",
-    "genre" : "xxx",
-    "available" : "true"
-  },
-  {"books_8" : {
+    "genre" : "xxx"
+    },
+    "books_8" : {
     "title" : "xxx",
     "subtitle" : "xxx",
     "author" : "xxx",
@@ -92,10 +85,9 @@
     "year" : "xxx",
     "isbn" : "xxx",
     "pages" : "xxx",
-    "genre" : "xxx",
-    "available" : "true"
-  },
-  {"books_9" : {
+    "genre" : "xxx"
+    },
+    "books_9" : {
     "title" : "xxx",
     "subtitle" : "xxx",
     "author" : "xxx",
@@ -104,10 +96,9 @@
     "year" : "xxx",
     "isbn" : "xxx",
     "pages" : "xxx",
-    "genre" : "xxx",
-    "available" : "true"
-  },
-  {"books_10" : {
+    "genre" : "xxx"
+    },
+    "books_10" : {
     "title" : "xxx",
     "subtitle" : "xxx",
     "author" : "xxx",
@@ -116,7 +107,6 @@
     "year" : "xxx",
     "isbn" : "xxx",
     "pages" : "xxx",
-    "genre" : "xxx",
-    "available" : "true"
-  },
-}
+    "genre" : "xxx"
+    }
+ }
