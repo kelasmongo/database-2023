@@ -6,9 +6,10 @@
     "publisher": "Pastel Books",
     "place": "Bandung",
     "year": 2015,
-    "isbn": "9786027870413",
+    "isbn": "978-602-7870-41-3",
     "pages": ,
-    "genre": "Fiksi"
+    "genre": "Fiksi",
+    "available": true
    },
     "books_2" : {
      "title": "Dikta & Hukum",
@@ -16,9 +17,10 @@
      "publisher": "Asoka Aksara x Loveable",
      "place": "Jakarta",
      "year": "2021",
-     "isbn": "9786233100137,
-     "pages": "388",
-     "genre": "Fiksi"
+     "isbn": "978-623-310-013-7",
+     "pages": 388,
+     "genre": "Fiksi",
+     "available": false
     },
     "books_3": {
      "title": "Rumah Kaca",
@@ -26,84 +28,87 @@
      "publisher": "Lentera Dipantara",
      "place": "Jakarta",
      "year": "1988",
-     "isbn": 9799731267,
-     "pages": "x, 646",
+     "isbn": "979-97312-6-7",
+     "pages": 646,
      "genre": "Fiksi"
+     "available": true
     },
     "books_4": {
-     "title": "Hujan",
+     "title": "Rindu",
      "author": "Tere Liye",
-     "publisher": "Gramedia Pustaka Utama",
+     "publisher": "Republika Penerbit",
      "place": "Jakarta",
-     "year": "2018",
-     "isbn": 9786020324784,
-     "pages": "xxx",
-     "genre": "xxx"
+     "year": "2014",
+     "isbn": "978-602-8997-90-4",
+     "pages": 544,
+     "genre": "Fiksi",
+     "available": true
     },
     "books_5": {
-     "title": "xxx",
-     "subtitle": "xxx",
-     "author": "xxx",
-     "publisher": "xxx",
-     "place": "xxx",
-     "year": "xxx",
-     "isbn": "xxx",
-     "pages": "xxx",
-     "genre": "xxx"
+     "title": "Kata",
+     "author": "Rintik Sedu",
+     "publisher": "Gagas Media",
+     "place": "Jakarta",
+     "year": 2018,
+     "isbn": "978-979-780-932-4",
+     "pages": 389,
+     "genre": "Fiksi"
+     "available": false
     },
     "books_6": {
-     "title": "xxx",
-     "subtitle": "xxx",
-     "author": "xxx",
-     "publisher": "xxx",
-     "place": "xxx",
-     "year": "xxx",
-     "isbn": "xxx",
-     "pages": "xxx",
-     "genre": "xxx"
+     "title": "Malam terakhir",
+     "author": "Laila S. Chudori",
+     "publisher": "Kepustakaan Populer Gramedia",
+     "place": "Jakarta",
+     "year": 2017,
+     "isbn": "978-602-424-132-2",
+     "pages": 117,
+     "genre": "Fiksi"
+     "available": false
     },
     "books_7": {
-     "title": "xxx",
-     "subtitle": "xxx",
-     "author": "xxx",
-     "publisher": "xxx",
-     "place": "xxx",
-     "year": "xxx",
-     "isbn": "xxx",
-     "pages": "xxx",
-     "genre": "xxx"
+     "title": "After School Horror",
+     "author": "Nana R. Pratini",
+     "publisher": "Bukune",
+     "place": "Jakarta",
+     "year": 2013,
+     "isbn": "602-220-102-0",
+     "pages": 164,
+     "genre": "Fiksi",
+     "available": true
     },
     "books_8": {
-     "title": "xxx",
-     "subtitle": "xxx",
-     "author": "xxx",
-     "publisher": "xxx",
-     "place": "xxx",
-     "year": "xxx",
-     "isbn": "xxx",
-     "pages": "xxx",
-     "genre": "xxx"
+     "title": "Dear Nathan",
+     "author": "Erisca Febriani",
+     "publisher": "PT Melvana Media Indonesia",
+     "place": "Depok",
+     "year": 2016,
+     "isbn": "978-602-6940-14-8",
+     "pages": 528,
+     "genre": "Fiksi",
+     "available": true
     },
     "books_9": {
-     "title": "xxx",
-     "subtitle": "xxx",
-     "author": "xxx",
-     "publisher": "xxx",
-     "place": "xxx",
-     "year": "xxx",
-     "isbn": "xxx",
-     "pages": "xxx",
-     "genre": "xxx"
+     "title": "Malam Tanpa Akhir",
+     "author": "Agatha Christie",
+     "publisher": "PT Kompas Media Nusantara",
+     "place": "Jakarta",
+     "year": 2012,
+     "isbn": "978-979-22-8262-7",
+     "pages": 301,
+     "genre": "Fiksi"
+     "available": true
     },
     "books_10": {
-     "title": "xxx",
-     "subtitle": "xxx",
-     "author": "xxx",
-     "publisher": "xxx",
-     "place": "xxx",
-     "year": "xxx",
-     "isbn": "xxx",
-     "pages": "xxx",
-     "genre": "xxx"
+     "title": "Funiculi Funicula",
+     "subtitle": "Before the Coffe Gets Cold",
+     "author": "Tozhikazu Kawaguchi",
+     "publisher": "Gramedia Pustaka Utama",
+     "place": "Jakarta",
+     "year": 2021,
+     "isbn": "978-602-0651-92-7",
+     "pages": 223,
+     "genre": "Fiksi",
+     "available": false
     }
  }
