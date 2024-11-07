@@ -1,0 +1,103 @@
+{
+        "books":[
+            {
+                "title":"Setelah kamu pergi : sakitnya ditinggalkanmu saat aku sedang cinta-cintanya",
+                "author(S)":"Dwitasari;, editor, Eka Saputra",
+                "edition":"cetakan pertama",
+                "isbn":"978-602-430-101-9",
+                "publisher":"Bentang Belia",
+                "published":"Yogyakarta, 2017",
+                "collation":"vi, 170 halaman.; ilustrasi; 20,8 cm",
+                "abstract":"Buku ini menceritakan tentang kisah cinta seorang wanita yang ditinggalkan sang kekasih saat sedang cinta-cintanya"
+        },
+        {
+                "title":"Penciptaan bumi: dalam perspektif Al-Qur'an dan sains",
+                "author(S)":"Lajnah Pentashihan Mushaf Al-Qur'an, Badan Litbang & Diklat Kementrian Agama RI & Lembaga Ilmu Pengetahuan Indonesia",
+                "edition":"cetakan pertama",
+                "isbn":"978-602-97653-1-1",
+                "publisher":"Lajnah Pentashihan Mushaf Al-Qur'an",
+                "published":"Jakarta, 2010",
+                "collation":"xiv, 140 halaman.; ilustrasi.; 25 cm + indeks",
+                "abstract":"Buku ini berisi penjelasan atas proses penciptaan bumi dengan meninjau dari dua perspektif sekaligus, yaitu diolah dari ayat-ayat yang ada dalam Al-Qur'an dan menggabungkannnya dengan sains modern"
+        },
+        {
+                "title":"Bangkok rasa lokal: wisata anti-mainstream di Bangkok dan sekitarnya",
+                "author(S)":"Irene Dyah, Decita Tutyastri, Pungky Utami",
+                "edition":"cetakan pertama",
+                "isbn":"978-602-03-3886-6",
+                "publisher":"PT Gramedia Pustaka Utama",
+                "published":"Jakarta, 2017",
+                "collation":"xiv, 210 halaman.; 20 cm",
+                "abstract":"Buku ini menyajikan tentang sudut pandang berbeda tentang destinasi warga di Bangkok dan sekitarnya"
+        },
+        {
+                "title":"Zero to one: membangun startup membangun masa depan",
+                "author(S)":"Thiel, Peter & Masters, Blake; penerjemah, Alex Tri Kanjtono Widodo",
+                "edition":"cetakan kedua",
+                "isbn":"978-602-03-2146-2",
+                "publisher":"PT Gramedia Pustaka Utama",
+                "published":"Jakarta, 2016",
+                "collation":"v, 24 halaman.; ilustrasi, 21 cm",
+                "abstract":"Buku ini mengungkapkan cara membangun sebuah perusahaan startup sukses yang mampu menjawab tantangan masa depan yang penuh dengan ketidakpastian"
+        },
+        {
+                "title":"Syarah taiyyatulabri wa'irobiha",
+                "author(S)":"Sulaiman bin Abdullah bin Khalfan Lauaihy",
+                "edition":"edisi pertama",
+                "publisher":"Maktabah Watasjilat Al-Hilal Al-Islamiyah",
+                "published":"Oman, 2014",
+                "collation":"201 halaman.; 24 cm",
+                "abstract":"Buku ini berisi penjelasan Ta'iyya Al-Albiri dan penguraiannya"
+        },
+        {
+                "title":"Undang-undang perbankan: uu no.10 th. 1998 tentang perubahan undang-undang nomor 7 tahun 1992 tentang perbankan",
+                "author(S)":"Redaksi Sinar Grafika",
+                "edition":"cetakan keenam",
+                "publisher":"Sinar Grafika",
+                "published":"Jakarta, 2007",
+                "collation":"xiv, 140 halaman.; ilustrasi.; 25 cm + indeks",
+                "abstract":"Buku ini dilengkapi dengan undang-undang nomor 7 tahun 1992 tentang perbankan"
+        },
+        {
+                "title":"Bobo: teman bermain dan belajar",
+                "author(S)":"GRID Network",
+                "edition":"edisi 27",
+                "frequency":"weekly",
+                "publisher":"GRID Network",
+                "published":"Jakarta, 1973-2024",
+                "collation":"...jilid.; ilustrasi.; 27 cm",
+                "abstract":"Buku ini berisi mengenai flaura, fauna, batik, warna pakaian, dan planet, pengalaman kegiatan, komik, dongeng, film, cerpen, karya puisi anak, reportase"
+        },
+        {
+                "title":"Papah Bumi & Bumi",
+                "author(S)":"Hellnyla; penyunting., Arasy Nurjatmika",
+                "edition":"cetakan pertama",
+                "isbn":"978-623-09-9240-7",
+                "publisher":"Black Swan Books",
+                "published":"Jakarta, 2024",
+                "collation":"vi, 214 halaman.; 20,5 cm",
+                "abstract":"Buku ini menceritakan tentang perjuangan Abimana Hadikala, seorang ayah tunggal yang kuat dalam mencari sosok ibu baru bagi putranya, Bumi"
+        },
+        {
+                "title":"Alien itu memilihku: kisah nyata Indah Melati Setiawan menghadapi kanker langka",
+                "author(S)":"Feby Indirani",
+                "edition":"cetakan pertama",
+                "isbn":"978-602-03-0541-7",
+                "publisher":"PT Gramedia Pustaka Utama",
+                "published":"Jakarta, 2014",
+                "collation":"vi, 301 halaman.; ilustrasi; 20 cm",
+                "abstract":"Buku ini menceritakan tentang kehidupan seorang wanita profesional Jakarta yang aktif dan dinamis tiba-tiba berubah 180 derajat karena kanker yang dideritanya" 
+        },
+        {
+                "title":"Perundang-undangan lengkap tentang peradilan umum, peradilan khusus, dan mahkamah konstitusi",
+                "author(S)":"Achmad Fauzan, SH., LL.M",
+                "edition":"edisi revisi, cetakan ketiga",
+                "isbn":"979-3465-60-3",
+                "publisher":"Prenada Media",
+                "published":"Jakarta, 2009",
+                "collation":"xxii, 650 halaman.; 23 cm",
+                "abstract":"Buku ini menyajikan potret utuh sistem peradilan di Indonesia yang dituangkan dalam rangakaian undang-undang yang berkaitan dengan hal tersebut berikut penjelasannya"
+        }
+        ]
+
+}
