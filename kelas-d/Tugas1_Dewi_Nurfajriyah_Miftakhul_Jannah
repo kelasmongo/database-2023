@@ -5,8 +5,8 @@
             "Judul Buku" : "Dompet Ayah Sepatu Ibu",
             "Pengarang" : "J.S Khairen",
             "Penerbit" : "Gramedia Widiasarana",
-            "Tahun Terbit" : "2024",
-            "ISBN" : "9786020530282",
+            "Tahun Terbit" : 2024,
+            "ISBN" : 9786020530282,
             "Subjek" : "Self Improvement"
         }
     ],
@@ -17,8 +17,8 @@
             "Judul Buku" : "Seorang Pria Yang Melalui Duka Dengan Mencuci Piring",
             "Pengarang" : "dr. Andreas Kurniawan",
             "Penerbit" : "Gramedia Pustaka Utama",
-            "Tahun Terbit" : "2023",
-            "ISBN" : "9786020674674",
+            "Tahun Terbit" : 2023,
+            "ISBN" : 9786020674674,
             "Subjek" : "Novel Non Fiksi"
         }
     ],
@@ -29,8 +29,8 @@
             "Judul Buku" : "Mengola Peta Dijital",
             "Pengarang" : "Eddy Prahasta",
             "Penerbit" : "Informatika Bandung",
-            "Tahun Terbit" : "2013",
-            "ISBN" : "9786021514009",
+            "Tahun Terbit" : 2013,
+            "ISBN" : 9786021514009,
             "Subjek" : "Kartografi Digital"
         }
     ],
@@ -41,8 +41,8 @@
             "Judul Buku" : "Cartography Thematic Map Design",
             "Pengarang" : "Borden D. Dent",
             "Penerbit" : "McGraw Hill Companies",
-            "Tahun Terbit" : "1999",
-            "ISBN" : "0697384950",
+            "Tahun Terbit" : 1999,
+            "ISBN" : 0697384950,
             "Subjek" : "Kartografi"
         }
     ],
@@ -53,8 +53,8 @@
             "Judul Buku" : "Arsene Lupin",
             "Pengarang" : "Edger Jepson",
             "Penerbit" : "Bukune",
-            "Tahun Terbit" : "2011",
-            "ISBN" : "9786022200062",
+            "Tahun Terbit" : 2011,
+            "ISBN" : 9786022200062,
             "Subjek" : "Fiksi Prancis"
         }
     ],
@@ -64,8 +64,8 @@
         {
             "Judul Buku" : "The extraordinary adventure of arsene lupin",
             "Pengarang" : "Maurice leBlance, Edger Jepson",
-            "Penerbit" : "l",
-            "Tahun Terbit" : "2012",
+            "Penerbit" : "Bukune",
+            "Tahun Terbit" : 2012,
             "ISBN" : "6022200628",
             "Subjek" : "Fiksi Prancis"
         }
@@ -77,8 +77,8 @@
             "Judul Buku" : "Di Tanah Lada",
             "Pengarang" : "Ziggy Zezsyazeoviennazabrizkie",
             "Penerbit" : "Jakarta : Gramedia Pustaka Utama",
-            "Tahun Terbit" : "2021",
-            "ISBN" : "9786020318967",
+            "Tahun Terbit" : 2021,
+            "ISBN" : 9786020318967,
             "Subjek" : "Fiksi Indonesia"
         }
     ],
@@ -89,8 +89,8 @@
             "Judul Buku" : "Pengantar Ilmu Perpustakaan",
             "Pengarang" : "Sulistyo Basuki",
             "Penerbit" : "Tangerang Selatan : Universitas Terbuka",
-            "Tahun Terbit" : "2022",
-            "ISBN" : "9786233126908",
+            "Tahun Terbit" : 2022,
+            "ISBN" : 9786233126908,
             "Subjek" : "Perpustakaan"
         }
     ],
@@ -101,8 +101,8 @@
             "Judul Buku" : "Psychology and alchemy",
             "Penulis" : "Carl Gustav Jung",
             "Penerbit" : "London : Routledge and Kegan Paul",
-            "Tahun Terbit" : "1953",
-            "ISBN" : "9780415034524",
+            "Tahun Terbit" : 1953,
+            "ISBN" : 9780415034524,
             "Subjek" : "Psycology"
         }
     ],
@@ -113,8 +113,8 @@
             "Judul Buku" : "Sherlock holmes the valley of fear",
             "Penulis" : "Doyle, Sir Arthur Conan 1859-1930",
             "Penerbit" : "Immortal publishing",
-            "Tahun Terbit" : "2019",
-            "ISBN" : "9786025868658",
+            "Tahun Terbit" : 2019,
+            "ISBN" : 9786025868658,
             "Subjek" : "Novel Fiksi"
         }
     ]
