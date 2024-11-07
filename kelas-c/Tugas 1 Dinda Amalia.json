@@ -1,0 +1,136 @@
+{
+	"blibliografi1" : {
+		"Judul" : "Ayah",
+		"Pernyataan Tanggung Jawab" : "Andrea Hirata",
+		"Edisi" : "Cetakan ke 1",
+		"Tempat Terbit" : "Yogyakarta",
+		"Nama Penerbit" : "Penerbit Bentang",
+		"Tahun Terbit" : "2015",
+		"Identifikasi Manifestasi" : "978-602-291-102-9",
+		"Deskripsi Fisik" : "xx,412 halaman ; 20cm",
+		"Kata Kunci" : "Ayah,Fiksi Indonesia",
+		"Titik akses kepengarangan" : "Andrea Hirata"
+	},	
+	"bibliografi2" : {
+		"Judul" : "Bahasa Indonesia",
+		"Pernyataan Tanggung Jawab" : "Kementerian Pendidikan dan Kebudayaan",
+		"Edisi" : "Cetakan ke 1",
+		"Tempat Terbit" : "Jakarta",
+		"Tahun Terbit" : "2022",
+		"Identifikasi Manifestasi" : "978-602-244-298-1",
+		"Deskripsi Fisik" : "xiv,194 halaman ; 18cm x 25cm",
+		"Kata Kunci" : "Pendidikan Pancasila dan Kewarganegaraan/Kementerian Pendidikan dan Kebudayaan",
+		"Titik akses kepengarangan" : "Studi dan Pengajaran"
+	},
+	"blibliografi3" : {
+		"Judul" : "Keunikan Sastra Jepang",
+		"Pernyataan Tanggung Jawab" : "Yasuko Morito",
+		"Edisi" : "Cetakan ke 1",
+		"Tempat Terbit" : "Jakarta",
+		"Nama Penerbit" : "Penerbit Kesaint Blanc",
+		"Tahun Terbit" : "2017",
+		"Identifikasi Manifestasi" : "978-979-593-944-3",
+		"Deskripsi Fisik" : "96 halaman ; 20cm",
+		"Kata Kunci" : "Keunikan Sastra Jepang,Kesusastraan Jepang",
+		"Titik akses Kepengarangan" : "Yasuko Morito"
+	},
+	"blibliografi4" : {
+		"Judul" : "Lady Midnight",
+		"Juduk Tambahan" : "The Dark Artifices 1",
+		"Pernyataan Tanggung Jawab" : "Angelic Zaizai",
+		"Edisi" : "Cetakan ke 1",
+		"Tempat Terbit" : "Jakarta",
+		"Nama Penerbit" : "Sembilan Cahaya Abadi",
+		"Tahun Terbit" : "2017",
+		"Judul Seri" : "The dark Artifices 1",
+		"Nomor Seri" : "1",
+		"Identifikasi Manifestasi" : "978-6922-89-2",
+		"Deskripsi Fisik" : "iii,641 halaman ; 14cm x 21cm",
+		"Kata Kunci" : "Lady Midnight,sastra inggris-fiksi",
+		"Titik akses Kepengarangan" : "Cassandra Clare"
+	},
+	"bibliografi5" : {
+		"Judul" : "Undang-Undang Perlindungan Anak",
+		"Judul Seragam" : "Undang-undang, peraturan,dsb",
+		"Pernyataan Tanggung Jawab" : "Tim Redaksi BIP",
+		"Edisi" : "Cetakan ke 1",
+		"Tempat Terbit" : "Jakarta",
+		"Nama Penerbit" : "Penerbit Bhuana Ilmu Populer",
+		"Tahun Terbit" : "2017",
+		"Identifikasi Manifestasi" : "978-602-394-355-5",
+		"Deskripsi Fisik" : "130 halaman ; 11cm x 18cm",
+		"Kata Kunci" : "Undang-Undang Perlindungan Anak",
+		"Titik akses kepengarangan" : "Indonesia"
+	},
+	"bibliografi6" : {
+		"Judul" : "Bobo",
+		"Judul Tambahan" : "Teman Bermain dan Belajar",
+		"Pernyataan Tanggung Jawab" : "Gramedia Majalah",
+		"Edisi" : "Edisi ke 29, Tahun 46",
+		"Penomoran Serial" : "Kamis, 25 Oktober 2018-",
+		"Tempat Terbit" : "Jakarta",
+		"Nama Penerbit" : "Gramedida Majalah",
+		"Tahun Terbit" : "2018",
+		"Catatan" : "Diterbitkan 4 kali dalam satu bulan",
+		"Deskripsi Fisik" : "27cm",
+		"Kata Kunci" : "Anak-Majalah",
+		"Titik akses kepengarangan" : "Gramedia Majalah"
+	},
+	"bibliografi7" : {
+		"Judul" : "Kamu Aku Mereka",
+		"Judul Tambahan" : "Asa dalam setitik cinta",
+		"Pernyataan Tanggung Jawab" : "Cinta Astuty",
+		"Edisi" : "Cetakan ke 1",
+		"Tempat Terbit" : "Jawa Barat",
+		"Nama Penerbit" : " CV Jejak",
+		"Tahun Terbit" : "2019",
+		"Identifikasi Mnifestasi" : "978-602-474-576-9",
+		"Deskripsi Fisik" : "180 halaman ; 14cm x 20cm",
+		"Kata Kunci" : "Fiksi Indonesia",
+		"Titik akses kepengarangan" : "Cinta Astuty"
+	},
+	"bibliografi8" : {
+		"Judul" : "172 days",
+		"Judul Tambahan" : "aku ikhlas, tapi aku rindu",
+		"Pernyataan Tanggung Jawab" : "Nadzira Shafa",
+		"Edisi" : "Cetakan ke 1",
+		"Tempat Terbt" : "Banjar",
+		"Nama Penerbit" : "Motivaksi Inspira",
+		"Identifikasi Manifestasi" : "978-623-648-372-5",
+		"Tahun Terbit" : "2022",
+		"Deskripsi Fisik" : "241 halaman, ilustrasi ; 21cm",
+		"Kata Kunci" : "172 days",
+		"Titik akses kepengarangan" : "Nadzira Shafa"
+	},
+	"bibliografi9" : {
+		"Judul" : "Laut Bercerita",
+		"Judul Tambahan" : "Sebuah Novel Oleh Leila S. Chudori",
+		"Pernyataan Tanggung Jawab": "Chudori,Leila S",
+		"Edisi" : "Cetakan ke 1",
+		"Tempat Terbit" : "Jakarta",
+		"Nama Penerbit" : "Kepustakaan Populer Gramedia",
+		"Tahun Terbit" : "2017",
+		"Identifikasi Manifestasi" : "978-602-424-695-2",
+		"Deskripsi Fisik" : "x,379 halaman ; 13cm x 20cm",
+		"Kata Kunci": "Fiksi Indonesia",
+		"Titik akses kepengarangan" : "Chudori, Leila S"
+	},
+	"bibliografi10" : {
+		"Judul" : "Mata yang Indah",
+		"Judul Tambahan" : "Cerpwn pilihan Kompas",
+		"Pernyataan Tanggung Jawab" : "Budi Darma,Jujur Prananto,Yanusa Nugroho,Martin Aleida,Ratna Indraswari Ibrahim, Sori Siregar, K. Usman, Veven Sp Wrdhana, Gus tf Sakai, Cok Sawitri, A.A. Navis, Indra Tranngono, Herlino Soleman, Wilson Nadeak, Harris Effendi Thahar, Umar Kayam, Alois A. Nugroho ; Editor,  Kenedi Nurhan",
+		"Edisi" : "Cetakan ke 2",
+		"Tempat Terbit" : "Jakarta",
+		"Nama Penerbit" : "Penerbit Buku Kompas",
+		"Tahun Terbit" : "2018",
+		"Identifikasi Manifestasi" : "978-602-412-341-3",
+		"Kata Kunci" : "Cerita Pendek",
+		"Titik akses kepengarangan" : "Budi Darma"
+	}
+}
+	
+		
+		
+		
+		
+
