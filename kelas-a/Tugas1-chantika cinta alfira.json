@@ -1,1 +1,112 @@
-
+{
+    "Buku ke-1": {
+        "judul": "Logika Informatika",
+        "penulis": "Suprapto",
+        "tempat terbit": "Tangerang Selatan",
+        "penerbit": "Universitas Terbuka",
+        "tahun terbit": "2023",
+        "bahasa": ["Bahasa Indonesia"],
+        "ISBN": "978-623-480-273-3",
+        "Abstrak": "Buku ini diberikan untuk membekali mahasiswa tentang konsep bahasa formal",
+        "karya perorangan": "True"
+    },
+    "Buku ke-2": {
+        "judul": "Pendidikan pancasila dan kewarganegaraan",
+        "penulis": "kementerian pendidikan kebudayaan, Riset, dan Teknologi RI",
+        "tempat terbit": "jakarta",
+        "penerbit": "Pusat Perbukuan",
+        "tahun terbit": "2021",
+        "bahasa": ["Bahasa Indonesia"],
+        "ISBN": "978-602-244-312-4",
+        "abstrak": "Buku ini diperuntukan untuk siswa kelas viii sekolah menengah pertama",
+        "karya perorangan": "False"
+    },
+    "Buku ke-3": {
+        "judul": "Bahasa Indonesia : Sebagai Mata Kuliah Pengembangan Kepribadian",
+        "penulis": "E. Zaenal Arifin",
+        "tempat terbit": "Tangerang",
+        "penerbit": "Pustaka Mandiri",
+        "tahun terbit": "2011",
+        "bahasa": ["Bahasa Indonesia"],
+        "ISBN": "978-979-19137-1-3",
+        "abstrak": "Mata kuliah Bahasa Indonesia sebagai MPK",
+        "karya perorangan": "True"
+    },
+    "Buku ke-4": {
+        "judul": "Pengantar Ilmu Hukum",
+        "penulis": "L.J.van Apeldoorn",
+        "tempat terbit": "Jakarta",
+        "penerbit": "Pradnya Paramita",
+        "tahun terbit": "2011",
+        "bahasa": ["bahasa Indonesia"],
+        "ISBN": "978-979-408-096-2",
+        "abstrak": "Buku ini membahas tentang ilmu-ilmu hukum",
+        "karya perorangan": "True"
+    },
+    "Buku ke-5": {
+        "judul": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+        "penulis": "Sekretariat Jenderal MPR RI",
+        "tempat terbit": "Jakarta",
+        "penerbit": "Sekretariat Jenderal MPR RI",
+        "tahun terbit": "2010",
+        "bahasa": ["Bahasa Indonesia"],
+        "ISBN": "tidak teridentifikasi",
+        "abstrak": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 menjadi materi pemasyarakatan",
+        "karya perorangan": "False"
+    },
+    "Buku ke-6": {
+        "judul": "Bicara itu ada seninya",
+        "penulis": "Oh Su Hyang",
+        "tempat terbit": "jakarta",
+        "penerbit": "Bhuana Ilmu Populer",
+        "tahun terbit": "2018",
+        "bahasa": ["Bahasa Indonesia"],
+        "ISBN": "978-602-455-392-0",
+        "abstrak": "Komunikasi menjadi hal penting untuk bersaing",
+        "karya perorangan": "True"
+    },
+    "Buku ke-7": {
+        "judul": "Asavella",
+        "penulis": "Alfida NUrhayati Adiana",
+        "tempat terbit": "Jakarta",
+        "penerbit": "Moka Media",
+        "tahun terbit": "2014",
+        "bahasa": ["Bahasa Indonesia"]
+        "ISBN": "978-623-7191-34-6",
+        "abstrak": "Buku ini versi Novel",
+        "karya perorangan": "True"
+    },
+    "Buku ke-8": {
+        "judul": "Ilmu Pengetahuan Sosial",
+        "penulis": "kementerian pendidikan kebudayaan, Riset, dan Teknologi RI",
+        "tempat terbit": "Bandung",
+        "penerbit": "Pusat Perbukuan",
+        "tahun terbit": "2021",
+        "bahasa": ["Bahasa Indonesia"],
+        "ISBN": "978-602-244-468-8",
+        "abstrak": "BUku ini untuk anak sekolah menengah pertama",
+        "karya perorangan": "False"
+    },
+    "Buku ke-9": {
+        "judul": "Galaksi",
+        "penulis": "Poppi Pertiwi",
+        "tempat terbit": "Depok",
+        "penerbit": "Coconut Books",
+        "tahun terbit": "2018",
+        "bahasa": ["Bahasa Indonesia"],
+        "ISBN": "978-602-5508-45-5",
+        "abstrak": "Buku ini versi novel",
+        "karya perorangan": "True"
+    },
+    "Buku ke-10": {
+        "judul": "Rahasia Agar Hajat Cepat Terkabul",
+        "penulis": "Syekh Ali Jaber",
+        "tempat terbit": "Yogyakarta",
+        "penerbit": "Mutiara Media",
+        "tahun terbit": "2021",
+        "bahasa": ["Bahasa Indonesia"],
+        "ISBN": "978-623-7182-30-6",
+        "abstrak": "Buku ini memuat wasiat amalan-amalan dahsyat yang diajarkan oleh Syekh Ali Jaber",
+        "karya perorangan": "True"
+    }
+}
