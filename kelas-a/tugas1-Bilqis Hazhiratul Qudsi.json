@@ -1,1 +1,98 @@
-
+{
+    "books": [
+        {
+            "isbn": "97862350602248",
+            "title": "Manajemen Risiko",
+            "subtitle": "Pendekatan Praktis",
+            "author": "Arum Ardianingsih, Payamta, Doddy Setiawan",
+            "published": "2024-10-23",
+            "publisher": "Bumi Aksara",
+            "pages": 205,
+            "description": "Buku ini dapat menjadi referensi bagi para praktisi di bidang manajemen dan mahasiswa yang menempuh pendidikan di bidang manajemen."
+        },
+        {
+            "isbn": "9781524764586",
+            "title": "We Were Liars",
+            "author": "E. Lockhart",
+            "published": "2014-05-13",
+            "publisher": "Random House USA",
+            "pages": 296,
+            "description": "Seuah misteri yang melibatkan kecelakaan dan rahasia keluarga di pulau pribadi."
+        },
+        {
+            "isbn": "9786239726218",
+            "title": "Bedebah Di Ujung Tanduk",
+            "author": "Marijn Haverbeke",
+            "published": "2021-10-29",
+            "publisher": "Penerbit Sabak Grip",
+            "pages": 414,
+            "description": "Di negara para bedebah, pencuri, perampok, bagai musang berbulu domba."
+        },
+        {
+            "isbn": "9786231648297",
+            "title": "Filsafat Berfikir",
+            "subtitle": "Menyelami Proses Berpikir dan Berlogika Secara Benar",
+            "author": "Emhaf",
+            "published": "2024-09-27",
+            "publisher": "Anak Hebat Indonesia",
+            "pages": 212,
+            "description": "Buku ini berisi tenang tidak hanya mengajarkan kalian bagaimana menjadi dewasa dan tetap berpikir, tetapi kalian juga bisa menembus realitas."
+        },
+        {
+            "isbn": "9786020629957",
+            "title": "Psikolinguistik",
+            "subtitle": "Memahami Aspek Mental dan Neurologis Berbahasa.",
+            "author": "Porat Antonius",
+            "published": "2019-06-29",
+            "publisher": "Gramedia Pustaka Utama",
+            "pages": 344,
+            "description": "Buku ini menguraikan pandangan tentang hubungan antara bahasa da proses berpikir sebagai dua entitas berbeda yang saling berpengaruh dan mendukung."
+        },
+        {
+            "isbn": "9786231607904",
+            "title": "Penalaran Etika",
+            "subtitle": "Konsep dan Penerapan",
+            "author": "Dr. Ratna Dewi Pettalolo, S.H., M.H.",
+            "published": "2024-10-31",
+            "publisher": "Penerbit Buku Kompas",
+            "pages": 168,
+            "description": "Buku ini mengajak pembaca untuk menemukan konsep pola penalaran etika yang berbasiskan pendekatan etika dan hukum yang berkembang saat ini."
+        },
+        {
+            "isbn": "9786233845236",
+            "title": "Pendidikan Multiliterasi",
+            "author": "Dr. Sudirman, S.E., M.Pd. dan Mahfuzi Irwan, S.Pd., M.Pd.",
+            "published": "2023-12-05",
+            "publisher": "Kencana",
+            "pages": 198,
+            "description": "Buku ajar akan memperkaya sumber bacaan bagi pendidikan nonformal/pendidikan masyarakat dan dapat dimanfaatkan untuk meningkatkan mutu pembinaan pendidikan nonformal/pendidikan masyarakat."
+        },
+        {
+            "isbn": "9786232058187",
+            "title": "Lintas Analisis Kritis",
+            "author": "Muhammad tariq",
+            "published": "2023-07-17",
+            "publisher": "Yrama Widya",
+            "pages": 152,
+            "description": "Buku “Lintas Analisis Kritis” adalah buku kumpulan opini sederhana namun kritis tentang berbagai persoalan dan peristiwa yang dihadapi dan dirasakan selama hidup."
+        },
+        {
+            "isbn": "9786024126735",
+            "title": "Pengantar Teori Sastra",
+            "author": "Bdi Darma",
+            "published": "Jakarta, 2021",
+            "publisher": "PT Kompas Media Nusantara",
+            "pages": 183,
+            "description": "Buku ini menguraikan mengenai kriteria sastra, kritik sastra, sastra mainstream, sampai soal sastra serius dan sastra hiburan. juga diuraikan tentang filsafat dan sastra, psikologi dan sastra, termasuk perkembangan new criticism, strukturalisme, primitivisme, dan modernisme."
+        },
+        {
+            "isbn": "97860220658049",
+            "title": "Home Sweet Loan",
+            "author": "Almira Bastari",
+            "published": "2022-02-16",
+            "publisher": "Gramedia Pustaka Utama",
+            "pages": 312,
+            "description": "Buku Home Sweet Loan ini menggunakan latar cerita di Kota Jakarta. Namun, cerita kali ini lebih menyoroti kaum menengah dengan mengisahkan perjuangan dari sudut pandang mereka."
+        }
+    ]
+}
