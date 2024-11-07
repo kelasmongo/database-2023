@@ -30,7 +30,7 @@
      "year": "1988",
      "isbn": "979-97312-6-7",
      "pages": 646,
-     "genre": "Fiksi"
+     "genre": "Fiksi",
      "available": true
     },
     "books_4": {
@@ -52,7 +52,7 @@
      "year": 2018,
      "isbn": "978-979-780-932-4",
      "pages": 389,
-     "genre": "Fiksi"
+     "genre": "Fiksi",
      "available": false
     },
     "books_6": {
@@ -63,7 +63,7 @@
      "year": 2017,
      "isbn": "978-602-424-132-2",
      "pages": 117,
-     "genre": "Fiksi"
+     "genre": "Fiksi",
      "available": false
     },
     "books_7": {
@@ -96,7 +96,7 @@
      "year": 2012,
      "isbn": "978-979-22-8262-7",
      "pages": 301,
-     "genre": "Fiksi"
+     "genre": "Fiksi",
      "available": true
     },
     "books_10": {
