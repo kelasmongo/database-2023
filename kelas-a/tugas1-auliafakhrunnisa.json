@@ -1,1 +1,100 @@
-
+{
+    "books": [
+        {
+            "isbn": "978-602-375-901-9",
+            "title": "jembatan kata",
+            "subtitle": "seluk beluk penerjemahan arab-indonesia",
+            "author": "moch syarif hidayatullah",
+            "published": "jakarta, 2017",
+            "publisher": "grasindo",
+            "pages": 136,
+            "description": "berisi teori dan masalah dasar yang kerap di temui saat menerjemahkan"
+        },
+        {
+            "isbn": "978-602-50557-0-6",
+            "title": "teori dasar nahwu dan sharf",
+            "author": "adbul haris",
+            "published": "jawa timur, 2023",
+            "publisher": "al-bidayah",
+            "pages": 308,
+            "description": "buku ini merangkum realistis kaidah yang ditemukan secara nyata dalam teks arab"
+        },
+        {
+            "isbn": "979-511-169-8",
+            "title": "pengantar ilmu perpustakaan",
+            "author": "sulistyo basuki",
+            "published": "jakarta, 2017",
+            "publisher": "gramedia pusaka utama",
+            "pages": 467,
+            "description": "buku ini memberi uraian mengenai ilmu perpustakaan"
+        },
+        {
+            "isbn": "978-623-9813-11-6",
+            "title": "pengantar bahasa arab nahwu dan sharaf",
+            "subtitle": "untuk pemula 2021",
+            "author": "abu yaala kurnaedi",
+            "published": "depok, 2021",
+            "publisher": "nurul quran media",
+            "pages": 134,
+            "description": "buku ini disajikan pembelajaran bahasa arab secara mudah dengan susunan materi serta contoh dan latihan yang ringan"
+        },
+        {
+            "isbn": "978-623-7478-63-8",
+            "title": "perpustakaan idaman",
+            "subtitle": "panduan praktis mengelola perpustakaan tahun 2023",
+            "author": "karin karina dan ika irawati",
+            "published": "jakarta, 2023",
+            "publisher": "erlangga",
+            "pages": 90,
+            "description": "buku ini dapat memberikan manfaat dan inspirasi bagi sekolah dan tenaga perpustakaan yang ingin mengembangkan dan menghidupkan taman baca yang sefang dikelola"
+        },
+        {
+            "isbn": "979-1709-71-8",
+            "title": "sejarah palestina",
+            "subtitle": "asal muasal konflik palestina-israel",
+            "author": "fawzy al-ghadiry",
+            "published": "yogyakarta, 2020",
+            "publisher": "books marks",
+            "pages": 131,
+            "description": "buku ini menginformasikan mengenai apa yang tengah terjadi di timur tengah"
+        },
+        {
+            "isbn": "978-979-386-827-8",
+            "title": "pengantar penerjemahan",
+            "author": "ahmad muam dan cisya dewantara nugraha",
+            "published": "yogyakarta, 2020",
+            "publisher": "gadjah mada uniersity press",
+            "pages": 98,
+            "description": "buku ini berisi petunjuk praktis agar mahasiswa mendapat gambaran secara lebih mendetail mengenai berbagai metode"
+        },
+        {
+            "isbn": "978-623-6356-80-7",
+            "title": "esai-esai",
+            "subtitle": "esai sastra budaya dan agama",
+            "author": "mohamad ramdon dasuki",
+            "published": "banten, 2021",
+            "publisher": "yayasan pendidikan dan sosial indonesia maju",
+            "pages": 187,
+            "description": "buku ini kumpulan esai seputar tema tema sastra budaya dan agama ini menyuguhkan perspektif yang lain"
+        },
+        {
+            "isbn": "979-392-539-6",
+            "title": "ilmu sosial dan budaya dasar",
+            "author": "elly m setiadi dan kama a hakam",
+            "published": "jakarta, 2006",
+            "publisher": "kencana",
+            "pages": 196,
+            "description": "buku ini menjelaskan prinsip prinsip pokok tentang pemahan diri dan masyarakat dan lingkungan"
+        },
+        {
+            "isbn": "979-98737-0-3",
+            "title": "islamku islam anda dan islam kita",
+            "subtitle": "agama masyarakat negara demokratis",
+            "author": "abdurrahman wahid",
+            "published": "jakarta, 2006",
+            "publisher": "the wahid institute",
+            "pages": 412,
+            "description": "buku ini memberikan penjelasan mengenai pluralitas yang harus diutamakan termasuk dalam melihat islam"
+        }
+    ]
+}
