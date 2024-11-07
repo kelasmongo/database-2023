@@ -1,0 +1,99 @@
+{
+  "books_1": {
+    "title": "Azzamine",
+    "subtitle": "Azzam & Jasmine",
+    "author": "Sophie Aulia",
+    "publisher": "Bukune Kreatif Cipta",
+    "place": "Jakarta",
+    "year": "2022",
+    "isbn": "978-602-220-433-6",
+    "pages": "viii, 356"
+  },
+  "books_2": {
+    "title": "Memahami Untuk Membasmi",
+    "subtitle": "Buku Saku Untuk Memahami Tindak Pidana Korupsi",
+    "author": "Komisi Pemberantasan Korupsi",
+    "publisher": "Komisi Pemberantasan Korupsi",
+    "place": "Jakarta",
+    "year": "2006",
+    "isbn": "979-15134-3-0",
+    "pages": "132"
+  },
+  "books_3": {
+    "title": "Embun Di Atas Bunga Matahari",
+    "author": "Miftah Zururi",
+    "publisher": "One Peach Media",
+    "place": "Jakarta",
+    "year": "2021",
+    "isbn": "978-623-6096-72-7",
+    "pages": "x, 346"
+  },
+  "books_4": {
+    "title": "Kesialan Orang Lajang",
+    "subtitle": "Kumpulan Fiksi Mini",
+    "author": "Franz Kafka",
+    "translator": "An Ismanto",
+    "publisher": "Basabasi",
+    "place": "Yogyakarta",
+    "year": "2017",
+    "isbn": "978-602-6651-06-8",
+    "pages": "164"
+  },
+  "books_5": {
+    "title": "Malioboro At Midnight",
+    "author": "Skysphire",
+    "publisher": "Bukune Kreatif Cipta",
+    "place": "Jakarta",
+    "year": "2023",
+    "isbn": "978-602-220-490-9",
+    "pages": "vi, 430"
+  },
+  "books_6": {
+    "title": "Hello, Cello",
+    "author": "Nadia Tistivani",
+    "publisher": "Bukune Kreatif Cipta",
+    "place": "Jakarta",
+    "year": "2023",
+    "isbn": "978-602-220-438-1",
+    "pages": "viii, 432"
+  },
+  "books_7": {
+    "title": "Butterflies",
+    "author": "Alesacakes",
+    "publisher": "Nexterday Publisher",
+    "place": "Jakarta",
+    "year": "2021",
+    "isbn": "978-623-98605-0-9",
+    "pages": "268"
+  },
+  "books_8": {
+    "title": "xxxx",
+    "subtitle": "xxxx",
+    "author": "xxxx",
+    "publisher": "xxxx",
+    "place": "xxxx",
+    "year": "xxxx",
+    "isbn": "xxxx",
+    "pages": "xxxx"
+  },
+  "books_9": {
+    "title": "xxxx",
+    "subtitle": "xxxx",
+    "author": "xxxx",
+    "publisher": "xxxx",
+    "place": "xxxx",
+    "year": "xxxx",
+    "isbn": "xxxx",
+    "pages": "xxxx"
+  },
+  "books_10": {
+    "title": "xxxx",
+    "subtitle": "xxxx",
+    "author": "xxxx",
+    "publisher": "xxxx",
+    "place": "xxxx",
+    "year": "xxxx",
+    "isbn": "xxxx",
+    "pages": "xxxx"
+  }
+}
