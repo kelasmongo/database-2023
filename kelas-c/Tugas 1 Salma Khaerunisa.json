@@ -1,0 +1,110 @@
+{ 
+ "Buku 1" : {
+        "Judul" : "Gagal Menjadi Manusia",
+        "Pengarang" : "Dazai Osamu",
+        "Edisi" : "Cetakan 11",
+        "ISBN" : "978-6237351-30-6",
+        "Penerbit" : "Penerbit Mai",
+        "Tahun terbit" : "2021",
+        "Tempat terbit" : "Tangerang",
+        "Deskripsi Fisik" : "153 halaman, 19 cm",
+        "Subjek" : "Fiksi Jepang"
+   },
+   "Buku 2" : {
+        "Judul" : "Pergi",
+        "Pengarang" : "Tere Liye",
+        "Edisi" : "Cetakan 9",
+        "ISBN" : "9786025734052",
+        "Penerbit" : "Gramedia Pusaka",
+        "Tahun terbit" : "2018",
+        "Tempat terbit" : "Jakarta",
+        "Deskripsi Fisik" : "439 halaman, 21 cm",
+        "Subjek" : "Fiksi Indonesia"
+   },
+   "Buku 3" : {
+        "Judul" : "Pacar Ketiga",
+        "Pengarang" : "Andhika Rahmadian",
+        "Edisi" : "Cetakan 1",
+        "ISBN" : "978-602-03-1213-2",
+        "Penerbit" : "Gramedia Pusaka Utama",
+        "Tahun terbit" : "2015",
+        "Tempat terbit" : "Jakarta",
+        "Deskripsi Fisik" : "200 halaman, 20 cm",
+        "Subjek" : "Fiksi Indonesia"
+   },
+   "Buku 4" : {
+        "Judul" : "Angsa dan Kelelawar",
+        "Pengarang" : "Keigo Higashino",
+        "Edisi" : "Cetakan 3",
+        "ISBN" : "978-602-067-069-0",
+        "Penerbit" : "Gramedia Pusaka Utama",
+        "Tahun terbit" : "2023",
+        "Tempat terbit" : "Jakarta",
+        "Deskripsi Fisik" : "560 halaman, 20 cm",
+        "Subjek" : "Fiksi Jepang"
+   },
+   "Buku 5" : {
+        "Judul" : "Sherlock Holmes dan jejak berdarah",
+        "Pengarang" : "Sir Arthur Conan Doyle",
+        "Edisi" : "Cetakan 1",
+        "ISBN" : "978-967-19565-1-9",
+        "Penerbit" : "IBDE Ilham",
+        "Tahun terbit" : "2021",
+        "Tempat terbit" : "Kuala Lumpur",
+        "Deskripsi Fisik" : "200 halaman, 18 cm",
+        "Subjek" : "Fiksi Inggris"
+   },
+    "Buku 6" : {
+        "Judul" : "The Witch's Market",
+        "Pengarang" : "Mingmei Yip",
+        "Edisi" : "Cetakan 1",
+        "ISBN" : "9786020280127",
+        "Penerbit" : "Elex Media Komputerindo",
+        "Tahun terbit" : "2016",
+        "Tempat terbit" : "Jakarta",
+        "Deskripsi Fisik" : "vi, 370 halaman, 19 cm",
+        "Subjek" : "Fiksi Cina"
+   },"Buku 7" : {
+        "Judul" : "Tujuh Lukisan Horor",
+        "Pengarang" : "Lexie Xu",
+        "Edisi" : "Cetakan 6",
+        "ISBN" : "978-979-22-9664-8",
+        "Penerbit" : "Gramedia Pustaka Utama",
+        "Tahun terbit" : "2013",
+        "Tempat terbit" : "Jakarta",
+        "Deskripsi Fisik" : "vi, 422 halaman, 20 cm",
+        "Subjek" : "Fiksi Indonesia"
+   },"Buku 8" : {
+        "Judul" : "19 Petualangan Terbaik Sherlock Holmes",
+        "Pengarang" : "Sir Arthur Conan Doyle",
+        "Edisi" : "Cetakan 1",
+        "ISBN" : "978-602-18792-7-6",
+        "Penerbit" : "Penerbit Bangkit",
+        "Tahun terbit" : "2012",
+        "Tempat terbit" : "Yogyakarta",
+        "Deskripsi Fisik" : "viii, 668 halaman, 20 cm",
+        "Subjek" : "Fiksi Inggris"
+   },"Buku 9" : {
+        "Judul" : "Catatan dari Bawah Tanah",
+        "Pengarang" : "Fyodor Dostoevsky",
+        "Edisi" : "Cetakan 3",
+        "ISBN" : "978-623-7543-74-9",
+        "Penerbit" : "Penerbit Kakatua",
+        "Tahun terbit" : "2023",
+        "Tempat terbit" : "Yogyakarta",
+        "Deskripsi Fisik" : "iv, 185 halaman, 20 cm",
+        "Subjek" : "Fiksi Rusia"
+   },"Buku 10" : {
+        "Judul" : "Matahari",
+        "Pengarang" : "Tere Liye",
+        "Edisi" : "Cetakan 13",
+        "ISBN" : "9786020332116",
+        "Penerbit" : "Gramedia Pustaka Utama",
+        "Tahun terbit" : "2016",
+        "Tempat terbit" : "Jakarta",
+        "Deskripsi Fisik" : "400 halaman, 20 cm",
+        "Subjek" : "Fiksi Indonesia"
+   }
+}
+
+
