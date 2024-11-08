@@ -1,0 +1,82 @@
+{
+"books_1":{
+    "title": "Light Novel Classroom of The Elite 01",
+    "author": "Syougo Kinugasa",
+    "publisher": "Phoenix Gramedia Indonesia",
+    "year": 2024,
+    "pages": "352",
+    "isbn": "9786231028778"
+}, 
+"books_2":{
+    "title": "Arunika",
+    "author": "Hasna Anggita",
+    "publisher": "Coconut Books",
+    "year": 2024,
+    "pages": "344",
+    "isbn" : "9786231023858"
+},
+"books_3": {
+    "title": "Midlife Curses: A Paranormal Women's Fiction Mystery (Witching Hour)",
+    "author": "Christine Zane Thomas",
+    "publisher": " Independently published",
+    "year": 2020,
+    "pages": "246",
+    "isbn": "979-8628702819"
+},
+"books_4" : {
+    "title": "Witches in the Kitchen: Magic Inn Paranormal Mysteries Book One",
+    "author": "Danielle Garrett",
+    "publisher": "Independently published",
+    "year":2023,
+    "pages": "306",
+    "isbn": "979-8378460496"
+},
+"books_5": {
+    "title": "Laut Bercerita",
+    "author": " Leila S. Chudori",
+    "publisher" : "Kepustakaan Populer Gramedia",
+    "year": 2017,
+    "pages": "400",
+    "isbn": "9786024246945"
+},
+"books_6": {
+    "title" : "Rest Area",
+    "author" : " Niallgina",
+    "publisher": "GagasMedia",
+    "year": 2024,
+    "pages" : "362",
+    "isbn": "9786234932966"
+},
+"books_7": {
+    "title" : "Love Spells Trouble: A Paranormal Cozy Mystery (Eastwind Witches Cozy Mysteries)",
+    "author" :"Nova Nelson",
+    "publisher": "FFS Media",
+    "year": 2020,
+    "pages": "216",
+    "isbn": "978-1733026437"
+},
+"books_8": {
+    "title": "Moonshine & Magic (A Southern Charms Cozy Mystery)",
+    "author": "Bella Falls",
+    "publisher": "CreateSpace Independent Publishing Platform",
+    "year": 2018,
+    "pages": "310",
+    "isbn" : "978-1984313102"
+},
+"books_9": {
+    "title": "Alghava",
+    "author": "Noonawii",
+    "publisher": "Moka Media",
+    "year": 2024,
+    "pages" : "360",
+    "isbn": "9786237191407"
+},
+"books_10": {
+    "title": "Family Secrets: A Whispering Pines Mystery",
+    "author": " Shawn McGuire",
+    "publisher": "CreateSpace Independent Publishing Platform",
+    "year" : 2017,
+    "pages": "283",
+    "isbn" : "9781546719892"
+}
+}
