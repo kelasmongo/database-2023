@@ -1,0 +1,82 @@
+{
+    "tutu": {
+        "employeeid" : 1,
+        "nama_buku" :"Azzamine",
+        "penulis" : "Shophie Aulia",
+        "penerbit" : "Kawah Media"
+    },
+    "white": {
+        "employeeid" : 2,
+        "nama_buku" :"Si Putih",
+        "penulis" : "Tere Liye",
+        "penerbit" : "Penerbit Sabak Grip",
+        "halaman" : "373 halaman"
+    },
+    "Pop" : {
+        "employeeid": 3,
+        "nama_buku" :"Septihan",
+        "penulis" : "Poppi Pertiwi",
+        "penerbit" : "Bumi Semesta Media",
+        "isbn" : "9786237439431"
+
+    },
+    "JK" : {
+        "employeeid" : 3,
+        "nama_buku" : "Harry Potter and The Deathly Hallows-Gryffindor Edition",
+        "penulis" : "J.K. Rowling",
+        "tanggal_terbit" : "12 Juni 2022",
+        "bahasa" : "English"
+    },
+    "little" : {
+        "employeeid": 4,
+        "nama_buku": "The Little Prince",
+        "penulis": "Antoine de Saint-Exupery",
+        "penerbit": "Harpercollins Publisher",
+        "bahasa": "English"
+    },
+    "Risk" : {
+        "employeeid" : 5,
+        "nama_buku" : "Garis Luka",
+        "penulis" : "Khairani Hasan",
+        "penerbit" : "Kawah Media",
+        "Lebar" : "14.0 cm",
+        "isbn" : "9786235505749"
+    },
+    "Lily" : {
+        "employeeid" : 6,
+        "nama_buku" : "Bandit Bandit Berkelas",
+        "penulis" : "Tere Liye",
+        "penerbit" : "Penerbit Sabak Grip",
+        "bahasa" : "Indonesia"
+    },
+    "Nfix": {
+        "employeeid" : 7,
+        "nama_buku" : "Six of Crows",
+        "penulis" : "Leigh Bardugo",
+        "halaman" : "496 halaman",
+        "tanggal_terbit" : "06 Februari 2018",
+        "bahasa" : "English"
+    },
+    "Nfix_02": {
+        "employeeid" : 8,
+        "nama_buku" : "Crooked Kingdom",
+        "penulis" : "Leigh Bardugo",
+        "penerbit" : "Square Fish"
+    },
+    "atata" : {
+        "employeeid": 9,
+        "nama_buku" : "The Atala",
+        "penulis" : "Lyraemoon",
+        "penerbit" : "Fantasious",
+        "isbn" : "9786233102292"
+    },
+    "perilm" : {
+        "employeeid" : 10,
+        "nama_buku" : "Manajemen & Budaya Perpustakaan",
+        "penulis" : "Dr. Iskandar, S.Sos., M.M.",
+        "penerbit" : "Refika Aditama",
+        "tanggal_terbit" : "04 November 2016",
+        "bahasa" : "Indonesia",
+        "isbn" : "9786026322142"
+    }
+}
