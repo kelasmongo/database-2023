@@ -1,0 +1,108 @@
+{
+	"bibliografi_1": {
+		"judul": "Teka-Teki Rumah Aneh",
+		"pengarang": "Uketsu",
+		"tahun terbit": "2023",
+		"penerbit": "Gramedia Pustaka Utama",
+		"ISBN": "978-602-066-996-0",
+		"deskripsi fisik": "224 halaman; 20 cm",
+		"subjek": "Sastra Jepang, Thriller, Misteri",
+		"buku terjemahan": true
+	},
+	"bibliografi_2": {
+		"judul": "Keajaiban Toko Kelontong Namiya",
+		"pengarang": "Keigo Higashino",
+		"tahun terbit": "2020",
+		"penerbit": "Gramedia Pustaka Utama",
+		"ISBN": "978-602-064-829-3",
+		"deskripsi fisik": "400 halaman; 20 cm",
+		"subjek": "Sastra Jepang, Fantasi",
+		"buku terjemahan": true
+	},
+	"bibliografi_3": {
+		"judul": "Dear Nathan",
+		"pengarang": "Erisca Febriani",
+		"tahun terbit": "2016",
+		"penerbit": "Penerbit Best Media",
+		"ISBN": "978-602-694-014-8",
+		"deskripsi fisik": "528 halaman; 21 cm",
+		"subjek": "Fiksi, Romansa",
+		"buku terjemahan": false
+
+	},
+	"bibliografi_4": {
+		"judul": "3726 MDPL",
+		"pengarang": "Nurwina Sari",
+		"tahun terbit": "2024",
+		"penerbit": "Romancious",
+		"ISBN": "978-623-310-259-9",
+		"deskripsi fisik": "280 halaman; 19 cm",
+		"subjek": "Fiksi, Romansa",
+		"buku terjemahan": false
+	}, 
+	"bibliografi_5": {
+		"judul": "Malas Sekolah",
+		"pengarang": "Dyah Chalifah Chairunnisa, Rima Dwi Oktaviani. Nuraini, Wima Auliya Nur'aini",
+		"tahun terbit": "2017",
+		"penerbit": "Muffin Graphics",
+		"ISBN": "978-602-367-332-2",
+		"deskripsi fisik": "104 halaman; 21cm",
+		"subjek": "Komik, Anak",
+		"buku terjemahan": false
+		
+	},
+	"bibliografi_6": {
+		"judul": "Secrets of Divine Love: Sebuah Perjalanan Spritual yang Mendalam tentang Islam",
+		"pengarang": "A. Helwa",
+		"tahun terbit": "2023",
+		"penerbit": "Elex Media Komputindo",
+		"ISBN": "978-623-004-916-3",
+		"deskripsi fisik": "440 halaman; 23 cm",
+		"subjek": "Non Fiksi, Islami",
+		"buku terjemahan": true
+		
+	}, 
+	"bibliografi_7": {
+		"judul": "Malioboro at Midnight",
+		"pengarang": "Skysphire",
+		"tahun terbit": "2023",
+		"penerbit": "Kawah Media",
+		"ISBN": "978-602-220-490-9",
+		"deskripsi fisik": "436 halaman; 19 cm",
+		"subjek": "Fiksi, Romansa",
+		"buku terjemahan": false
+		
+	}, 
+	"bibliografi_8": {
+		"judul": "Cara Gampang Belajar Bahasa Inggris",
+		"pengarang": "Bilif Abduh",
+		"tahun terbit": "2024",
+		"penerbit": "Penerbit Checklist",
+		"ISBN": "978-623-811-456-6",
+		"deskripsi fisik": "344 halaman; 23 cm",
+		"subjek": "Non Fiksi, Bahasa Inggris, Pengajaran",
+		"buku terjemahan": false
+		
+	}, 
+	"bibliografi_9": {
+		"judul": "Ayah, Ini Arahnya ke Mana, ya?",
+		"pengarang": "Khoirul Trian",
+		"tahun terbit": "2024",
+		"penerbit": "Gradien Mediatama",
+		"ISBN": "978-602-208-379-5",
+		"deskripsi fisik": "164 halaman; 19 cm",
+		"subjek": "Non Fiksi, Self Improvement",
+		"buku terjemahan": false
+
+	},
+	"bibliografi_10": {
+		"judul": "Sultan Shalahuddin: Palestina Series",
+		"pengarang": "Handri Satria dan Sayf Muhammad Isa",
+		"tahun terbit": "2024",
+		"penerbit": "Penerbit Salsabila",
+		"ISBN": "592-052-024-005-0",
+		"deskripsi fisik": "816 halaman; 20 cm",
+		"subjek": "Komik, Sejarah",
+		"buku terjemahan": true
+	}
+}
