@@ -2,4 +2,9 @@
   "books" : [
     {
            "isbn": "9789790770348",
-      
+           "tittle": "Kisah 25 nabiku",
+           "author": "Tim Gema Insani",
+           "published": "Jakarta,2008",
+           "publisher": "Gema Insani",
+           "pages": 160,
+           "description": "buku ini mengisahkan kisah-kisah nabi"
