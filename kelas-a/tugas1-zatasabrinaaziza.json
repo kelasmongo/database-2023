@@ -1,10 +1,46 @@
 {
-  "books" : [
-    {
-           "isbn": "9789790770348",
-           "tittle": "Kisah 25 nabiku",
-           "author": "Tim Gema Insani",
-           "published": "Jakarta,2008",
-           "publisher": "Gema Insani",
-           "pages": 160,
-           "description": "buku ini mengisahkan kisah-kisah nabi"
+    "books" : [
+        {
+            "isbn": "9789790770348",
+            "tittle": "Kisah 25 nabiku",
+            "author": "Tim Gema Insani",
+            "published": "Jakarta,2008",
+            "publisher": "Gema Insani",
+            "pages": 160,
+            "description": "buku ini mengisahkan kisah-kisah nabi"
+        },
+        {
+            "isbn": "9799627109",
+            "tittle": "ESQ"
+            "author": "Ary Ginanjar",
+            "published": "Jakarta,2009",
+            "publisher": "ARGA Publishing",
+            "pages": 305,
+            "description": "buku ini membahas tentang kecerdasan emosi"
+        },
+        {
+            "isbn": "9786230306150",
+            "tittle": "Hai,Miiko vol 34"
+            "author": "Ono Eriko",
+            "published": "Jakarta pusat,2022",
+            "publisher": "PT Gramedia Pustaka Utama - m&c",
+            "pages": 168,
+            "description": "buku ini menceritakan keseharian Miiko dan kawan-kawan"
+        },
+        {
+            "isbn": "9786024205652",
+            "tittle": "Friends"
+            "author": "Putri Nabil",
+            "published": "Bandung,2018",
+            "publisher": "DAR! Mizan",
+            "pages": 148,
+            "description": "buku ini menceritakan Hanifa dengan teman murid pindahan"
+        },
+        {
+            "isbn": "9799627109",
+            "tittle": "ESQ"
+            "author": "Ary Ginanjar",
+            "published": "Jakarta,2009",
+            "publisher": "ARGA Publishing",
+            "pages": 305,
+            "description": "buku ini membahas tentang kecerdasan emosi"
