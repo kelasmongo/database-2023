@@ -1,0 +1,72 @@
+{
+    "buku_1":{
+        "judul": "Laut Bercerita",
+        "pengarang": "Leila S. Chudori",
+        "penerbit": "Kepustakaan Populer Gramedia",
+        "tempat terbit": "Jakarta",
+        "tahun terbit": "2017"
+    },
+    "buku_2":{
+        "judul": "Negeri di Ujung Tanduk",
+        "pengarang": "Tere Liye",
+        "penerbit": "Gramedia Pustaka Utama",
+        "tempat terbit": "Jakarta",
+        "tahun terbit": "2021"
+    },
+    "buku_3": {
+        "judul": "Guru Aini",
+        "pengarang": "Andrea Hirata",
+        "penerbit": "Bentang Pustaka",
+        "tempat terbit": "Yogyakarta",
+        "tahun terbit": "2020"
+    },
+    "buku_4": {
+        "judul": "Orang - Orang Biasa",
+        "pengarang": "Andrea Hirata",
+        "penerbit": "Bentang Pustaka",
+        "tempat terbit": "Yogyakarta",
+        "tahun terbit": "2019"
+    },
+    "buku_5":{
+        "judul": "Ayah",
+        "pengarang": "Andrea Hirata",
+        "penerbit": "Mizan",
+        "tempat terbit": "Bandung",
+        "tahun terbit": "2016"
+    },
+    "buku_6":{
+        "judul": "Aroma Karsa",
+        "pengarang": "Dewi Lestari",
+        "penerbit": "Bentang Pustaka",
+        "tempat terbit": "Yogyakarta",
+        "tahun terbit": "2018"
+    },
+    "buku_7":{
+        "judul": "Gadis Kretek",
+        "pengarang":"Ratih Kumala",
+        "penerbit": "Gramedia Pustaka Utama",
+        "tempat terbit": "Jakarta",
+        "tahun terbit": "2019"
+    },
+    "buku_8":{
+        "judul": "The Travelling Cat Chronicles",
+        "pengarang": "Arikawa Hiro",
+        "penerbit": "Penerbit Haru",
+        "tempat terbit": "Ponorogo",
+        "tahun terbit": "2019"
+    },
+    "buku_9":{
+        "judul": "confessions",
+        "pengarang": "Minato Kanae",
+        "penerbit": "Penerbit Haru",
+        "tempat terbit": "Ponorogo",
+        "tahun terbit": "2019"
+    },
+    "buku_10":{
+        "judul": "Holy Mother",
+        "pengarang": "Akiyoshi Rikako",
+        "penerbit": "Penerbit Haru",
+        "tempat terbit": "Ponorogo",
+        "tahun terbit": "2019"
+    }
+}
