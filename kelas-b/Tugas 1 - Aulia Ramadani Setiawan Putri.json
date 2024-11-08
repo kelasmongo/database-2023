@@ -1,0 +1,72 @@
+{
+    "book_1": {
+        "title": "Dunia Anna",
+        "author": "Jostein Gaarder",
+        "publisher": "Gramedia Pustaka Utama",
+        "publishedDate": 2018,
+        "publishedPlace": "Jakarta"
+    }, 
+    "book_2": {
+        "title": "The Cold Moon",
+        "author": "Jeffery Deaver",
+        "publisher":"Gramedia Pustaka Utama",
+        "publishedDate": 2010,
+        "publishedPlace": "Jakarta"
+    },
+    "book_3": {
+        "title": "Sekretaris dan Administrasi Perkantoran",
+        "author": "Redaksi Shira Media",
+        "publisher": "Shira Media",
+        "publishedDate": 2015,
+        "publishedPlace": "Yogyakarta"
+    },
+    "book_4": {
+        "title": "Manajemen Pengembangan Koleksi",
+        "author": ["Pungki Purnomo", "Ida Farida"],
+        "publisher": "Lembaga Penelitian UIN Syarif Hidayatullah Jakarta",
+        "publishedDate": 2010,
+        "publishedPlace": "Ciputat"
+    },
+    "book_5": {
+        "title": "Psikologi Kepribadian dan Psikologi Kepemimpinan",
+        "author": "Sudjiwanati",
+        "publisher": "Asrori",
+        "publishedDate": 2000,
+        "publishedPlace": "Malang"
+    },
+    "book_6": {
+        "title": "The Metamorphosis",
+        "author": "Franz Kafka",
+        "publisher": "Elex Media Komputindo",
+        "publishedDate": 2010,
+        "publishedPlace": "Jakarta"
+    },
+    "book_7": {
+        "title": "The Works of Egar Allan Poe",
+        "author": "Edgar Allan Poe",
+        "publisher": "Diva Press",
+        "publishedDate": 2015,
+        "publishedPlace": "Yogyakarta"
+    },
+    "book_8": {
+        "title": "Solo Leveling",
+        "author": "Chugong",
+        "publisher": "Gramedia Pustaka Utama",
+        "publishedDate": 2023,
+        "publishedPlace": "Jakarta"
+    },
+    "book_9": {
+        "title": "Jung's map of the Soul : an introduction",
+        "author": "Murray Stein",
+        "publisher": "Shira Media",
+        "publishedDate": 2018,
+        "publishedPlace": "Yogyakarta"
+    }, 
+    "book_10": {
+        "title": "And Then There Were None",
+        "author": "Agatha Christie",
+        "publisher": "Gramedia Pustaka Utama",
+        "publishedDate": 2020,
+        "publishedPlace": "Jakarta"
+    }
+}
