@@ -1,0 +1,119 @@
+{
+    "Buku 1": {
+         "Judul": "Jakarta Sebelum Pagi",
+         "Pengarang": "Ziggy Zezsyazeoviennazabrizkie",
+          "Edisi": "Cetakan 2",
+          "Penerbit": "Grasindo",
+          "Tahun terbit": "2017",
+          "Tempat terbit": "Jakarta",
+          "ISBN": "978-602-375-843-2",
+          "Deskripsi fisik": "270 halaman, 20 cm",
+          "Subjek": "Fiksi Indonesia" 
+    },
+    "Buku 2": {
+        "Judul": "Gadis Minimarket",
+        "Pengarang": "Sayaka Murata",
+        "Edisi": "Cetakan 2",
+        "Penerbit": "Gramedia Pustaka Utama",
+        "Tahun terbit": "2020",
+        "Tempat terbit": "Jakarta",
+        "ISBN": "978-602-064-439-4",
+        "Deskripsi fisik": "159 halaman, 20 cm",
+        "Subjek": "Fiksi Jepang"
+    },
+    "Buku 3": {
+        "Judul": "Selena",
+        "Pengarang": "Tere Liye",
+        "Edisi": "Cetakan 7",
+        "Penerbit": "Gramedia Pustaka Utama",
+        "Tahun terbit": "2021",
+        "Tempat terbit": "Jakarta",
+        "ISBN": "978-602-0639-51-2",
+        "Deskripsi fisik": "365 halaman, 20 cm",
+        "Subjek": "Fiksi Indonesia"
+    },
+    "Buku 4": {
+        "Judul": "Hilmy Milan",
+        "Pengarang": "Nadia Ristivani",
+        "Edisi":  "Cetakan 12",
+        "Penerbit": "Bukune Kreatif Cipta",
+        "Tahun terbit": "2023",
+        "Tempat terbit": "Jakarta",
+        "ISBN": "978-602-220-423-7",
+        "Deskripsi fisik": "300 halaman, 19 cm",
+        "Subjek": "Fiksi Indonesia"
+    },
+    "Buku 5": {
+        "Judul": "Giselle",
+        "Pengarang": "Akiyoshi Rikako",
+        "Edisi": "Cetakan 1",
+        "Penerbit": "Haru Media",
+        "Tahun terbit": "2019",
+        "Tempat terbit": "Ponorogo",
+        "ISBN": "978-602-52972-9-8",
+        "Deskripsi fisik": "400 halaman, 19 cm",
+        "Subjek": "Fiksi Jepang"
+    },
+    "Buku 6": {
+        "Judul": "Cantik itu Luka",
+        "Pengarang": "Eka Kurniawan",
+        "Edisi": "Cetakan 14",
+        "Penerbit": "Gramedia Pustaka Utama",
+        "Tahun terbit": "2018",
+        "Tempat terbit": "Jakarta",
+        "ISBN": "978-602-03-1258-3",
+        "Deskripsi fisik": "505 halaman, 21 cm",
+        "Subjek": "Fiksi Indonesia"
+    },
+    "Buku 7": {
+        "Judul": "Keajaiban Toko Kelontong Namiya",
+        "Pengarang": "Keigo Higashino",
+        "Edisi": "Cetakan 3",
+        "Penerbit": "Gramedia Pustaka Utama",
+        "Tahun terbit": "2021",
+        "Tempat terbit": "Jakarta",
+        "ISBN": "978-602-06-4829-3",
+        "Deskripsi fisik": "398 halaman, 21 cm",
+        "Subjek": "Fiksi Jepang"
+    },
+    "Buku 8": {
+        "Judul": "Almond",
+        "Pengarang": "Sohn Won-pyung",
+        "Edisi": "Cetakan 8",
+        "Penerbit": "Grasindo",
+        "Tahun terbit": "2021",
+        "Tempat terbit": "Jakarta",
+        "ISBN": "978-602-051-980-7",
+        "Deskripsi fisik": "222 halaman, 21 cm",
+        "Subjek": "Fiksi Korea"
+    },
+    "Buku 9": {
+        "Judul": "Amba",
+        "Pengarang": "Lasmi Pamuntjak",
+        "Edisi": "Cetakan 8",
+        "Penerbit": "Gramedia Pustaka Utama",
+        "Tahun terbit": "2020",
+        "Tempat terbit": "Jakarta",
+        "ISBN": "978-602-03-5021-9",
+        "Deskripsi fisik": "577 halaman, 21 cm",
+        "Subjek": "Fiksi Indonesia"
+    },
+    "Buku 10": {
+        "Judul": "Tujuh Hari untuk Keshia",
+        "Pengarang": "Inggrid Sonya",
+        "Edisi": "Cetakan 1",
+        "Penerbit": "PT Elex Media Komputindo",
+        "Tahun terbit": "2019",
+        "Tempat terbit": "Jakarta",
+        "ISBN": "978-602-04-8972-8",
+        "Deskripsi fisik": "450 halaman, 20 cm",
+        "Subjek": "Fiksi Indonesia"
+    }
+}
+
+
+
+
+
+    
+    
