@@ -1,0 +1,95 @@
+{
+    "Book_1": {
+        "Title": "The Boyfriend",
+        "Author": "Freida McFadden",
+        "Publisher": "Poisoned Pen Press",
+        "Release Date": "October 1",
+        "Release Year": 2024,
+        "Language": "English",
+        "ISBN-13": "978-1728296227"
+    },
+    "Book_2": {
+        "Title": "Fourth Wing (The Empyrean, 1)",
+        "Author": "Rebecca Yarros",
+        "Publisher": "Entangled: Red Tower Books",
+        "Release Date": "September 17",
+        "Release Year": 2024,
+        "Language": "English",
+        "ISBN-13": "978-1649377371"
+    },
+    "Book_3": {
+        "Title": "Iron Flame (The Empyrean series - Book 2), International Edition",
+        "Author": "Rebecca Yarros",
+        "Publisher": "Little, Brown Book",
+        "Release Date": "November 1",
+        "Release Year": 2023,
+        "Language": "English",
+        "ISBN-13": "978-0349437033"
+    },
+    "Book_4": {
+        "Title": "Harry Potter and the Order of the Phoenix (Harry Potter, Book 5) (5)",
+        "Author": "J. K. Rowling",
+        "Publisher": "Arthur A. Levine Books; Reissue edition",
+        "Release Date": "June 26",
+        "Release Year": 2018,
+        "Language": "English",
+        "ISBN-13": "978-1338299182"
+    },
+    "Book_5": {
+        "Title": "Harry Potter and the Goblet of Fire (Harry Potter, Book 4) (4)",
+        "Author": "J. K. Rowling",
+        "Publisher": "Arthur A. Levine Books; 20th Anniversary ed. edition",
+        "Release Date": "June 26",
+        "Release Year": 2018,
+        "Language": "English",
+        "ISBN-13": "978-1338299175"
+    },
+    "Book_6": {
+        "Title": "Harry Potter and the Sorcerer's Stone (Harry Potter, Book 1)",
+        "Author": "J. K. Rowling",
+        "Publisher": "Scholastic Inc.; Reprint edition",
+        "Release Date": "May 2",
+        "Release Year": 2023,
+        "Language": "English",
+        "ISBN-13": "978-1338878929"
+    },
+    "Book_7": {
+        "Title": "The Women (International Edition)",
+        "Author": "Kristin Hannah",
+        "Publisher": "Pan Macmillan UK; International Edition",
+        "Release Date": "February 1",
+        "Release Year": 2024,
+        "Language": "English",
+        "ISBN-13": "978-1035005680"
+    },
+    "Book_8": {
+        "Title": "Here One Moment",
+        "Author": "Liane Moriarty",
+        "Publisher": "Random House Large Print; Large type / Large print edition",
+        "Release Date": "September 10",
+        "Release Year": 2024,
+        "Language": "English",
+        "ISBN-13": "979-8217014293"
+    },
+    "Book_9": {
+        "Title": "A Court of Mist and Fury",
+        "Author": "Sarah J. Maas",
+        "Publisher": "Bloomsbury Publishing; Reprint edition",
+        "Release Date": "June 2",
+        "Release Year": 2020,
+        "Language": "English",
+        "ISBN-13": "978-1635575583"
+    },
+    "Book_10": {
+        "Title": "A Court of Thorns and Roses (A Court of Thorns and Roses, 1)",
+        "Author": "Sarah J. Maas",
+        "Publisher": "Bloomsbury Publishing",
+        "Release Date": "June 2",
+        "Release Year": 2020,
+        "Language": "English",
+        "ISBN-13": "978-1635575569"
+    },
+
+
+
+}
