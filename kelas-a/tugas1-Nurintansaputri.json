@@ -17,4 +17,21 @@
         "halaman": "368",
         "isbn": "978-602-220-433-6"
     },
-
+    "Buku Ketiga": {
+        "judul": "Manajemen Perpustakaan Digital",
+        "penulis": "Taufik Asmiyanto,Dkk",
+        "tempat terbit": "Jakarta",
+        "penerbit": "UI Press",
+        "tahun terbit": "2015",
+        "halaman": "150",
+        "isbn": "978-"
+    },
+    "Buku keempat": {
+        "judul": "Antologi Kepustakawanan Indonesia",
+        "penulis": "Blasius Sudarsono",
+        "tempat terbit": "Jakarta",
+        "penerbit": "Ikatan Pustakawan Indonesia",
+        "tahun terbit": "2006",
+        "halaman": "457",
+        "isbn": "979-8038-16-9"
+    },
