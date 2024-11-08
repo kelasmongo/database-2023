@@ -1,0 +1,93 @@
+{
+    "Book_1": {
+        "Title": "A Good Girl's Guide To Murder",
+        "Author": "Holly Jackson",
+        "Publisher": "Ember Publishing",
+        "Year": 2021,
+        "Language": "English",
+        "ISBN": "9781984896391",
+        "Pages": "389"
+    },
+    "Book_2": {
+        "Title": "A Little Life",
+        "Author": "Hanya Yanagihara",
+        "Publisher": "Pan Macmillan",
+        "Year": 2015,
+        "Language": "English",
+        "ISBN": "9781447294832",
+        "Pages": "720"
+    },
+    "Book_3": {
+        "Title": "As Long As The Lemon Trees Grow",
+        "Author": "Zoulfa Katouh",
+        "Publisher": "Brown Books for Young Readers",
+        "Year": 2022,
+        "Language": "English",
+        "ISBN": "9781526648518",
+        "Pages": "415"
+    },
+    "Book_4": {
+        "Title": "The Cruel Prince",
+        "Author": "Holly Black",
+        "Publisher": "Hot Key Books",
+        "Year": 2018,
+        "Language": "English",
+        "ISBN": "9781471407031",
+        "Pages": "370"
+    },
+    "Book_5": {
+        "Title": "Yellowface",
+        "Author": "R. F. Kuang",
+        "Publisher": "Harper Collins Publisher",
+        "Year": 2023,
+        "Language": "English",
+        "ISBN": "9780063323179",
+        "Pages": "323"
+    },
+    "Book_6": {
+        "Title": "Icebreaker",
+        "Author": "Hannah Grace",
+        "Publisher": "Simon & Schuster",
+        "Year": 2022,
+        "Language": "English",
+        "ISBN": "9781398525689",
+        "Pages": "433"
+    },
+    "Book_7": {
+        "Title": "The Book You Wish Your Parents Had Read",
+        "Author": "Philippa Perry",
+        "Publisher": "Penguin Life",
+        "Year": 2020,
+        "Language": "English",
+        "ISBN": "9780241251027",
+        "Pages": "265"
+    },
+    "Book_8": {
+        "Title": "The Virgin Suicides",
+        "Author": "Jeffrey Eugenides",
+        "Publisher": "Collins Modern Classics",
+        "Year": 2021,
+        "Language": "English",
+        "ISBN": "9780008485160",
+        "Pages": "243"
+    },
+    "Book_9": {
+        "Title": "Throne Of Glass",
+        "Author": "Sarah J. Maas",
+        "Publisher": "Bloomsburry Publishing",
+        "Year": 2012,
+        "Language": "English",
+        "ISBN": "9781408832332",
+        "Pages": "422"
+    },
+    "Book_10": {
+        "Title": "If Cats Disappeared From The World",
+        "Author": "Genki Kawamura",
+        "Publisher": "Picador",
+        "Year": 2018,
+        "Language": "English",
+        "ISBN": "9781509889174",
+        "Pages": "202",
+        "Translated": "True"
+    }
+}
