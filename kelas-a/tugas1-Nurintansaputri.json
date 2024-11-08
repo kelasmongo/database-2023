@@ -9,4 +9,15 @@
         "isbn": "978-602-72632-8-4"
     }
 },
+{
+    "Buku Kedua": {
+        "judul": "AZZAMINE",
+        "penulis": "Sophie Aulia",
+        "tempat terbit": "Jakarta Selatan",
+        "penerbit": "PT.Bukune Kreatif Cipta",
+        "tahun terbit": "2022",
+        "halaman": "368",
+        "isbn": "978-602-220-433-6"
+    }
+}
 
