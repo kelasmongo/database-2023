@@ -1,0 +1,102 @@
+{
+    "Bibliografi_1": [
+      { 
+        "Judul": "Pengelolaan Perpustakaan",
+        "Pengarang": "Sudibyo", 
+        "Bahasa": "Indonesia",
+        "Penerbit": "Penerbit Alumni",
+        "Tahun Terbit": "1987",
+        "Kota Terbit": "Bandung"
+      }
+  ], 
+    "Bibliogrfi_2": [
+      {
+        "Judul": "Libraries,literatures,archives",
+        "Pengarang": "Mays",
+        "Bahasa": "Inggris",
+        "Penerbit": "Routlegde",
+        "Tahun Terbit": "2014",
+        "Kota Terbit": "New York"
+      }
+  ], 
+    "Bibliografi_3": [
+      {
+        "Judul": "Research methods in information",
+        "Pengarang": "Pickard",
+        "Bahasa": "Inggris",
+        "Penerbit": "Facet",
+        "Tahun Terbit": "2013",
+        "Kota Terbit": "London"
+      }
+  ] ,
+    "Bibliografi_4": [
+      {
+        "Judul": "Menyemai benih teknologi pendidikan",
+        "Pengarang": "Yusufhadi Miarso",
+        "Bahasa": "Indonesia",
+        "Penerbit": "Kencana", 
+        "Tahun Terbit": "2015",
+        "Kota Terbit" : "Jakarta"
+      }
+  ], 
+    "Bibliografi_5": [
+      {
+        "Judul": "Konsep Pembiayaan Pendidikan",
+        "Pengarang": "Mulyono", 
+        "Bahasa": "Indonesia", 
+        "Penerbit": "Ar-Ruzz Media",
+        "Tahun Terbit": "2016",
+        "Kota Terbit": "Yogyakarta" 
+      }
+  ], 
+    "Bibliografi_6": [
+      {
+        "Judul": "Pendidikan kedamaian",
+        "Pengarang": "Sunaryo Kartadinata",
+        "Bahasa": "Indonesia",
+        "Penerbit": "Remaja Rosdakarya",
+        "Tahun Terbit": "2015", 
+        "Kota Terbit": "Bandung" 
+      }
+  ], 
+    "Bibliografi_7": [
+      {
+        "Judul": "Pendidikan generasi muda",
+        "Pengarang": "Yunisca Nurmalisa", 
+        "Bahasa": "Indonesia",
+        "Penerbit": "Media Akademi",
+        "Tahun Terbit": "2017",
+        "Kota Terbit": "Yogyakarta"
+      }
+  ],
+    "Bibliografi_8": [
+      {
+        "Judul": "Manajemen pendidikan karakter",
+        "Pengarang": "Mulyasa", 
+        "Bahasa": "Indonesia", 
+        "Penerbit": "Bumi Perkasa", 
+        "Tahun Terbit": "2012",
+        "Kota Terbit": "Jakarta"
+      }
+  ],
+    "Biblipografi_9": [
+      {
+        "Judul": "Promosi Perpustakaan",
+        "Pengarang": "Sujatna",
+        "Bahasa": "Indonesia",
+        "Penerbit": "Mahara Publishing",
+        "Tahun Terbit": "2017",
+        "Kota Terbit": "Tangerang"
+      }
+  ], 
+    "Bibliografi_10": [
+      {
+        "Judul": "Perpustakaan dan masyarakat", 
+        "Pengarang": "Sutarno", 
+        "Bahasa": "Indonesia",
+        "Penerbit": "Sagung seto",
+        "Tahun Terbit": "2006",
+        "Kota Terbit" : "Jakarta"
+      }
+  ]
+}
