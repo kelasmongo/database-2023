@@ -35,3 +35,114 @@
         "halaman": "457",
         "isbn": "979-8038-16-9"
     },
+    {
+    "Buku Kelima": {
+        "judul": "London Love Story",
+        "penulis": "Tisa TS",
+        "tempat terbit": "Jakarta Selatan",
+        "penerbit": "Loveable",
+        "tahun terbit": "2015",
+        "halaman": "192",
+        "isbn": "978-602-72989-7-2"
+    },
+    "Buku Keenam": {
+        "judul": "Dear Nathan",
+        "penulis": "Erisca Febriani",
+        "tempat terbit": "Depok",
+        "penerbit": "Best Media",
+        "tahun terbit": "2016",
+        "halaman": "528",
+        "isbn": "978-602-6940-14-8"
+    },
+    "Buku Ketujuh": {
+        "judul": "Mariposa",
+        "penulis": "Luluk Hidayatul Fajriyah",
+        "tempat terbit": "Depok",
+        "penerbit": "Coconut Books",
+        "tahun terbit": "2018",
+        "halaman": "482",
+        "isbn": "978-602-5508-61-5"
+    },
+    "Buku Kedelapan": {
+        "judul": "Perahu Kertas",
+        "penulis": "Dewi Lestari",
+        "tempat terbit": "Yogyakarta",
+        "penerbit": "Bentang Pustaka",
+        "tahun terbit": "2009",
+        "halaman": "444",
+        "isbn": "978-979-1227-78-0"
+    },
+    "Buku Kesembilan": {
+        "judul": "Surat Kecil Untuk Tuhan",
+        "penulis": "Agnes Davonar",
+        "tempat terbit": "Jakarta",
+        "penerbit": "Inandra Published",
+        "tahun terbit": "2008",
+        "halaman": "239",
+        "isbn": "978-979-0560-84-0"
+    },
+    "Buku Kesepuluh": {
+        "judul": "Negeri 5 Menara",
+        "penulis": "Ahmad Fuadi",
+        "tempat terbit": "Jakarta",
+        "penerbit": "Gramedia Pustaka Utama",
+        "tahun terbit": "2009",
+        "halaman": "423",
+        "isbn": "978-979-22-8004-3"
+    }
+{
+    "Buku Kelima": {
+        "judul": "London Love Story",
+        "penulis": "Tisa TS",
+        "tempat terbit": "Jakarta Selatan",
+        "penerbit": "Loveable",
+        "tahun terbit": "2015",
+        "halaman": "192",
+        "isbn": "978-602-72989-7-2"
+    },
+    "Buku Keenam": {
+        "judul": "Dear Nathan",
+        "penulis": "Erisca Febriani",
+        "tempat terbit": "Depok",
+        "penerbit": "Best Media",
+        "tahun terbit": "2016",
+        "halaman": "528",
+        "isbn": "978-602-6940-14-8"
+    },
+    "Buku Ketujuh": {
+        "judul": "Mariposa",
+        "penulis": "Luluk Hidayatul Fajriyah",
+        "tempat terbit": "Depok",
+        "penerbit": "Coconut Books",
+        "tahun terbit": "2018",
+        "halaman": "482",
+        "isbn": "978-602-5508-61-5"
+    },
+    "Buku Kedelapan": {
+        "judul": "Perahu Kertas",
+        "penulis": "Dewi Lestari",
+        "tempat terbit": "Yogyakarta",
+        "penerbit": "Bentang Pustaka",
+        "tahun terbit": "2009",
+        "halaman": "444",
+        "isbn": "978-979-1227-78-0"
+    },
+    "Buku Kesembilan": {
+        "judul": "Surat Kecil Untuk Tuhan",
+        "penulis": "Agnes Davonar",
+        "tempat terbit": "Jakarta",
+        "penerbit": "Inandra Published",
+        "tahun terbit": "2008",
+        "halaman": "239",
+        "isbn": "978-979-0560-84-0"
+    },
+    "Buku Kesepuluh": {
+        "judul": "Negeri 5 Menara",
+        "penulis": "Ahmad Fuadi",
+        "tempat terbit": "Jakarta",
+        "penerbit": "Gramedia Pustaka Utama",
+        "tahun terbit": "2009",
+        "halaman": "423",
+        "isbn": "978-979-22-8004-3"
+    }
+}
