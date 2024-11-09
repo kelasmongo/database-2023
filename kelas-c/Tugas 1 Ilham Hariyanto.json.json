@@ -1,0 +1,92 @@
+{
+    "Book 1": 1,
+    "Nonversation 1": [
+        {
+            "Title": "Claires",
+            "Author": "Valerie Patkar",
+            "Published": "Jakarta, 2019",
+            "Publisher": "Bhuana Ilmu Populer"
+        }
+    ],
+    "Book 2": 2,
+    "Nonversation 2": [
+        {
+            "Title": "Laut Bercerita",
+            "Author": "Leila Shalika Chudori",
+            "Published": "Jakarta, 2022",
+            "Publisher": "Kepustakaan Populer Gramedia"
+        }
+    ],
+    "Book 3": 3,
+    "Nonversation 3": [
+        {
+            "Title": "The Magic Of Thinking Big",
+            "Author": "David.J Schwartz",
+            "Published": "Jakarta, 2007",
+            "Publisher": "Binarupa Aksara"
+        }
+    ],
+    "Book 4": 4,
+    "Nonversation 4": [
+        {
+            "Title": "Tentang Kamu",
+            "Author": "Tere Liye",
+            "Published": "Depok, 2022",
+            "Publisher": "Sabak Grip Nusantara"
+        }
+    ],
+    "Book 5": 5,
+    "Nonversation 5": [
+        {
+            "Title": "Ayah",
+            "Author": "Andrea Hirata",
+            "Published": "Yogyakarta, 2015",
+            "Publisher": "Penerbit Bentang"
+        }
+    ],
+    "Book 6": 6,
+    "Nonversation 6": [
+        {
+            "Title": "Comedy Of Juno",
+            "Author": "Jacob Julian",
+            "Published": "Jakarta, 2014",
+            "Publisher": "Moka Media"
+        }
+    ],
+    "Book 7": 7,
+    "Nonversation 7": [
+        {
+            "Title": "Teka Teki Rumah Aneh",
+            "Author": "Uketsu",
+            "Published": "Jakarta, 2024",
+            "Publisher": "Gramedia Pustaka Utama"
+        }
+    ],
+    "Book 8": 8,
+    "Nonversation 8": [
+        {
+            "Title": "Harry Potter and The Goblet of Fire",
+            "Author": "J. K. Rowling",
+            "Published": "Jakarta, 2001",
+            "Publisher": "Gramedia Pustaka Utama"
+        }
+    ],
+    "Book 9": 9,
+    "Nonversation 9": [
+        {
+            "Title": "Butterflies",
+            "Author": "Ale",
+            "Published": "Jakarta, 2021",
+            "Publisher": "Nexterdey Publisher"
+        }
+    ],
+    "Book 10": 10,
+    "Nonversation 10": [
+        {
+            "Title": "Princes Kisah Tragis Putri Kerajaan Arab Saudi",
+            "Author": "Jean P. Sasson",
+            "Published": "Jakarta, 2007",
+            "Publisher": "Ramala Books"
+        }
+    ]
+}
