@@ -1,0 +1,94 @@
+{
+    "Bibliografi_1": [
+      {
+        "Judul": "Kamus Ilmu Perpstakaan dan Sains Informasi",
+        "Pengarang": "Sulistyo Basuki",
+        "Edisi": "Pertama",
+        "Penerbitan": "Jakarta, Sagung Seto 2018",
+        "ISBN": "9786022710813",
+        "Buku Teks": "True"
+      }
+  ],
+    "Bibliografi_2": [
+      {
+        "Judul": "Berkala Ilmu Perpustakaan dan Informasi",
+        "Penerbitan": "Yogyakarta, Perpustakaan UGM",
+        "Subjek": "Library and Information Science",
+        "Buku Teks": "False"
+      }
+  ],
+    "Bibliografi_3": [
+      {
+        "Judul": "Dasar-dasar Ilmu Perpustakaan Informasi",
+        "Pengarang": "Tri Septiyantono dan Umar Sidik",
+        "Penerbitan": "Yogyakarta, IAIN Sunan Kalijaga, 2003",
+        "ISBN": "9798548019",
+        "Buku Teks": "True"
+      }
+  ],
+    "Bibliografi_4": [
+      {
+        "Judul": "Organisasi Informasi Perpustakaan Pendekatan Teori dan Praktik",
+        "Pengarang": "Wiji Suwarno",
+        "Edisi": "Pertama",
+        "Penerbitan": "Jakarta, Rajawali 2016",
+        "ISBN": "9786024250416",
+        "Buku Teks": "True"
+      }
+  ],
+    "Bibliografi_5": [
+      {
+        "Judul": "Kompetensi Literasi Informasi Perpustakaan",
+        "Pengarang": "Hartono",
+        "Edisi": "Pertama",
+        "Penerbitan": "Jakarta, Sagung Seto 2019",
+        "ISBN": "9786022711346",
+        "Buku Teks": "True"
+      }
+  ],
+     "Bibliografi_6": [
+      {
+        "Judul": "Dasar-dasar Organisasi Panduan Pengatalogan Perpustakaan Berbasis MARC",
+        "Pengarang": "Hartono",
+         "Edisi": "Pertama",
+        "Penerbitan": "Jakarta, Sagung Seto 2016",
+        "ISBN": "9786022710776",
+        "Buku Teks": "True"
+      }
+  ],
+    "Bibliografi_7": [
+      {
+        "Judul": "Kejahatan Terhadap Informasi Cybercrime dalam Konteks Perpustakaan Digital",
+        "Pengarang": "Irhamni Ali",
+        "Penerbitan": "Jakarta, Pusat Jasa Perpustakaan dan Informasi Perpustakaan Nasional RI 2012",
+        "Buku Teks": "False"
+      }
+  ],
+    "Bibliografi_8": [
+      {
+        "Judul": "Titik Akses dalam Organisasi Perpustakaan",
+        "Pengarang": "Somadikarta",
+        "Penerbitan": "Depok, Jurusan Ilmu Perpustakaan Fakultas Sastra UI 1998",
+        "Subjek": "Library Information",
+        "Buku Teks": "True"
+      }
+  ],
+    "Bibliografi_9": [
+      {
+        "Judul": "Terbitan Berseri Indonesia Bidang Ilmu Perpustakaan dan Informasi",
+        "Penerbitan": "LIPI 2003",
+        "Subjek": "Library Science-Periodicals",
+        "ISSN": "01259008",
+        "Buku Teks": "False"
+      }
+  ],
+    "Bibliografi_10": [
+      {
+        "Judul": "Pengantar Aplikasi Teori Ilmu Sosial Komunikasi untuk Perpustakaan dan Informasi",
+        "Pengarang": "Pawit M. Yusuf",
+        "Penerbitan": "Jakarta, Prodi Ilmu Perpustakaan Universitas Padjajaran 2001",
+        "Subjek": "Communication Science and Library Use Studies",
+        "Buku Teks": "True"
+      }
+  ]
+}
