@@ -44,3 +44,31 @@
             "publisher": "ARGA Publishing",
             "pages": 36,
             "description": "buku ini berisi Al Ma'tsurat dengan tampilan menarik untuk anak-anak"
+
+        },
+        {
+            "isbn": "9771979576933",
+            "tittle" "Disney Junior Mangazine",
+            "author": "Disney",
+            "published": "Jakarta,2011",
+            "publisher": "Femina Group",
+            "pages": 36,
+            "description": "buku ini berisi aktivitas untuk anak-anak dengan tema disney"
+        },
+        {
+            "isbn": "9786028316422",
+            "tittle": "Kedashyatan Puasa,jadikan Hidup berkah"
+            "author": "Maksum, M. Syukron ",
+            "published": "Yogyakarta,2011",
+            "publisher": "Pustaka Marwa",
+            "pages": 136,
+            "description": "buku ini berisi macam-macam dan tata cara puasa"
+        },
+        {
+            "isbn": "979-1387-00-1",
+            "tittle": "ATLAS Lengkap Indonesia & Dunia 33 Provinsi edisi revisi" "
+            "author": "Karya Agung Surabaya",
+            "published": "Surabaya,2005",
+            "publisher": "Karya Agung Surabaya",
+            "pages": 96,
+            "description": "buku ini berisi peta indonesia dan dunia"
