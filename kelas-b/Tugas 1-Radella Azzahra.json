@@ -1,0 +1,101 @@
+{
+"no 1": {
+    "title": "Analisis kebijakan pendidikan: teori dan praktif",
+	"author": "Jejen Musfah",
+    "published": "Jakarta, 2022",
+    "publisher": "Kencana",
+	"language": "Indonesia",
+	"isbn": "978-623-384-156-6",
+	"abstract": "Buku ini membahas tentang bahan pembelajaran pada mata kuliah menajemen pendidikan selain itu digunakan juga untuk memperkaya wawasan menajemen dan kebijakan pendidikan oleh kepala sekolah, pengawasan dan pemilik yayasan pendidikan atau pesantren"
+	},
+	
+"no 2": { 
+    "title": "Lentera pustaka: jurnal kajian ilmu perpustakaan, informasi dan kearsipan",
+	"author": "Jurusan ilmu perpustakaan fakultas ilmu budaya universitas dipenogoro",
+    "published": "Semarang, 2013",
+    "publisher": "Jurusan ilmu perpustakaan fakultas ilmu budaya universitas dipenogoro",
+	"language": "Indonesia",
+	"isbn": "2302-4666",
+	"abstract" : "Berisikan jurnal jurnal kajian ilmu perpustakaan"
+	},
+	
+"no 3": { 
+    "title": "Administrasi pendidikan",
+	"author": "H. Nurochim :ed. Gramata Publishing",
+    "published": "Bekasi, 2016",
+    "publisher": "Gramata Publishing",
+	"language": "Indonesia",
+	"isbn": "978-602-6972-16-3",
+	"abstract": "Buku ini membahas tentang teori sampai implementasi dalam organisasi pendidikan disekola atau madrasah bahasan dalam buku ini meliputi  konsep dasar administrasi pendidikan, organisasi pendidikan komunikasi, organisasi pendidikan dll"
+	},
+	
+"no 4": { 
+    "title": "Bahasa indonesia untuk perguruan tinggi: membangun karakter mahasiswa",
+	"author": "Suyatno, Tri Pujiati, Didah Nurhamidah, Lutfi Syauki Faznur",
+    "published": "bogor, 2019",
+    "publisher": "In media",
+	"language": "Indonesia",
+	"isbn": "978-602-6469-37-3",
+	"abstract": "Buku ini hadir sebagai materi ajar bahasa indoensia di perguruan tinggi diharapkan mahasiswa mengkaji dan menggunakan bahasa indoensia dengan baik dan benar "
+	}, 
+	
+"no 5": { 
+    "title": "Syiah bukan Islam",
+	"author": "Tim ilmiah MIM",
+    "published": "Bekasi, 2015",
+    "publisher": "Gramata Publishing",
+	"language": "Indonesia",
+	"isbn": "978-602-0973-06-7",
+	"abstract": "Buku ini mengupas tentang bahaya dan kesehatan dari paham yang di sebutkan oleh syiah di tengah tengah masyarakat muslim"
+	},
+	
+"no 6": {
+	"title": "Menajemen mutu pendidikan tinggi: kiat sukses mengelola kinerja dan membangun keunggulan",
+	"author": "Hasyim asy'ari: ed, Risty mirsawati",
+    "published": "Depok, 2020",
+    "publisher": "Rajawali pers",
+	"language": "Indonesia",
+	"isbn": "978-623-231-428-3",
+	"abstract": "Buku ini berisi menajemen mutu mencakup penjaminan mutu, kontrol mutu dan perbaikan mutu"
+	},
+	
+"no 7": {
+	"title": "Teruslah bodoh jangan pintar",
+	"author": "Tere liye",
+    "published": "Depok",
+    "publisher": "PT sabak drip nusantara",
+	"language": "Indonesia",
+	"isbn": "9786238882205",
+	"abstract": "Saat hukum dan kekuasaan dipegang oleh serigala buas berbulu domba. saat seluruh negri dikakangi orang orang jualan sok sederhana tapi sejatinya serakah"
+	},
+	
+"no 8": {
+	"title": "Prophetic characher building",
+	"author": "Akhmad sodiq",
+    "published": "Jakarta timur, 2018",
+    "publisher": "Kencana",
+	"language": "Indonesia",
+	"isbn": "978-602-422-292-5",
+	"abstract": "Berisikan konsep praktis yang dapat digunakan dalam pendidikan khususnya hal hal yang berkaitan dengan prinsip dasar mujahadah dan riyadah, model tes intensitas bisikan batin, skala sikap, serta core kurikulum pendidikan akhlak"
+	},
+	
+"no 9": {
+	"title": "Metodologi studi islam",
+	"author": "H. Abuddin nata",
+    "published": "Jakarta, 2010",
+    "publisher": "Rajawali pers",
+	"language": "Indonesia",
+	"abstract": "Buku ini memberikan pengetahuan tentang islam dalam pendekatan yang komprehensif melalui pemaparan metode dan teknik"
+	},
+	
+"no 10": {
+	"title": "20 kisah teladan: perjalanan hidup nabi muhammad saw",
+	"author": "Tim gema insani",
+    "published": "Jakarta, 2008",
+    "publisher": "Gema insani",
+	"language": "Indonesia",
+	"isbn": "978-979-077-066-9", 
+	"abstract": "Buku ini menceritakan kisah kisah perjalanan nabi muhammad saw yang dikhusukan oleh anak anak untuk menumbuhkan kecerdasan dan sikap yang baik untuk dewasa nanti"
+	}
+	
+}  
