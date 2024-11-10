@@ -66,9 +66,27 @@
         },
         {
             "isbn": "979-1387-00-1",
-            "tittle": "ATLAS Lengkap Indonesia & Dunia 33 Provinsi edisi revisi" "
+            "tittle": "ATLAS Lengkap Indonesia & Dunia 33 Provinsi edisi revisi"
             "author": "Karya Agung Surabaya",
             "published": "Surabaya,2005",
             "publisher": "Karya Agung Surabaya",
             "pages": 96,
             "description": "buku ini berisi peta indonesia dan dunia"
+        },
+        {
+            "isbn": "9786020275710",
+            "tittle": "New Crayon Shinchan vol 3"
+            "author": "Yoshito Usui",
+            "published": "Jakarta,2021",
+            "publisher": "Elex Media Komputindo",
+            "pages": 112,
+            "description": "buku ini menceritakan tentang keseharian shinchan"
+        },
+        {
+            "isbn": "9786020462479",
+            "tittle": "Mozaik Role Vol 1"
+            "author": "Akka, Deco*27",
+            "published": "Jakarta,2018",
+            "publisher": "Elex Media Komputindo",
+            "pages": 168,
+            "description": "buku ini menceritakan kisah Megumi Nakashiro yang menghadapi kejadian supernatural"
