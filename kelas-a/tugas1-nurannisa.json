@@ -1,1 +1,113 @@
-
+{
+  "books_1": {
+    "title": "How to Master Your Habits",
+    "author": "Felix Y. Siauw",
+    "publisher": "AlFatih Press",
+    "place": "Jakarta",
+    "year": 2013,
+    "isbn": "978-602-17997-2-7",
+    "pages": 192,
+    "genre": "Self Improvement",
+    "available": true
+  },
+   "books_2": {
+     "title": "Tuhan, Pantaskah Aku Pulang Ke Surga?",
+     "author": "Kartini F. Astuti",
+     "publisher": "Linimasa Esa Inspirasa",
+     "place": "Bandung",
+     "year": 2023
+     "isbn": "978-623-966-327-8"
+     "pages": 304,
+     "genre": "Spiritual Motivation",
+     "available": true
+   },
+    "books_3": {
+      "title": "Dear Allah",
+      "author": "Diana Febiantria",
+      "publisher": "Coconut Books"
+      "place": "Depok",
+      "year": 2018,
+      "isbn": "978-602-5508-51-6",
+      "pages": 412,
+      "genre": "Romance",
+      "available": true
+    },
+     "books_4": {
+       "title": "Pernah Tenggelam",
+       "author": "Fuadh Naim",
+       "publisher": "AlFatih Press",
+       "place": "Jakarta",
+       "year": 2020,
+       "isbn": "978-602-52054-5-3",
+       "pages": 225,
+       "genre": "Sastra Indonesia",
+       "available": true
+     },
+      "books_5": {
+        "title": "Wanita Berkarir Surga",
+        "author": "Felix Y. Siauw, dkk",
+        "publisher": "AlFatih Press",
+        "place": "Jakarta",
+        "year": 2018,
+        "isbn": "978-602-71986-8-5",
+        "pages": 182,
+        "genre": "non fiction",
+        "available": true
+      },
+       "books_6": {
+         "title": "Filosofi Teras",
+         "author": "Henry Manampiring",
+         "publisher": "Penerbit Buku Kompas",
+         "place": "Jakarta",
+         "year": 2021,
+         "isbn": "978-623-346-303-4",
+         "pages": 326,
+         "genre": "Self Improvement",
+         "available": true
+       },
+        "books_7": {
+          "title": "Insecurity is My Middle Name",
+          "author": "Alvi Syahrin",
+          "publisher": "Alvi Ardhi Publishing",
+          "place": "Jakarta",
+          "year": 2021,
+          "isbn": "978-623-97002-0-1",
+          "pages": 264,
+          "genre": "Self Improvement",
+          "available": true 
+        },
+         "books_8": {
+           "title": "Asking For Trouble",
+           "subtitle": "Cari Gara-Gara",
+           "author": "Elizabeth Young",
+           "publisher": "Gramedia Pustaka Utama",
+           "place": "Jakarta",
+           "year": 2006,
+           "isbn": "979-22-2003-8",
+           "pages": 504,
+           "genre": "Romance",
+           "available": true
+         },
+          "books_9": {
+            "title": "Cinta Beda Kasta",
+            "author": "Eidelweis Almira",
+            "publisher": "Zettu",
+            "place": "Jakarta",
+            "year": 2014,
+            "isbn": "978-602-1298-29-9",
+            "pages": 200,
+            "genre": "Romance",
+            "available": true
+          },
+           "books_10": {
+             "title": "Hope",
+             "author": "Yustika M",
+             "publisher": "Gradien Mediatama",
+             "place": "Yogyakarta",
+             "year": 2018,
+             "isbn": "978-602-208-162-3",
+             "pages": 308,
+             "genre": "Romance",
+             "available": true
+           }
+}
