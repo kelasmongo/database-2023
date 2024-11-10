@@ -2,7 +2,7 @@
     "books" : [
         {
             "isbn": "9789790770348",
-            "tittle": "Kisah 25 nabiku",
+            "title": "Kisah 25 nabiku",
             "author": "Tim Gema Insani",
             "published": "Jakarta,2008",
             "publisher": "Gema Insani",
@@ -11,7 +11,7 @@
         },
         {
             "isbn": "9799627109",
-            "tittle": "ESQ"
+            "title": "ESQ"
             "author": "Ary Ginanjar",
             "published": "Jakarta,2009",
             "publisher": "ARGA Publishing",
@@ -20,7 +20,7 @@
         },
         {
             "isbn": "9786230306150",
-            "tittle": "Hai,Miiko vol 34"
+            "title": "Hai,Miiko vol 34"
             "author": "Ono Eriko",
             "published": "Jakarta pusat,2022",
             "publisher": "PT Gramedia Pustaka Utama - m&c",
@@ -29,7 +29,7 @@
         },
         {
             "isbn": "9786024205652",
-            "tittle": "Friends"
+            "title": "Friends"
             "author": "Putri Nabil",
             "published": "Bandung,2018",
             "publisher": "DAR! Mizan",
@@ -38,7 +38,7 @@
         },
         {
             "isbn": "9789790770942",
-            "tittle": "Al-Ma'tsurat untuk anak"
+            "title": "Al-Ma'tsurat untuk anak"
             "author": "Tim Gema Insani",
             "published": "Jakarta,2008",
             "publisher": "ARGA Publishing",
@@ -48,7 +48,7 @@
         },
         {
             "isbn": "9771979576933",
-            "tittle" "Disney Junior Mangazine",
+            "title" "Disney Junior Mangazine",
             "author": "Disney",
             "published": "Jakarta,2011",
             "publisher": "Femina Group",
@@ -57,7 +57,7 @@
         },
         {
             "isbn": "9786028316422",
-            "tittle": "Kedashyatan Puasa,jadikan Hidup berkah"
+            "title": "Kedashyatan Puasa,jadikan Hidup berkah"
             "author": "Maksum, M. Syukron ",
             "published": "Yogyakarta,2011",
             "publisher": "Pustaka Marwa",
@@ -66,7 +66,7 @@
         },
         {
             "isbn": "979-1387-00-1",
-            "tittle": "ATLAS Lengkap Indonesia & Dunia 33 Provinsi edisi revisi"
+            "title": "ATLAS Lengkap Indonesia & Dunia 33 Provinsi edisi revisi"
             "author": "Karya Agung Surabaya",
             "published": "Surabaya,2005",
             "publisher": "Karya Agung Surabaya",
@@ -75,7 +75,7 @@
         },
         {
             "isbn": "9786020275710",
-            "tittle": "New Crayon Shinchan vol 3"
+            "title": "New Crayon Shinchan vol 3"
             "author": "Yoshito Usui",
             "published": "Jakarta,2021",
             "publisher": "Elex Media Komputindo",
@@ -84,7 +84,7 @@
         },
         {
             "isbn": "9786020462479",
-            "tittle": "Mozaik Role Vol 1"
+            "title": "Mozaik Role Vol 1"
             "author": "Akka, Deco*27",
             "published": "Jakarta,2018",
             "publisher": "Elex Media Komputindo",
