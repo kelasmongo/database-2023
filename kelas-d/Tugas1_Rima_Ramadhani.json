@@ -3,30 +3,30 @@
   "Buku Ke-1": 
   [
       {
-          "Judul": Lolita 
-          "Penulis": Vladimir Nabokov 
-          "Penerbit": Sarambi Ilmu Semesta 
-          "Tempat Terbit": Jakarta
-          "Tahun Terbit": 2015
-          "Halaman": 454 halaman 
-          "ISBN": 978-602-290-029-0
-          "Bahasa": Indonesia
-          "Fiksi": True
+          "Judul": "Lolita",
+          "Penulis": "Vladimir Nabokov", 
+          "Penerbit": "Sarambi Ilmu Semesta", 
+          "Tempat Terbit": "Jakarta",
+          "Tahun Terbit": "2015",
+          "Halaman": "454 halaman", 
+          "ISBN": "978-602-290-029-0",
+          "Bahasa": "Indonesia",
+          "Fiksi": "True"
       }
   ],  
 
   "Buku Ke-2":
   [
       {
-          "Judul": Islam Warna-Warni 
-          "Penulis": John L. Esposito
-          "Penerbit": Paramadina
-          "Tempat Terbit": Jakarta
-          "Tahun Terbit": 2004
+          "Judul": "Islam Warna-Warni", 
+          "Penulis": "John L. Esposito",
+          "Penerbit": "Paramadina",
+          "Tempat Terbit": "Jakarta",
+          "Tahun Terbit": "2004",
           "Halaman": 
-          "ISBN": 979-8321-88-X
-          "Bahasa": Indonesia
-          "Fiksi": True 
+          "ISBN": "979-8321-88-X",
+          "Bahasa": "Indonesia",
+          "Fiksi": "True",
       }
   ],
 
@@ -39,7 +39,7 @@
           "Tempat Terbit": "Jakarta"
           "Tahun Terbit": "2023"
           "Halaman": "200 halaman"
-          "ISBN": 978-602-05-3022-2
+          "ISBN": "978-602-05-3022-2"
           "Bahasa": "Indonesia"
           "Fiksi": 
       }
