@@ -33,15 +33,15 @@
   "Buku Ke-3": 
   [
       {
-          "Judul":
-          "Penulis":
-          "Penerbit":
-          "Tempat Terbit":
-          "Tahun Terbit": 
-          "Halaman":
-          "ISBN": 
-          "Bahasa":
-          "Fiksi":
+          "Judul": "Dompet Ayah Sepatu Ibu"
+          "Penulis": "JS. Khairen" 
+          "Penerbit": "Gramedia Widiasarana Indonesia,Anggota IKAPI"
+          "Tempat Terbit": "Jakarta"
+          "Tahun Terbit": "2023"
+          "Halaman": "200 halaman"
+          "ISBN": 978-602-05-3022-2
+          "Bahasa": "Indonesia"
+          "Fiksi": 
       }
   ],
 
