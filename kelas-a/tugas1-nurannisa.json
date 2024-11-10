@@ -7,8 +7,7 @@
     "year": 2013,
     "isbn": "978-602-17997-2-7",
     "pages": 192,
-    "genre": "Self Improvement",
-    "available": true
+    "genre": "Self Improvement"
   },
    "books_2": {
      "title": "Tuhan, Pantaskah Aku Pulang Ke Surga?",
@@ -18,8 +17,7 @@
      "year": 2023
      "isbn": "978-623-966-327-8"
      "pages": 304,
-     "genre": "Spiritual Motivation",
-     "available": true
+     "genre": "Spiritual Motivation"
    },
     "books_3": {
       "title": "Dear Allah",
@@ -29,8 +27,7 @@
       "year": 2018,
       "isbn": "978-602-5508-51-6",
       "pages": 412,
-      "genre": "Romance",
-      "available": true
+      "genre": "Romance"
     },
      "books_4": {
        "title": "Pernah Tenggelam",
@@ -40,8 +37,7 @@
        "year": 2020,
        "isbn": "978-602-52054-5-3",
        "pages": 225,
-       "genre": "Sastra Indonesia",
-       "available": true
+       "genre": "Sastra Indonesia"
      },
       "books_5": {
         "title": "Wanita Berkarir Surga",
@@ -51,8 +47,7 @@
         "year": 2018,
         "isbn": "978-602-71986-8-5",
         "pages": 182,
-        "genre": "non fiction",
-        "available": true
+        "genre": "non fiction"
       },
        "books_6": {
          "title": "Filosofi Teras",
@@ -62,8 +57,7 @@
          "year": 2021,
          "isbn": "978-623-346-303-4",
          "pages": 326,
-         "genre": "Self Improvement",
-         "available": true
+         "genre": "Self Improvement"
        },
         "books_7": {
           "title": "Insecurity is My Middle Name",
@@ -73,8 +67,7 @@
           "year": 2021,
           "isbn": "978-623-97002-0-1",
           "pages": 264,
-          "genre": "Self Improvement",
-          "available": true 
+          "genre": "Self Improvement"
         },
          "books_8": {
            "title": "Asking For Trouble",
@@ -85,8 +78,7 @@
            "year": 2006,
            "isbn": "979-22-2003-8",
            "pages": 504,
-           "genre": "Romance",
-           "available": true
+           "genre": "Romance"
          },
           "books_9": {
             "title": "Cinta Beda Kasta",
@@ -96,8 +88,7 @@
             "year": 2014,
             "isbn": "978-602-1298-29-9",
             "pages": 200,
-            "genre": "Romance",
-            "available": true
+            "genre": "Romance"
           },
            "books_10": {
              "title": "Hope",
@@ -107,7 +98,6 @@
              "year": 2018,
              "isbn": "978-602-208-162-3",
              "pages": 308,
-             "genre": "Romance",
-             "available": true
+             "genre": "Romance"
            }
 }
