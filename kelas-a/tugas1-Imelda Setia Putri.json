@@ -1,114 +1,114 @@
  {
-   "books_1": {
-       "title": "Dilan",
-       "subtitle": "Dia Adalah Dilanku Tahun 1990",
-       "author": "Pidi Baiq",
-       "publisher": "Pastel Books",
-       "place": "Bandung",
-       "year": 2015,
-       "isbn": "978-602-7870-41-3",
-       "pages": 330,
-       "genre": "Fiksi",
-       "available_in_fah_library": true
+   "Books_1": {
+       "Title": "Dilan",
+       "Subtitle": "Dia Adalah Dilanku Tahun 1990",
+       "Author": "Pidi Baiq",
+       "Publisher": "Pastel Books",
+       "Place": "Bandung",
+       "Year": 2015,
+       "Isbn": "978-602-7870-41-3",
+       "Pages": 330,
+       "Genre": "Fiksi",
+       "Available_In_FAH_Library": true
    },
-    "books_2" : {
-        "title": "Dikta & Hukum",
-        "author": "Dhia’an Farah",
-        "publisher": "Asoka Aksara x Loveable",
-        "place": "Jakarta",
-        "year": 2021,
-        "isbn": "978-623-310-013-7",
-        "pages": 388,
-        "genre": "Fiksi",
-        "available_in_fah_library": false
+    "Books_2" : {
+        "Title": "Dikta & Hukum",
+        "Author": "Dhia’an Farah",
+        "Publisher": "Asoka Aksara x Loveable",
+        "Place": "Jakarta",
+        "Year": 2021,
+        "Isbn": "978-623-310-013-7",
+        "Pages": 388,
+        "Genre": "Fiksi",
+        "Available_In_FAH_Library": false
     },
-     "books_3": {
-        "title": "Rumah Kaca",
-        "author": "Pramoedya Ananta Toer",
-        "publisher": "Lentera Dipantara",
-        "place": "Jakarta",
-        "year": 1988,
-        "isbn": "979-97312-6-7",
-        "pages": 646,
-        "genre": "Fiksi",
-        "available_in_fah_library": true
+     "Books_3": {
+        "Title": "Rumah Kaca",
+        "Author": "Pramoedya Ananta Toer",
+        "Publisher": "Lentera Dipantara",
+        "Place": "Jakarta",
+        "Year": 1988,
+        "Isbn": "979-97312-6-7",
+        "Pages": 646,
+        "Genre": "Fiksi",
+        "Available_In_FAH_Library": true
     },
-     "books_4": {
-        "title": "Rindu",
-        "author": "Tere Liye",
-        "publisher": "Republika Penerbit",
-        "place": "Jakarta",
-        "year": 2014,
-        "isbn": "978-602-8997-90-4",
-        "pages": 544,
-        "genre": "Fiksi",
-        "available_in_fah_library": true
+     "Books_4": {
+        "Title": "Rindu",
+        "Author": "Tere Liye",
+        "Publisher": "Republika Penerbit",
+        "Place": "Jakarta",
+        "Year": 2014,
+        "Isbn": "978-602-8997-90-4",
+        "Pages": 544,
+        "Genre": "Fiksi",
+        "Available_In_FAH_Library": true
     },
-     "books_5": {
-        "title": "Kata",
-        "author": "Rintik Sedu",
-        "publisher": "Gagas Media",
-        "place": "Jakarta",
-        "year": 2018,
-        "isbn": "978-979-780-932-4",
-        "pages": 389,
-        "genre": "Fiksi",
-        "available_in_fah_library": false
+     "Books_5": {
+        "Title": "Kata",
+        "Author": "Rintik Sedu",
+        "Publisher": "Gagas Media",
+        "Place": "Jakarta",
+        "Year": 2018,
+        "Isbn": "978-979-780-932-4",
+        "Pages": 389,
+        "Genre": "Fiksi",
+        "Available_In_FAH_Library": false
     },
-     "books_6": {
-        "title": "Malam terakhir",
-        "author": "Laila S. Chudori",
-        "publisher": "Kepustakaan Populer Gramedia",
-        "place": "Jakarta",
-        "year": 2017,
-        "isbn": "978-602-424-132-2",
-        "pages": 117,
-        "genre": "Fiksi",
-        "available_in_fah_library": false
+     "Books_6": {
+        "Title": "Malam terakhir",
+        "Author": "Laila S. Chudori",
+        "Publisher": "Kepustakaan Populer Gramedia",
+        "Place": "Jakarta",
+        "Year": 2017,
+        "Isbn": "978-602-424-132-2",
+        "Pages": 117,
+        "Genre": "Fiksi",
+        "Available_In_FAH_Library": false
     },
-     "books_7": {
-        "title": "After School Horror",
-        "author": "Nana R. Pratini",
-        "publisher": "Bukune",
-        "place": "Jakarta",
-        "year": 2013,
-        "isbn": "602-220-102-0",
-        "pages": 164,
-        "genre": "Fiksi",
-        "available_in_fah_library": true
+     "Books_7": {
+        "Title": "After School Horror",
+        "Author": "Nana R. Pratini",
+        "Publisher": "Bukune",
+        "Place": "Jakarta",
+        "Year": 2013,
+        "Isbn": "602-220-102-0",
+        "Pages": 164,
+        "Genre": "Fiksi",
+        "Available_In_FAH_Library": true
     },
-     "books_8": {
-        "title": "Dear Nathan",
-        "author": "Erisca Febriani",
-        "publisher": "PT Melvana Media Indonesia",
-        "place": "Depok",
-        "year": 2016,
-        "isbn": "978-602-6940-14-8",
-        "pages": 528,
-        "genre": "Fiksi",
-        "available_in_fah_library": true
+     "Books_8": {
+        "Title": "Dear Nathan",
+        "Author": "Erisca Febriani",
+        "Publisher": "PT Melvana Media Indonesia",
+        "Place": "Depok",
+        "Year": 2016,
+        "Isbn": "978-602-6940-14-8",
+        "Pages": 528,
+        "Genre": "Fiksi",
+        "Available_In_FAH_Library": true
     },
-     "books_9": {
-        "title": "Malam Tanpa Akhir",
-        "author": "Agatha Christie",
-        "publisher": "PT Kompas Media Nusantara",
-        "place": "Jakarta",
-        "year": 2012,
-        "isbn": "978-979-22-8262-7",
-        "pages": 301,
-        "genre": "Fiksi",
-        "available_in_fah_library": true
+     "Books_9": {
+        "Title": "Malam Tanpa Akhir",
+        "Author": "Agatha Christie",
+        "Publisher": "PT Kompas Media Nusantara",
+        "Place": "Jakarta",
+        "Year": 2012,
+        "Isbn": "978-979-22-8262-7",
+        "Pages": 301,
+        "Genre": "Fiksi",
+        "Available_In_FAH_Library": true
     },
-     "books_10": {
-        "title": "Funiculi Funicula",
-        "subtitle": "Before the Coffe Gets Cold",
-        "author": "Tozhikazu Kawaguchi",
-        "publisher": "Gramedia Pustaka Utama",
-        "place": "Jakarta",
-        "year": 2021,
-        "isbn": "978-602-0651-92-7",
-        "pages": 223,
-        "genre": "Fiksi",
-        "available_in_fah_library": false
+     "Books_10": {
+        "Title": "Funiculi Funicula",
+        "Subtitle": "Before the Coffe Gets Cold",
+        "Author": "Tozhikazu Kawaguchi",
+        "Publisher": "Gramedia Pustaka Utama",
+        "Place": "Jakarta",
+        "Year": 2021,
+        "Isbn": "978-602-0651-92-7",
+        "Pages": 223,
+        "Genre": "Fiksi",
+        "Available_In_FAH_Library": false
     }
  }
