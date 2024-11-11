@@ -17,7 +17,7 @@
       "content type" : "teks",
       "ISBN" : "978-979-25-4825-9",
       "classification" : 100,
-      "subject" : "Filsafat"
+      "subject" : "Filsafat Pendidikan"
   },
   "book_3" : {
       "title" : "Filsafat Manusia: Upaya Memahami Kreasi Tuhan yang Paling Sempurna",
@@ -27,7 +27,7 @@
       "content type" : "teks",
       "ISBN" : "978-623-96104-4-9",
       "classification" : 100,
-      "subject" : "Filsafat"
+      "subject" : "Filsafat Manusia"
   },
   "book_4" : {
       "title" : "Gerbang Kearifan: Sebuah Pengantar Filsafat Islam",
@@ -37,7 +37,7 @@
       "content type" : "teks",
       "ISBN" : "979-9048-33-8",
       "classification" : 100,
-      "subject" : "Filsafat"
+      "subject" : "Filsafat Islam"
   },
   "book_5" : {
       "title" : "Praktikum Qira'at: Keanehan Bacaan Alquran Qira'at Ashim dari Hafash",
@@ -48,5 +48,55 @@
       "ISBN" : "978-602-8689-42-7",
       "classification" : 100,
       "subject" : "Al-Qur'an"
+  },
+  "book_6" : {
+      "title" : "Mengenal Filsafat Islam",
+      "author" : "Asep Sulaiman",
+      "publisher" : "Yrama Widya",
+      "year" : 2016,
+      "content type" : "teks",
+      "ISBN" : "978-602-374-376-6",
+      "classification" : 100,
+      "subject" : "Filsafat Islam"
+  },
+  "book_7" : {
+      "title" : "Filsafat Ilmu: Konsep, Sejarah, dan Pengembangan Metode Ilmiah",
+      "author" : "Suwardi Endraswara",
+      "publisher" : "CAPS",
+      "year" : 2017,
+      "content type" : "Teks",
+      "ISBN" : "978-602-9324-68-6",
+      "classification" : 100,
+      "subject" : "Filsafat Ilmu"
+  },
+  "book_8" : {
+      "title" : "Metode Praktis Penelitian Deskriptif Kualitatif",
+      "author" : "Mukhtar",
+      "publisher" : "Referensi",
+      "year" : 2013,
+      "content type" : "teks",
+      "ISBN" : "978-979-9151-91-9",
+      "classification" : "000",
+      "subject" : "Karya Ilmiah"
+  },
+  "book_9" : {
+      "title" : "Teologi Sayyid Quthb: Dalam Prinsip-Prinsip Keimanan dan Sifat Perbuatan Tuhan",
+      "author" : "Ridjaluddin F. N.",
+      "publisher" : "Pusat Kajian Islam FAI Uhamka",
+      "year" : 2011,
+      "content type" : "teks",
+      "ISBN" : "978-979-18958-5-9",
+      "classification" : 200,
+      "subject" : "Teologi"
+  },
+  "book_10" : {
+      "title" : "Percakapan Bahasa Inggris Sehari-Hari",
+      "author" : "S. F. Habeyb",
+      "publisher" : "Bhuana Ilmu Populer",
+      "year" : 2009,
+      "content type" : "teks",
+      "ISBN" : "979-9208-19-X",
+      "classification" : 400,
+      "subject" : "Bahasa Inggris"
   }
 }
