@@ -1,1 +1,100 @@
-    
+{
+    "books_1": {
+        "title": "Skaya and The Big Boss",
+        "author": "Marsella Tina",
+        "publisher": "Akad",
+        "place": "Depok",
+        "year": 2022,
+        "isbn": "978-623-97760-9-1",
+        "pages": 368,
+        "genre": "Romance"
+    },
+    "books_2": {
+        "title": "12 Cerita Glen Anggara",
+        "author": "Luluk HF",
+        "publisher": "Coconut Books",
+        "place": "Depok",
+        "year": 2019,
+        "isbn": "9786237439073",
+        "pages": 384,
+        "genre": "Romance"
+    },
+    "books_3": {
+        "title": "Max Havelaar",
+        "author": "Multatuli",
+        "publisher": "Qanita",
+        "place": "Bandung",
+        "year": 2016,
+        "isbn": "978-602-1637-45-6",
+        "pages": 480,
+        "genre": "History"
+    },
+    "books_4": {
+        "title": "Daddy's Day Out",
+        "author": "Renita Nozaria",
+        "publisher": "Romancious",
+        "place": "Jakarta Selatan",
+        "year": 2021,
+        "isbn": "978-623-6533-01-7",
+        "pages": 420,
+        "genre": "Slice of Life"
+    },
+    "books_5": {
+        "title": "Lavender",
+        "author": "Astri Salvia Aznani",
+        "publisher": "Loveable",
+        "place": "Jakarta Selatan",
+        "year": 2022,
+        "isbn": "978-623-310-040-3",
+        "pages": 320,
+        "genre": "Action"
+    },
+    "books_6": {
+        "title": "I Love You Dearly",
+        "author": "Ria N. Badaria",
+        "publisher": "Gramedia",
+        "place": "Jakarta",
+        "year": 2018,
+        "isbn": "9786020381558",
+        "pages": 304,
+        "genre": "Romance"
+    },
+    "books_7": {
+        "title": "Matahari Minor",
+        "author": "Tere Liye",
+        "publisher": "Sabakgrip",
+        "place": "Depok",
+        "year": 2022,
+        "isbn": "978-623-99878-9-3",
+        "pages": 363,
+        "genre": "Action"
+    },
+    "books_8": {
+        "title": "Love Cake",
+        "author": "Jee",
+        "publisher": "Bentang",
+        "place": "Yogyakarta",
+        "year": 2016,
+        "isbn": "978-602-291-123-4",
+        "pages": 286,
+        "genre": "Romance"
+    },
+    "books_9": {
+        "title": "In a Blue Moon",
+        "author": "Ilana Tan",
+        "publisher": "Gramedia",
+        "place": "Jakarta",
+        "year": 2016,
+        "isbn": "978-602-03-1462-4",
+        "pages": 320,
+        "genre": "Romance"
+    },
+    "books_10": {
+        "title": "The Legends of King Arthur and His Knights",
+        "author": "Sir James Knowles",
+        "publisher": "Qanita",
+        "place": "Bandung",
+        "year": 2017,
+        "isbn": "978-602-402-086-6",
+        "pages": 372,
+        "genre": "Fairy tale"
