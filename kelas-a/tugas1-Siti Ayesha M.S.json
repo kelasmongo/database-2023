@@ -7,7 +7,7 @@
         "year": 2022,
         "isbn": "978-623-97760-9-1",
         "pages": 368,
-        "genre": "Romance"
+        "language": "Indonesia"
     },
     "books_2": {
         "title": "12 Cerita Glen Anggara",
@@ -17,7 +17,7 @@
         "year": 2019,
         "isbn": "9786237439073",
         "pages": 384,
-        "genre": "Romance"
+        "language": "Indonesia"
     },
     "books_3": {
         "title": "Max Havelaar",
@@ -27,7 +27,7 @@
         "year": 2016,
         "isbn": "978-602-1637-45-6",
         "pages": 480,
-        "genre": "History"
+        "language": "Indonesia"
     },
     "books_4": {
         "title": "Daddy's Day Out",
@@ -37,7 +37,7 @@
         "year": 2021,
         "isbn": "978-623-6533-01-7",
         "pages": 420,
-        "genre": "Slice of Life"
+        "language": "Indonesia"
     },
     "books_5": {
         "title": "Lavender",
@@ -47,7 +47,7 @@
         "year": 2022,
         "isbn": "978-623-310-040-3",
         "pages": 320,
-        "genre": "Action"
+        "language": "Indonesia"
     },
     "books_6": {
         "title": "I Love You Dearly",
@@ -57,7 +57,7 @@
         "year": 2018,
         "isbn": "9786020381558",
         "pages": 304,
-        "genre": "Romance"
+        "language": "Indonesia"
     },
     "books_7": {
         "title": "Matahari Minor",
@@ -67,7 +67,7 @@
         "year": 2022,
         "isbn": "978-623-99878-9-3",
         "pages": 363,
-        "genre": "Action"
+        "language": "Indonesia"
     },
     "books_8": {
         "title": "Love Cake",
@@ -77,7 +77,7 @@
         "year": 2016,
         "isbn": "978-602-291-123-4",
         "pages": 286,
-        "genre": "Romance"
+        "language": "Indonesia"
     },
     "books_9": {
         "title": "In a Blue Moon",
@@ -87,7 +87,7 @@
         "year": 2016,
         "isbn": "978-602-03-1462-4",
         "pages": 320,
-        "genre": "Romance"
+        "language": "Indonesia"
     },
     "books_10": {
         "title": "The Legends of King Arthur and His Knights",
@@ -97,6 +97,6 @@
         "year": 2017,
         "isbn": "978-602-402-086-6",
         "pages": 372,
-        "genre": "Fairy tale"
+        "language": "Indonesia"
     }
 }
