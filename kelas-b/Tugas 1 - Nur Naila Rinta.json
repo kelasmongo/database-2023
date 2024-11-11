@@ -1,0 +1,96 @@
+{
+  "Buku_1": {
+    "Judul": "01.00",
+    "Judul Tambahan": "Hujan Juga Mengerti Kenapa Harus Turun",
+    "Penulis": "Ameylia Falensia",
+    "Nama Penerbit": "Loveable",
+    "Tempat Terbit": "Jakarta",
+    "Tahun Terbit": 2022,
+    "ISBN": "978-623-310-053-3",
+    "Halaman": 320
+  },
+  "Buku_2": {
+    "Judul": "Anne Of Green Gables",
+    "Penulis": "L.M. Montgomery",
+    "Nama Penerbit": "Gramedia Pustaka Utama",
+    "Tempat Terbit": "Jakarta",
+    "Tahun Terbit": 2021,
+    "ISBN": 9786020382500,
+    "Halaman": 408
+  },
+  "Buku_3": {
+    "Judul": "Batu, Daun, Cinta, Teman Sejati Belajarku",
+    "Judul Tambahan": "Perjuangan Guru-Guru Muda Menerapkan Pembelajaran Menyenangkan Dengan Media Alam Sekitar",
+    "Penulis": "Sekolah guru Indonesia",
+    "Nama Penerbit": "Dompet Duafa",
+    "Tempat Terbit": "Jawa Barat",
+    "Tahun Terbit": 2014,
+    "ISBN": "978-6027807-46-4",
+    "Halaman": 245
+  },
+  "Buku_4": {
+    "Judul": "Bandung Menjelang Pagi",
+    "Penulis": "Brian Khrisna",
+    "Nama Penerbit": "Mediakia",
+    "Tempat Terbit": "Jakarta",
+    "Tahun Terbit": 2024,
+    "ISBN": "978-979-794-811-5",
+    "Halaman": 300
+  },
+  "Buku_5": {
+    "Judul": "Bahasa Indonesia",
+    "Penulis": "Engkos Kosasih dan Restuiti",
+    "Nama Penerbit": "Penerbit Erlangga",
+    "Tempat Terbit": "Jakarta",
+    "Tahun Terbit": 2016,
+    "ISBN": "978-410-005-1",
+    "Halaman": 174
+  },
+  "Buku_6": {
+    "Judul": "Ramai Yang Dulu Kita Bawa Pergi",
+    "Penulis": "Suci Berliana",
+    "Nama Penerbit": "TransMedia Pustaka",
+    "Tempat Terbit": "Jakarta",
+    "Tahun Terbit": 2022,
+    "ISBN": "978-623-7100-82-9",
+    "Halaman": 240
+  },
+  "Buku_7": {
+    "Judul": "Ancika",
+    "Judul Tambahan": "Dia Yang Bersamaku Tahun 1995",
+    "Penulis": "Pidi Baiq",
+    "Nama Penerbit": "Pastel Book",
+    "Tempat Terbit": "Bandung",
+    "Tahun Terbit": 2021,
+    "ISBN": 9786026716897,
+    "Halaman": 340
+  },
+  "Buku_8": {
+    "Judul": "Hujan",
+    "Penulis": "Tere Liye",
+    "Nama Penerbit": "Gramedia Pustaka Utama",
+    "Tempat Terbit": "Jakarta",
+    "Tahun Terbit": 2016,
+    "ISBN": "978-602-032-478-4",
+    "Halaman": 320
+  },
+  "Buku_9": {
+    "Judul": "Si Anak Pintar",
+    "Penulis": "Tere Liye",
+    "Nama Penerbit": "Sabal Grip Nusantara",
+    "Tempat Terbit": "Jawab Barat",
+    "Tahun Terbit": 2022,
+    "ISBN": "978-623-95545-5-2",
+    "Halaman": 364
+  },
+  "Buku_10": {
+    "Judul": "Kita Pergi Hari Ini",
+    "Judul Tambahan": "Atau Tempat-Tempat Indah Dalam Mimpi-Mimpi Anak-Anak Baik-Baik",
+    "Penulis": "Ziggy Zezsyazeoviennazabrizkie",
+    "Nama Penerbit": "Gramedia Pustaka Utama",
+    "Tempat Terbit": "Jakarta",
+    "Tahun Terbit": 2021,
+    "ISBN": "978-602-06-5747-9",
+    "Halaman": 192
+  }
+}
