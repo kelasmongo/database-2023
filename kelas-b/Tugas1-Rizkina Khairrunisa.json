@@ -1,9 +1,9 @@
 {
     "tutu": {
         "employeeid" : 1,
-        "nama_buku" :"Azzamine",
-        "penulis" : "Shophie Aulia",
-        "penerbit" : "Kawah Media"
+        "nama_buku" :"Heart-Shaped Tears",
+        "penulis" : "Goo Hye Sun",
+        "tahun" : "2019"
     },
     "white": {
         "employeeid" : 2,
