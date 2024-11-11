@@ -1,0 +1,115 @@
+{
+    "Buku 1": [
+        {
+            "Judul": "Laut Bercerita",
+            "Pengarang": "Leila S. Chudori",
+            "Penerbit": "Kepustakaan Populer Gramedia",
+            "Tahun Terbit": "2017",
+            "Tempat Terbit": "Jakarta",
+            "No. Standar": "ISBN 978-602-424-694-5",
+            "Subjek":"Fiksi"
+        }
+    ],
+    "Buku 2": [
+        {
+            "Judul": "Bendera Setengah Tiang",
+            "Pengarang": "Annisa Lim",
+            "Penerbit": "coconut Book",
+            "Tahun Terbit": "2022",
+            "Tempat Terbit": "Jakarta",
+            "No. Standar": "ISBN 9786236456293",
+            "Subjek":"Fiksi"
+        }
+    ],
+    "Buku 3": [
+        {
+            "Judul": "Cantik Itu Luka",
+            "Pengarang": "Eka Kurniawan",
+            "Penerbit": "Gramedia Pustaka Utama",
+            "Tahun Terbit": "2015",
+            "Tempat Terbit": "Jakarta",
+            "No. Standar": "ISBN 979-22-0798-8",
+            "Subjek":"Fiksi"
+        }
+    ],
+    "Buku 4": [
+        {
+            "Judul": "The Isle Of The Lost",
+            "Pengarang": "Melissa De la Cruz",
+            "Penerbit": "Disney Hyperion",
+            "Tahun Terbit": "2015",
+            "Tempat Terbit": "New York",
+            "No. Standar": "ISBN 978-1484725443",
+            "Subjek":"Fiksi",
+            "Bahasa":"Inggris"
+        }
+    ],
+    "Buku 5": [
+        {
+            "Judul": "Harry Potter And The Half-Blood Prince",
+            "Pengarang": "J.K. Rowling",
+            "Penerbit": "Bloomsbury",
+            "Tahun Terbit": "2017",
+            "Tempat Terbit": "New York",
+            "No. Standar": "ISBN 9786020377414",
+            "Subjek":"Fiksi",
+            "Bahasa":"Inggris"
+        }
+    ],
+    "Buku 6": [
+        {
+            "Judul": "Percy Jackson And The Olympians, The Lightning Tief",
+            "Pengarang": "Rick Riordan",
+            "Penerbit": "Disney Hyperion",
+            "Tahun Terbit": "2006",
+            "Tempat Terbit": "New York",
+            "No. Standar": "ISBN 0-7868-5629-7",
+            "Subjek":"Fiksi",
+            "Bahasa":"Inggris"
+        }
+    ],
+    "Buku 7": [
+        {
+            "Judul": "Malioboro at Midnight",
+            "Pengarang": "Skysphire",
+            "Penerbit": "Bukune Kreatif Cipta",
+            "Tahun Terbit": "2023",
+            "Tempat Terbit": "Jakarta",
+            "No. Standar": "ISBN 979-22-0798-8",
+            "Subjek":"Fiksi"
+        }
+    ],
+    "Buku 8": [
+        {
+            "Judul": "Funiculi Funicula",
+            "Pengarang": "Toshikazu Kawaguchi",
+            "Penerbit": "Gramedia Pustaka Utama",
+            "Tahun Terbit": "2021",
+            "Tempat Terbit": "Jakarta",
+            "No. Standar": "ISBN 9786020651927",
+            "Subjek":"Fiksi-Fantasi"
+        }
+    ],
+    "Buku 9": [
+        {
+            "Judul": "Fairy Tale Sound Book: Goldilocks",
+            "Pengarang": "North Parade",
+            "Penerbit": "Bhuana Ilmu Populer",
+            "Tahun Terbit": "2024",
+            "Tempat Terbit": "Jakarta",
+            "No. Standar": "ISBN 9786230417825",
+            "Subjek":"Fiksi"
+        }
+    ],
+    "Buku 10": [
+        {
+            "Judul": "Capital Letters",
+            "Pengarang": "Jocelyn Suherman",
+            "Penerbit": "Romancious",
+            "Tahun Terbit": "2022",
+            "Tempat Terbit": "Jakarta",
+            "No. Standar": "ISBN 9786233100748",
+            "Subjek":"Fiksi Remaja"
+        }
+    ]
+}
