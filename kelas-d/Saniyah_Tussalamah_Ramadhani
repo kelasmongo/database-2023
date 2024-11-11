@@ -1,0 +1,115 @@
+{
+
+  "buku 1" :  {
+  "judul Buku" : "Bumi manusia",
+  "pengarang" : "Pramoedya Ananta Noer", 
+  "nama penerbit" : "Lentera Dipantara",
+  "tahun terbit" : 2018,
+  "halaman" : 328,
+  "ISBN" : 9789799731237,
+  "bahasa" : "Indonesia"
+     
+  },
+  
+  "buku 2" : {
+      "judul Buku" : "Berani tidak disukai",
+      "pengarang" :"Ichiro Kishimi dan Fumitake Koga",
+      "nama penerbit" : "Gramedia Pustaka Utama",
+      "tahun terbit" : 2019,
+      "halaman" : 323,
+      "ISBN" : 9786020633213,
+      "bahasa" : "Indonesia"
+    
+  },
+
+  "buku 3" : {
+    "judul Buku" : "The Art of Money",
+    "pengarang" : "Indra Ismawan", 
+    "nama penerbit" : "Media Pressindo",
+    "tahun terbit" : 2024,
+    "halaman" : 314,
+    "ISBN" : 9786237254942,
+    "bahasa" : "Indonesia" 
+
+  
+  },
+
+  "buku 4" : {
+    "Judul buku" : "The Visual Art of Love",
+    "pengarang" : "Ary Nilandari", 
+    "nama penerbit" : "Pastel Books",
+    "tahun terbit" : 2018,
+    "halaman" : 312,
+    "ISBN" : 9786026716378,
+    "bahasa" : "Indonesia"
+
+  },
+
+  "buku 5" : {
+    "Judul buku " : "Jakarta! Sebuah novel",
+    "pengarang" : "Christophe Dorigne-Thomson",
+    "nama penerbit" : "Gramedia Pustaka Utama",
+    "tahun Terbit" : 2012,
+    "halaman" : 376,
+    "ISBN" : 9789792284171,
+    "bahasa" : "Indonesia"
+
+
+  },
+
+  "buku 6" : {
+    "Judul buku" : "Seni Kaligrafi Islam",
+    "pengarang"  : "Didin Sirojuddin A.R.",
+    "nama penerbit" : "Amzah",
+    "tahun terbit" : 2016,
+    "halaman" : 387,
+    "ISBN" : 9786020875002,
+    "bahasa" : "Indonesia"
+    
+  },
+
+  "buku 7" : {
+    "Judul buku" : "Bergelar haji tanpa ke Mekkah",
+    "Pengarang" : "Syaiful Alim",
+    "nama penerbit" : "Diva Press",
+    "tahun terbit" : 2019,
+    "halaman" : 204,
+    "ISBN" : 9786023917273, 
+    "bahasa" : "Indonesia" 
+
+  }, 
+
+  "buku 8" : {
+    "Judul buku" : "Berhenti di kamu",
+    "pengarang" : "Gia Pratama",
+    "nama penerbit" : "Mizania",
+    "tahun terbit" : 2018,
+    "halaman" : 277,
+    "ISBN" : 9786024181833,
+    "bahasa" : "Indonesia" 
+
+
+  }, 
+
+  "buku 9" : {
+    "Judul buku" :"Seni Membaca Wajah",
+    "pengarang" : "Claudia Sabrina", 
+    "nama Penerbit" : "Bright Publisher",
+    "tahun terbit" : 2020,
+    "halaman" : 144,
+    "ISBN" : 9786237778165,
+    "bahasa" : "Indonesia"
+
+
+  }, 
+
+  "buku 10" : {
+    "Judul buku" : "Cara cerdas mengelola uang saku",
+    "pengarang" : "Dede Wulansari",
+    "nama penerbit" : "Alexander Books",
+    "tahun terbit" : 2019,
+    "halaman" : 59,
+    "ISBN" : 9786025740107,
+    "bahasa" : "Indonesia"
+} 
+}     
