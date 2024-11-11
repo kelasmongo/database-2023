@@ -1,0 +1,82 @@
+{
+      "Buku_1": [
+        {
+          "Judul": "Yang Telah Lama Pergi",
+          "Pengarang": "Tere Liye",
+          "Penerbit": "Sabak Grip Nusantara",
+          "ISBN": "9786238829606"
+        }
+    ],
+      "Buku_2": [
+        { 
+          "Judul": "Mariposa 2",
+          "Pengarang": "Luluk HF",
+          "Penerbit": "Coconut Books",
+          "ISBN": "9786236456101"
+        }
+    ],
+      "Buku_3": [
+        {
+          "Judul": "Negeri di ujung tannduk",
+          "Pengarang": "Tere Liye",
+          "Penerbit": "Sabak Grip Nusantara",
+          "ISBN": "9786238829637"
+        }
+    ],
+      "Buku_4": [
+        {
+          "Judul": "Bandit bandit berkelas",
+          "Pengarang": "Tere Liye",
+          "Penerbit": "Sabak Grip Nusantara",
+          "ISBN": "9786238882267"
+        }
+    ],
+      "Buku_5": [
+        {
+          "Judul": "Si anak pintar",
+          "Pengarang": "Tere Liye",
+          "Penerbit": "Republika Penerbit",
+          "ISBN": "9786025734502"
+          }
+    ],
+      "Buku_6": [
+        { 
+          "Judul": "Berjuta Rasanya",
+          "Pengarang": "Tere Liye",
+          "Penerbit": "Sabak Grip Nusantara",
+          "ISBN": "9786239554538"
+        }
+    ],
+      "Buku_7": [ 
+        {
+          "Judul": "The tokyo zodiac murder : Pembunuhan zodiak tokyo",
+          "Pengarang": "Soji Shimada",
+          "Penerbit": "Gramedia Pustaka Utama",
+          "ISBN": "9789792285918"
+        }
+    ],
+      "Buku_8": [
+        {
+          "Judul": "Tan : Geriliya bawa tanah",
+          "Pengarang": "Hendri Teja",
+          "Penerbit": "Javanica",
+          "ISBN": "9786026799289"
+        }
+    ],
+      "Buku_9": [
+        {
+          "Judul": "Oliver Twist",
+          "Pengarang": "Charles Dickens",
+          "Penerbit": "Bentang Pustaka",
+          "ISBN": "9786231860958"
+        } 
+    ],
+      "Buku_10": [
+        {
+          "Judul": "The Whispers",
+          "Pengarang": "Ashley Audrain",
+          "Penerbit": "Pamela Dorman Books",
+          "ISBN": "978059365733"
+        } 
+    ]
+}
