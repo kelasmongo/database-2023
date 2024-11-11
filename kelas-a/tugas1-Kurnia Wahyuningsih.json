@@ -1,93 +1,94 @@
 {
-  {
   "books_1": {
     "title": "Seribu Wajah Ayah",
     "author": "Nurun Ala",
     "publisher": "Gramedia Wifiasarana Indonesia",
-    "year": "2020",
+    "year": 2020,
     "language": "Indonesian",
-    "pages": "144",
-    "isbn": "9786020522678",
+    "pages": 144,
+    "isbn": "978-602-05-2267-8"
   }, 
   "books_2": {
     "title": "Progresnya Berapa Persen?", 
     "author": "Soraya Nasution", 
     "publisher": "Elex Media Komputindo", 
-    "year": "2019", 
+    "year": 2019, 
     "language": "Indonesian", 
-    "pages": "372", 
-    "isbn": "9786230003745", 
+    "pages": 372, 
+    "isbn": "978-623-00-0374-5"
   }, 
   "books_3": {
     "title": "The Eyes and The Impossible", 
     "author": "Dave Eggers", 
     "publisher": "Knopf Books for Young Readers", 
-    "year": "2023", 
+    "year": 2023, 
     "language": "English", 
-    "pages": "256", 
-    "isbn": "9781524764203", 
+    "pages": 256, 
+    "isbn": "978-152-47-6420-3" 
   }, 
   "books_4": {
-    "title": "Anomali: Memoar Seorang Bipolar", 
+    "title": "Anomali", 
+    "subtitle": "Memoar Seorang Bipolar", 
     "author": "Elnov", 
     "publisher": "Gramedia Pustaka Utama", 
-    "year": "2020", 
+    "year": 2020, 
     "language": "Indonesian", 
-    "pages": "176", 
-    "isbn": "9786020642277", 
+    "pages": 176, 
+    "isbn": "978-602-06-4227-7"
   }, 
   "books_5": {
     "title": "Percakapan Paling Panjang Perihal Pulang Pergi", 
     "author": ["Theoresia Rumthe", "Weslly Johannes"], 
     "publisher": "Gramedia Pustaka Utama", 
-    "year": "2021", 
+    "year": 2021, 
     "language": "Indonesian", 
-    "pages": "116", 
-    "isbn": "9786020650555"
+    "pages": 116, 
+    "isbn": "978-602-06-5054-8"
   }, 
   "books_6": {
     "title": "Di Tanah Lada", 
     "author": "Ziggy Zezsyazeoviennazabrizkie", 
     "publisher": "Gramedia Pustaka Utama", 
-    "year": "2015", 
+    "year": 2015, 
     "language": "Indonesian", 
-    "pages": "252", 
-    "isbn": "9786020318967", 
+    "pages": 252, 
+    "isbn": "978-602-03-1896-7"
   }, 
   "books_7": {
     "title": "What You Are Looking For is in the Library", 
     "author": "Michiko Aoyama", 
     "publisher": "Hanover Square Press", 
-    "year": "2023", 
+    "year": 2023, 
     "Language": "English", 
-    "pages": "304", 
-    "isbn": "9781335005625", 
+    "pages": 304, 
+    "isbn": "978-1335005625"
   }, 
   "books_8": {
     "title": "She and Her Cat", 
     "author": "Makoto Shinkai", 
     "publisher": "Atria Books", 
-    "year": "2022", 
+    "year": 2022, 
     "language": "English", 
-    "pages": "144", 
-    "isbn": "9781982165741", 
+    "pages": 144, 
+    "isbn": "978-1982165741"
   }, 
   "books_9": {
     "title": "The Good Son", 
     "author": "Jeong Yu-Jeong", 
     "publisher": "Gramedia Pustaka Utama", 
-    "year": "2019", 
+    "year": 2019, 
     "language": "Indonesian", 
-    "pages": "408", 
-    "isbn": "9786020622569", 
+    "pages": 408, 
+    "isbn": "978-602-06-2256-9"
   }, 
   "books_10": {
-    "title": "Supernova 6: Inteligensi Embun Pagi", 
+    "title": "Supernova 6", 
+    "subtitle": "Inteligensi Embun Pagi", 
     "author": "Dee Lestari", 
     "publisher": "Bentang Pustaka", 
-    "year": "2016", 
+    "year": 2016, 
     "language": "Indonesian", 
-    "pages": "724", 
-    "isbn": "9786022911319", 
+    "pages": 724, 
+    "isbn": "978-602-29-1131-9"
   }
 }
