@@ -1,0 +1,93 @@
+{
+    "Book_1": {
+        "Title": "Self Healing with Qur'an",
+        "Author": "Ummu Kalsum",
+        "Publisher": "Syalmahat Publishing",
+        "Year": "2022",
+        "Edition": "Cetakan pertama",
+        "ISBN": "9786235269016",
+        "Page": "186"
+    },
+    "Book_2": {
+        "Title": "Teori Kritik Sastra Arab : Klasik dan Modern",
+        "Author": "Sukron Kamil",
+        "Publisher": "Rajagrafindo Persada",
+        "Year": "2012",
+        "Edition": "Cetakan kedua",
+        "ISBN": "9789797692438",
+        "Page": "266"
+    },
+    "Book_3": {
+        "Title": "Gender dan Islam : Teks dan Konteks",
+        "Editor": "Waryono Abdul Ghafur dan Muh.Isnanto",
+        "Publisher": "PSW IAIN Sunan Kalijaga",
+        "Year": "2002",
+        "Edition": "Cetakan pertama",
+        "ISBN": "9793222042",
+        "Page": "270"
+    },
+    "Book_4": {
+        "Title": "Pedoman Umum EBI dan Kesalahan Berbahasa",
+        "Author": "Duwi Rahmadi",
+        "Publisher": "Genta Smart Publisher",
+        "Year": "2017",
+        "ISBN": "9786026359926",
+        "Page": "278"
+    },
+    "Book_5": {
+        "Title": "Magical White Chococeri",
+        "Author": "Laksita Judith Tabina",
+        "Publisher": "PT Mizan Pustaka",
+        "Year": "2013",
+        "Edition": "Cetakan pertama",
+        "ISBN": "9786022422624",
+        "Page": "140"
+    },
+    "Book_6": {
+        "Title": "Arkananta",
+        "Author": "Shiningjaemz",
+        "Publisher": "Akad",
+        "Year": "2022",
+        "Edition": "Cetakan kedua",
+        "ISBN": "9786239776046",
+        "Page": "244"
+    },
+    "Book_7": {
+        "Title": "Beauty and The Beast",
+        "Author": "Madame de Villeneuve",
+        "Translator": "Andityas Prabantoro",
+        "Publisher": "Qanita",
+        "Year": "2017",
+        "Edition": "Cetakan pertama",
+        "ISBN": "9786024020545",
+        "Page": "244"
+    },
+    "Book_8": {
+        "Title": "Kepustakawanan Profetik",
+        "Author": "Dr. Ade Abdul Hak, S.Ag.,S.S.,M.Hum",
+        "Publisher": "Adabia Press",
+        "Year": "2023",
+        "Edition": "Cetakan pertama",
+        "ISBN": "9786027908260",
+        "Page": "323"
+    },
+    "Book_9": {
+        "Title": "Perpustakaan idaman : panduan praktis mengelola perpustakaan tahun 2023",
+        "Author": "Karin Karina",
+        "Publisher": "Penerbit Erlangga",
+        "Year": "2023",
+        "Edition": "Cetakan 25",
+        "ISBN": "9786237478638",
+        "Page": "90"
+    },
+    "Book_10": {
+        "Title": "Beautiful Soul",
+        "Author": "Stefiani e.i",
+        "Publisher": "Gramedia Pustaka Utama",
+        "Year": "2012",
+        "Edition": "Cetakan ketiga",
+        "ISBN": "9789792282788",
+        "Page": "202",
+        "Subject": "Fiksi"
+    }
+}
