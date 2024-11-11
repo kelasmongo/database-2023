@@ -1,0 +1,65 @@
+{
+    "Anggito Seno's Library": "task 1",
+    "Book Collection": [
+        {
+            "Title": "Pengantar Psikologi Klinis",
+            "Author": "Markam, Suprapti Sumarmo",
+            "Published": "Jakarta, 2005",
+            "Publisher": "Penerbit Universitas Indonesia"
+        },
+        {
+            "Title": "Statistik Kebahasaan dan Kesastraan 2021",
+            "Author": "Indonesia. Kementerian Pendidikan dan Kebudayaan",
+            "Published": "Banten, 2021",
+            "Publisher": "Pusat Data dan Teknologi Informasi, Sekretariat Jenderal, Kementerian Pendidikan dan Kebudayaan"
+        },
+        {
+            "Title": "Pembunuhan ABC",
+            "Author": "Agatha Christie; Penerjemah Luci Dokubani",
+            "Published": "Jakarta, 1988",
+            "Publisher": "Penerbit Gramedia"
+        },
+        {
+            "Title": "KONTROVERSI GANJAR",
+            "Author": "Isdiyanto, Budiono Isman, Solikun",
+            "Published": "Jakarta, 2016",
+            "Publisher": "Kompas Media Nusantara"
+        },
+        {
+            "Title": "Akuntansi Koperasi ",
+            "Author": "Markam, Suprapti Sumarmo",
+            "Published": "Jawa Tengah, 2024",
+            "Publisher": "Arta Media"
+        },
+        {
+            "Title": "Keunikan Sastra Jepang",
+            "Author": "Yasuko Morito",
+            "Published": "Jakarta, 2017",
+            "Publisher": "Penerbit Kesaint Blanc"
+        },
+        {
+            "Title": "Manajemen Rantai Pasok",
+            "Author": "Trisita Novianti, Issa Dyah Utami, dan Wike Agustin Prima Dania",
+            "Published": "Malang, 2021",
+            "Publisher": "Media Nusa Creative"
+        },
+        {
+            "Title": "Rich Dad, Poor Dad",
+            "Author": "Robert T. Kiyosaki, Sharon L. Lechter",
+            "Published": "Jakarta, 2005",
+            "Publisher": "Gramedia Media Utama"
+        },
+        {
+            "Title": "Membangun Perilaku Masyarakat  Cerdas",
+            "Author": "Setiawati, Tabrani Rusyan",
+            "Published": "Yogyakarta, 2022",
+            "Publisher": "Deepublish"
+        },
+        {
+            "Title": "This is me! whatever you say",
+            "Author": "Muhajjah Sarantini ",
+            "Published": "Yogyakarta, 2019",
+            "Publisher": "C-Klik media"
+        }
+    ]
+}
