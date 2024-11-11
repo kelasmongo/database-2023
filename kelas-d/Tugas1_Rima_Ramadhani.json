@@ -23,7 +23,7 @@
           "Penerbit": "Paramadina",
           "Tempat Terbit": "Jakarta",
           "Tahun Terbit": "2004",
-          "Halaman": 
+          "Halaman": "332 halaman"
           "ISBN": "979-8321-88-X",
           "Bahasa": "Indonesia",
           "Fiksi": "True",
@@ -41,60 +41,60 @@
           "Halaman": "200 halaman"
           "ISBN": "978-602-05-3022-2"
           "Bahasa": "Indonesia"
-          "Fiksi": 
+          "Fiksi": "False"
       }
   ],
 
   "Buku Ke-4": 
   [
       {
-          "Judul":
-          "Penulis":
-          "Penerbit":
-          "Tempat Terbit":
-          "Tahun Terbit": 
-          "Halaman":
-          "ISBN": 
-          "Bahasa":
-          "Fiksi":
+          "Judul":  "Sufi Pinggiran:Menembus Batas-Batas"
+          "Penulis": "Abdul Munir Mulkhan"
+          "Penerbit": "Kanisius (Anggota IKAPI)"
+          "Tempat Terbit": "Yogyakarta"
+          "Tahun Terbit": "2007"
+          "Halaman": "204 halaman"
+          "ISBN": "979-21-1605-2"
+          "Bahasa": "Indonesia"
+          "Fiksi": "True"
       }
   ],
 
   "Buku Ke-5": 
   [
       {
-          "Judul":
-          "Penulis":
-          "Penerbit":
-          "Tempat Terbit":
-          "Tahun Terbit": 
-          "Halaman":
-          "ISBN": 
-          "Bahasa":
-          "Fiksi":
+          "Judul": "Bekerja dengan Hati"
+          "Penulis": "Sudirman Tebba"
+          "Penerbit": "Pustaka irVan"
+          "Tempat Terbit": "Jakarta"
+          "Tahun Terbit": "2009"
+          "Halaman": "224 halaman"
+          "ISBN": "978-602-8286-06-0"
+          "Bahasa": "Indonesia"
+          "Fiksi": "False"
       }
   ],
 
   "Buku Ke-6":
   [
       {
-          "Judul":
-          "Penulis":
-          "Penerbit":
-          "Tempat Terbit":
-          "Tahun Terbit": 
-          "Halaman":
-          "ISBN": 
-          "Bahasa":
-          "Fiksi":
+          "Judul": "Hidup Bahagia Cara Sufi"
+          "Penulis": "Sudirman Teba"
+          "Penerbit": "Pustaka irVan"
+          "Tempat Terbit": "Jakarta"
+          "Tahun Terbit": "2007"
+          "Halaman": "190 halaman"
+          "ISBN": "978-979-16559-5-8"
+          "Bahasa": "Indonesia"
+          "Fiksi": "False"
       }
   ],
 
   "Buku Ke-7":
   [
       {
-          "Judul":
-          "Penulis":
+          "Judul": "Misteri Sofia: Istri Nabi dari Putri Yahudi" 
+          "Penulis": "
           "Penerbit":
           "Tempat Terbit":
           "Tahun Terbit": 
