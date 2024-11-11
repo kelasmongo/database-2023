@@ -1,95 +1,95 @@
 {
-    "books_1": {
-      "title": "Perjalanan Mustahil Samiam dari Lisboa",
-      "subtitle": "Sepasang Elang dari Diyarbakir",
-      "author": "Zaky Yamani",
-      "place": "Jakarta",
-      "publisher": "Gramedia Pustaka Utama",
-      "year": 2024,
-      "pages": 352,
-      "isbn": "978-602-067-832-0"
-  },
-    "books_2": {
-      "title": "The Clockmaker's Daughter's",
-      "author": "Kate Morton",
-      "place": "Jakarta",
-      "publisher": "Elex Media Komputindo",
-      "year": 2023,
-      "pages": 506,
-      "isbn": "978-623-00-5224-8"
-  },
-    "books_3": {
-      "title": "Funiculi-Funicula",
-      "subtitle": "Before The Coffee Gets Cold",
-      "author": "Toshikazu Kawaguchi",
-      "place": "Jakarta",
-      "publisher": "Gramedia Pustaka Utama",
-      "year":2021,
-      "pages": 224,
-      "isbn": "978-602-065-192-7"
-   },
-     "books_4": {
-       "title": "The Shark Caller",
-       "author": "Zillah Bethel",
-       "place": "Jakarta",
-       "publisher": "Bhuana Ilmu Populer",
-       "year": 2022,
-       "pages": 320,
-       "isbn": "978-623-040-753-6"
-  },
-    "books_5": {
-      "title": "Anak Rembulan",
-      "subtitle": "Gerombolan Semut Hitam",
-      "author": "Djokolelono",
-      "place": "Bandung",
-      "publisher": "Mizan Pustaka",
-      "year": 2020,
-      "pages": 352,
-      "isbn": "978-602-441-165-7"
-  },
-    "books_6": {
-      "title": "Tunggu Aku di Batavia",
-      "author": "Ni Ketut Yuni Suastini",
-      "place": "Jakarta",
-      "publisher": "PT Falcon",
-      "year": 2022,
-      "pages": 399,
-      "isbn": "978-602-671-475-6"
-  },
-    "books_7": {
-      "title": "Pukul Setengah Lima",
-      "author": "Rintik Sendu",
-      "place": "Jakarta",
-      "publisher": "Gramedia Pustaka Utama",
-      "year": 2023,
-      "pages": 208,
-      "isbn": "978-602-067-274-8"
-  },
-    "books_8": {
-      "title": "The Midnight Library",
-      "author": "Matt Haig",
-      "place": "Jakarta",
-      "publisher": "Gramedia Pustaka Utama",
-      "year": 2021,
-      "pages":368,
-      "isbn": "978-602-064-932-0"
-  },
-    "books_9": {
-      "title":,
-      "author":,
-      "place":,
-      "publisher":,
-      "year":,
-      "pages":,
-      "isbn":
- },
-    "books_10": {
-      "title":,
-      "author":,
-      "place":,
-      "publisher":,
-      "year":,
-      "pages":,
-      "isbn":
-    }
+        "books_1": {
+          "title": "Perjalanan Mustahil Samiam dari Lisboa",
+          "subtitle": "Sepasang Elang dari Diyarbakir",
+          "author": "Zaky Yamani",
+          "place": "Jakarta",
+          "publisher": "Gramedia Pustaka Utama",
+          "year": 2024,
+          "pages": 352,
+          "isbn": "978-602-067-832-0"
+      },
+        "books_2": {
+          "title": "The Clockmaker's Daughter's",
+          "author": "Kate Morton",
+          "place": "Jakarta",
+          "publisher": "Elex Media Komputindo",
+          "year": 2023,
+          "pages": 506,
+          "isbn": "978-623-00-5224-8"
+      },
+        "books_3": {
+          "title": "Funiculi-Funicula",
+          "subtitle": "Before The Coffee Gets Cold",
+          "author": "Toshikazu Kawaguchi",
+          "place": "Jakarta",
+          "publisher": "Gramedia Pustaka Utama",
+          "year":2021,
+          "pages": 224,
+          "isbn": "978-602-065-192-7"
+      },
+        "books_4": {
+          "title": "The Shark Caller",
+          "author": "Zillah Bethel",
+          "place": "Jakarta",
+          "publisher": "Bhuana Ilmu Populer",
+          "year": 2022,
+          "pages": 320,
+          "isbn": "978-623-040-753-6"
+      },
+        "books_5": {
+          "title": "Anak Rembulan",
+          "subtitle": "Gerombolan Semut Hitam",
+          "author": "Djokolelono",
+          "place": "Bandung",
+          "publisher": "Mizan Pustaka",
+          "year": 2020,
+          "pages": 352,
+          "isbn": "978-602-441-165-7"
+      },
+        "books_6": {
+          "title": "Tunggu Aku di Batavia",
+          "author": "Ni Ketut Yuni Suastini",
+          "place": "Jakarta",
+          "publisher": "PT Falcon",
+          "year": 2022,
+          "pages": 399,
+          "isbn": "978-602-671-475-6"
+      },
+        "books_7": {
+          "title": "Pukul Setengah Lima",
+          "author": "Rintik Sendu",
+          "place": "Jakarta",
+          "publisher": "Gramedia Pustaka Utama",
+          "year": 2023,
+          "pages": 208,
+          "isbn": "978-602-067-274-8"
+      },
+        "books_8": {
+          "title": "The Midnight Library",
+          "author": "Matt Haig",
+          "place": "Jakarta",
+          "publisher": "Gramedia Pustaka Utama",
+          "year": 2021,
+          "pages":368,
+          "isbn": "978-602-064-932-0"
+      },
+        "books_9": {
+          "title": "Pulau Batu di Samudra Buatan",
+          "author": "Ziggy Zezsyazeoviennazabrizkie",
+          "place": "Jakarta",
+          "publisher": "Kepustakaan Populer Gramedia",
+          "year": 2023,
+          "pages": 192,
+          "isbn": "978-623-134-130-3"
+     },
+        "books_10": {
+          "title": "Entrok",
+          "author": "Okky Madasari",
+          "place": "Jakarta",
+          "publisher": "Gramedia Pustaka Utama",
+          "year": 2010,
+          "pages": 288,
+          "isbn": "978-979-225-589-8"
+     }
 }
