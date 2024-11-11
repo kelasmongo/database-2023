@@ -1,14 +1,13 @@
 {
     "books_1": {
-      "title": "Perjalanan Mustahil Samiam dari Lisboa : Sepasang Elang dari Diyarbakir",
+      "title": "Perjalanan Mustahil Samiam dari Lisboa",
+      "subtitle": "Sepasang Elang dari Diyarbakir",
       "author": "Zaky Yamani",
       "place": "Jakarta",
       "publisher": "Gramedia Pustaka Utama",
       "year": 2024,
       "pages": 352,
-      "isbn": "978-602-067-832-0",
-      "synopsis": "Buku ini membahas tentang perjalanan seseorang untuk mencari tanah leluhurnya dengan latar tahun di abad ke-16",
-      "genre": "fiksi sejarah"
+      "isbn": "978-602-067-832-0"
   },
     "books_2": {
       "title": "The Clockmaker's Daughter's",
@@ -17,20 +16,17 @@
       "publisher": "Elex Media Komputindo",
       "year": 2023,
       "pages": 506,
-      "isbn": "978-623-00-5224-8",
-      "synopsis": "Buku ini menceritakan kisah seorang gadis bernama Elodie Winslow yang melakukan perjalanan waktu ke masa lalu",
-      "genre": "Fiksi sejarah"
+      "isbn": "978-623-00-5224-8"
   },
     "books_3": {
-      "title": "Funiculi-Funicula : Before The Coffee Gets Cold",
+      "title": "Funiculi-Funicula",
+      "subtitle": "Before The Coffee Gets Cold",
       "author": "Toshikazu Kawaguchi",
       "place": "Jakarta",
       "publisher": "Gramedia Pustaka Utama",
       "year":2021,
       "pages": 224,
-      "isbn": "978-602-065-192-7",
-      "synopsis": "Buku ini menceritakan kafe tua yang memiliki keajabain untuk memutar waktu",
-      "genre": "Fantasi"
+      "isbn": "978-602-065-192-7"
    },
      "books_4": {
        "title": "The Shark Caller",
@@ -39,20 +35,17 @@
        "publisher": "Bhuana Ilmu Populer",
        "year": 2022,
        "pages": 320,
-       "isbn": "978-623-040-753-6",
-       "synopsis": "Buku ini mengisahkan seorang gadis yang ingin menjadi pemanggil hiu untuk membalaskan kematian orangtuanya",
-       "genre": "Fantasi"
+       "isbn": "978-623-040-753-6"
   },
     "books_5": {
-      "title": "Anak Rembulan : Gerombolan Semut Hitam",
+      "title": "Anak Rembulan",
+      "subtitle": "Gerombolan Semut Hitam",
       "author": "Djokolelono",
       "place": "Bandung",
       "publisher": "Mizan Pustaka",
       "year": 2020,
       "pages": 352,
-      "isbn": "978-602-441-165-7",
-      "synopsis":,
-      "genre": "Fiksi sejarah"
+      "isbn": "978-602-441-165-7"
   },
     "books_6": {
       "title": "Tunggu Aku di Batavia",
@@ -61,9 +54,7 @@
       "publisher": "PT Falcon",
       "year": 2022,
       "pages": 399,
-      "isbn": "978-602-671-475-6",
-      "synopsis":,
-      "genre": "Fiksi sejarah"
+      "isbn": "978-602-671-475-6"
   },
     "books_7": {
       "title": "Pukul Setengah Lima",
@@ -72,20 +63,16 @@
       "publisher": "Gramedia Pustaka Utama",
       "year": 2023,
       "pages": 208,
-      "isbn": "978-602-067-274-8",
-      "synopsis":,
-      "genre":
+      "isbn": "978-602-067-274-8"
   },
     "books_8": {
-      "title":,
-      "author":,
-      "place":,
-      "publisher":,
-      "year":,
-      "pages":,
-      "isbn":,
-      "synopsis":,
-      "genre":
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
+      "place": "Jakarta",
+      "publisher": "Gramedia Pustaka Utama",
+      "year": 2021,
+      "pages":368,
+      "isbn": "978-602-064-932-0"
   },
     "books_9": {
       "title":,
@@ -94,9 +81,7 @@
       "publisher":,
       "year":,
       "pages":,
-      "isbn":,
-      "synopsis":,
-      "genre":
+      "isbn":
  },
     "books_10": {
       "title":,
@@ -105,8 +90,6 @@
       "publisher":,
       "year":,
       "pages":,
-      "isbn":,
-      "synopsis":,
-      "genre":
+      "isbn":
     }
 }
