@@ -1,1 +1,52 @@
-
+{
+  "book_1" : {
+      "title" : "EYD & Seputar Kebahasa-Indonesiaan",
+      "author" : "Ernawati Waridah",
+      "publisher" : "KawanPustaka",
+      "year" : 2008,
+      "content type" : "teks",
+      "ISBN" : "978-979-757-338-6",
+      "classification" : 400,
+      "subject" : "Bahasa Indonesia"
+  },
+  "book_2" : {
+      "title" : "Filsafat Pendidikan: Mazhab-Mazhab Filsafat Pendidikan",
+      "author" : "Teguh Wangsa Ghandi HW",
+      "publisher" : "Ar-Ruzz Media",
+      "year" : 2011,
+      "content type" : "teks",
+      "ISBN" : "978-979-25-4825-9",
+      "classification" : 100,
+      "subject" : "Filsafat"
+  },
+  "book_3" : {
+      "title" : "Filsafat Manusia: Upaya Memahami Kreasi Tuhan yang Paling Sempurna",
+      "author" : "Kholid Al Walid",
+      "publisher" : "Nuralwala",
+      "year" : 2023,
+      "content type" : "teks",
+      "ISBN" : "978-623-96104-4-9",
+      "classification" : 100,
+      "subject" : "Filsafat"
+  },
+  "book_4" : {
+      "title" : "Gerbang Kearifan: Sebuah Pengantar Filsafat Islam",
+      "author" : "Mulyadi Kartanegara",
+      "publisher" : "Lentera Hati",
+      "year" : 2006,
+      "content type" : "teks",
+      "ISBN" : "979-9048-33-8",
+      "classification" : 100,
+      "subject" : "Filsafat"
+  },
+  "book_5" : {
+      "title" : "Praktikum Qira'at: Keanehan Bacaan Alquran Qira'at Ashim dari Hafash",
+      "author" : "Abdul Majid Khon",
+      "publisher" : "Amzah",
+      "year" : 2013,
+      "content type" : "teks",
+      "ISBN" : "978-602-8689-42-7",
+      "classification" : 100,
+      "subject" : "Al-Qur'an"
+  }
+}
