@@ -1,0 +1,87 @@
+{
+    "Buku_1": {
+        "Judul": "Komposisi Bahasa Indonesia",
+        "Pengarang": "Lamuddin Finoza",
+        "Penerbit": "Diksi Insan Mulia",
+        "Tahun": "1993",
+        "Tempat terbit": "Jakarta",
+        "ISBN": "979-8773-06-3",
+        "Halaman": "322"
+        
+    }, 
+    "Buku_2": {
+        "Judul": "Madhohil ila ad-adab al-tafa'uli",
+        "Pengarang": "Fatima Al-Bariki",
+        "Penerbit": "Pusat Kebudayaan Arab",
+        "Tahun": "2006",
+        "Tempat terbit": "maroko",
+        "ISBN": "9953-68-126-0",
+        "Halaman": "208"
+    },
+    "Buku_3": {
+        "Judul": "Sarana Bibliografi",
+        "Pengarang": "Siti Maryam & Alfida",
+        "Penerbit": "Uin Jakarta Press",
+        "Tahun": "2013",
+        "Tempat terbit": "Jakarta",
+        "ISBN": "979-602-8033069-5",
+        "Halaman": "94"
+    },
+    "Buku_4": {
+        "Judul": "Studi Ilmu-Ilmu Qur'an",
+        "Pengarang": "Manna Khalil Al-Qattan",
+        "Penerbit": "Pustaka Litera Antarnusa",
+        "Tahun": "2010",
+        "Tempat tebit": "Bogor",
+        "ISBN": "978-979-8100-17-8",
+        "Halaman": "554"
+    },
+    "Buku_5": {
+        "Judul": "Slow Living",
+        "Pengarang": "Sabrina Ara",
+        "Penerbit": "Syalmahat Publishing",
+        "Tahun": "2023",
+        "Halaman": "115"
+    },
+    "Buku_6": {
+        "Judul": "Japanese Grammar & Conversation Handbook",
+        "Pengarang": "Herpinus Simanjutak",
+        "Penerbit": "Kesaint Blanc",
+        "Tahun": "2017",
+        "Tempat terbit": "Jakarta",
+        "ISBN": "978-979-593-885-9",
+        "Halaman": "192"
+    },
+    "Buku_7": {
+        "Judul": "Lancar Berbahasa Inggris",
+        "Pengarang": "Iin Susanto & Astrid Santoso",
+        "Penerbit": "Gramedia",
+        "Tahun": "2016",
+        "Tempat terbit": "978-6023-7550-11",
+        "ISBN": "978-6023-7550-11"
+    },
+    "Buku_8": {
+        "Judul": "Cara Berfikir Ala Sherlock Holmes",
+        "Pengarang": "Monica Anggen",
+        "Penerbit": "Gramedia",
+        "Tahun": "2015",
+        "Tempat terbit": "Jakarta",
+        "Halaman": "220"
+    },
+    "Buku_9": {
+        "Judul": "Teman Berjuang",
+        "Pengarang": "Indra Sugiarto",
+        "Penerbit": "Sembilan Cahya Abadi",
+        "Tahun": "2019",
+        "Tempat terbit": "Jakarta",
+        "ISBN": "978-602-5406-87-4"
+    },
+    "Buku_10": {
+        "Judul": "Studi in Paris",
+        "pengarang": "Afina Iskandar",
+        "Penerbit": "Bhuana Ilmu Populer",
+        "Tahun": "2018",
+        "Tempat terbit": "Jakarta",
+        "Halaman": "217"
+    }
+}
