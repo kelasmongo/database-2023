@@ -9,7 +9,7 @@
        "isbn": "978-602-7870-41-3",
        "pages": 330,
        "genre": "Fiksi",
-       "available": true
+       "available_in_fah_library": true
    },
     "books_2" : {
         "title": "Dikta & Hukum",
@@ -20,7 +20,7 @@
         "isbn": "978-623-310-013-7",
         "pages": 388,
         "genre": "Fiksi",
-        "available": false
+        "available_in_fah_library": false
     },
      "books_3": {
         "title": "Rumah Kaca",
@@ -31,7 +31,7 @@
         "isbn": "979-97312-6-7",
         "pages": 646,
         "genre": "Fiksi",
-        "available": true
+        "available_in_fah_library": true
     },
      "books_4": {
         "title": "Rindu",
@@ -42,7 +42,7 @@
         "isbn": "978-602-8997-90-4",
         "pages": 544,
         "genre": "Fiksi",
-        "available": true
+        "available_in_fah_library": true
     },
      "books_5": {
         "title": "Kata",
@@ -53,7 +53,7 @@
         "isbn": "978-979-780-932-4",
         "pages": 389,
         "genre": "Fiksi",
-        "available": false
+        "available_in_fah_library": false
     },
      "books_6": {
         "title": "Malam terakhir",
@@ -64,7 +64,7 @@
         "isbn": "978-602-424-132-2",
         "pages": 117,
         "genre": "Fiksi",
-        "available": false
+        "available_in_fah_library": false
     },
      "books_7": {
         "title": "After School Horror",
@@ -75,7 +75,7 @@
         "isbn": "602-220-102-0",
         "pages": 164,
         "genre": "Fiksi",
-        "available": true
+        "available_in_fah_library": true
     },
      "books_8": {
         "title": "Dear Nathan",
@@ -86,7 +86,7 @@
         "isbn": "978-602-6940-14-8",
         "pages": 528,
         "genre": "Fiksi",
-        "available": true
+        "available_in_fah_library": true
     },
      "books_9": {
         "title": "Malam Tanpa Akhir",
@@ -97,7 +97,7 @@
         "isbn": "978-979-22-8262-7",
         "pages": 301,
         "genre": "Fiksi",
-        "available": true
+        "available_in_fah_library": true
     },
      "books_10": {
         "title": "Funiculi Funicula",
@@ -109,6 +109,6 @@
         "isbn": "978-602-0651-92-7",
         "pages": 223,
         "genre": "Fiksi",
-        "available": false
+        "available_in_fah_library": false
     }
  }
