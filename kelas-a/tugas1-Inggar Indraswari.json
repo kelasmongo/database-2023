@@ -19,7 +19,7 @@
       "pages": 506,
       "isbn": "978-623-00-5224-8",
       "synopsis": "Buku ini menceritakan kisah seorang gadis bernama Elodie Winslow yang melakukan perjalanan waktu ke masa lalu",
-      "genre": "Fiksi Sejarah"
+      "genre": "Fiksi sejarah"
   },
     "books_3": {
       "title": "Funiculi-Funicula : Before The Coffee Gets Cold",
@@ -33,46 +33,46 @@
       "genre": "Fantasi"
    },
      "books_4": {
-       "title":,
-       "author":,
-       "place":,
-       "publisher":,
-       "year":,
-       "pages":,
-       "isbn":,
-       "synopsis":,
-       "genre": "fiksi"
+       "title": "The Shark Caller",
+       "author": "Zillah Bethel",
+       "place": "Jakarta",
+       "publisher": "Bhuana Ilmu Populer",
+       "year": 2022,
+       "pages": 320,
+       "isbn": "978-623-040-753-6",
+       "synopsis": "Buku ini mengisahkan seorang gadis yang ingin menjadi pemanggil hiu untuk membalaskan kematian orangtuanya",
+       "genre": "Fantasi"
   },
     "books_5": {
-      "title":,
-      "author":,
-      "place":,
-      "publisher":,
-      "year":,
-      "pages":,
-      "isbn":,
+      "title": "Anak Rembulan : Gerombolan Semut Hitam",
+      "author": "Djokolelono",
+      "place": "Bandung",
+      "publisher": "Mizan Pustaka",
+      "year": 2020,
+      "pages": 352,
+      "isbn": "978-602-441-165-7",
       "synopsis":,
-      "genre":
+      "genre": "Fiksi sejarah"
   },
     "books_6": {
-      "title":,
-      "author":,
-      "place":,
-      "publisher":,
-      "year":,
-      "pages":,
-      "isbn":,
+      "title": "Tunggu Aku di Batavia",
+      "author": "Ni Ketut Yuni Suastini",
+      "place": "Jakarta",
+      "publisher": "PT Falcon",
+      "year": 2022,
+      "pages": 399,
+      "isbn": "978-602-671-475-6",
       "synopsis":,
-      "genre":
+      "genre": "Fiksi sejarah"
   },
     "books_7": {
-      "title":,
-      "author":,
-      "place":,
-      "publisher":,
-      "year":,
-      "pages":,
-      "isbn":,
+      "title": "Pukul Setengah Lima",
+      "author": "Rintik Sendu",
+      "place": "Jakarta",
+      "publisher": "Gramedia Pustaka Utama",
+      "year": 2023,
+      "pages": 208,
+      "isbn": "978-602-067-274-8",
       "synopsis":,
       "genre":
   },
