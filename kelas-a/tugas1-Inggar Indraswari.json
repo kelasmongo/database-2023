@@ -1,12 +1,114 @@
-[
   {
-    "title": "Perjalanan Mustahil Samiam dari Lisboa : Sepasang Elang dari Diyarbakir",
-    "author": "Zaky Yamani",
-    "country": "Indonesia",
-    "published": "Jakarta, 2024",
-    "publisher": "Gramedia Pustaka Utama",
-    "pages": 352,
-    "isbn": "978-602-067-832-0",
-    "synopsis": "Buku ini membahas tentang perjalanan seseorang untuk mencari tanah leluhurnya dengan latar tahun di abad ke-16"
+    "books_1": {
+      "title": "Perjalanan Mustahil Samiam dari Lisboa : Sepasang Elang dari Diyarbakir",
+      "author": "Zaky Yamani",
+      "place": "Jakarta",
+      "publisher": "Gramedia Pustaka Utama",
+      "year": 2024,
+      "pages": 352,
+      "isbn": "978-602-067-832-0",
+      "synopsis": "Buku ini membahas tentang perjalanan seseorang untuk mencari tanah leluhurnya dengan latar tahun di abad ke-16",
+      "genre": "fiksi sejarah"
   },
-  
+    "books_2": {
+      "title": "The Clockmaker's Daughter's",
+      "author": "Kate Morton",
+      "place": "Jakarta",
+      "publisher": "Elex Media Komputindo",
+      "year": 2023,
+      "pages": 506,
+      "isbn": "978-623-00-5224-8",
+      "synopsis": "Buku ini menceritakan kisah seorang gadis bernama Elodie Winslow yang melakukan perjalanan waktu ke masa lalu",
+      "genre": "fiksi sejarah"
+  },
+    "books_3": {
+      "title":,
+      "author":,
+      "place": 
+      "publisher":,
+      "year":,
+      "pages":,
+      "isbn":,
+      "synopsis":,
+      "genre":
+   },
+     "books_4": {
+       "title":,
+       "author":,
+       "place":,
+       "publisher":,
+       "year":,
+       "pages":,
+       "isbn":,
+       "synopsis":,
+       "genre": "fiksi"
+  },
+    "books_5": {
+      "title":,
+      "author":,
+      "place":,
+      "publisher":,
+      "year":,
+      "pages":,
+      "isbn":,
+      "synopsis":,
+      "genre":
+  },
+    "books_6": {
+      "title":,
+      "author":,
+      "place":,
+      "publisher":,
+      "year":,
+      "pages":,
+      "isbn":,
+      "synopsis":,
+      "genre":
+  },
+    "books_7": {
+      "title":,
+      "author":,
+      "place":,
+      "publisher":,
+      "year":,
+      "pages":,
+      "isbn":,
+      "synopsis":,
+      "genre":
+  },
+    "books_8": {
+      "title":,
+      "author":,
+      "place":,
+      "publisher":,
+      "year":,
+      "pages":,
+      "isbn":,
+      "synopsis":,
+      "genre":
+  },
+    "books_9": {
+      "title":,
+      "author":,
+      "place":,
+      "publisher":,
+      "year":,
+      "pages":,
+      "isbn":,
+      "synopsis":,
+      "genre":
+ },
+    "books_10": {
+      "title":,
+      "author":,
+      "place":,
+      "publisher":,
+      "year":,
+      "pages":,
+      "isbn":,
+      "synopsis":,
+      "genre":
+    }
+    
+      
+    
