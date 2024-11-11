@@ -1,0 +1,95 @@
+{
+  "Buku_1": {
+    "Judul": "IPAS",
+    "Judul Tambahan": "Ilmu Pengetahuan Alam dan Sosial",
+    "Penulis": "Irene M.J.A, dkk",
+    "Penerbit": "Penerbit Erlangga",
+    "Tempat Terbit": "Jakarta",
+    "Tahun Terbit": 2022,
+    "ISBN": "978-623-266-635-1",
+    "Halaman": 164
+  },
+  "Buku_2": {
+    "Judul": "Kisah-kisah 25 Nabi dan Rasul",
+    "Penulis": "Ali Nurfadhillah",
+    "Penerbit": "Pustaka Sandro Jaya",
+    "Tempat Terbit": "Jakarta",
+    "ISBN": "979979396129-2",
+    "Halaman": 80
+  },
+  "Buku_3": {
+    "Judul": "Kamus Lengkap Bahasa Indonesia",
+    "Penulis": "M.K Abdullah Spd",
+    "Penerbit": "Sandro Jaya",
+    "Tempat Terbit": "Jakarta",
+    "ISBN": "602601266-1",
+    "Halaman": 512
+  },
+  "Buku_4": {
+    "Judul": "Grow With English",
+    "Judul Tambahan": "A Thematic English Course for Elementary Students",
+    "Penulis": "Mukarto",
+    "Penerbit": "Penerbit Erlangga",
+    "Tempat Terbit": "Jakarta",
+    "Tahun Terbit": 2023,
+    "ISBN": "978-623-180-292-7",
+    "Halaman": 184
+  },
+  "Buku_5": {
+    "Judul": "Seni Budaya",
+    "Penulis": "Tim Mitra Guru",
+    "Penerbit": "Penerbit Erlangga",
+    "Tempat Terbit": "Jakarta",
+    "Tahun Terbit": 2023,
+    "ISBN": "978-623-180-299-6",
+    "Halaman": 166
+  },
+  "Buku_6": {
+    "Judul": "Pendidikan Pancasila",
+    "Penulis": "Ari Pudjiastuti",
+    "Penerbit": "Penerbit Erlangga",
+    "Tempat Terbit": "Jakarta",
+    "Tahun Terbit": 2023,
+    "ISBN": "978-623-180-456-3",
+    "Halaman": 171
+  },
+  "Buku_7": {
+    "Judul": "Bahasa Indonesia",
+    "Penulis": "A. Indradi",
+    "Penerbit": "Penerbit Erlangga",
+    "Tempat Terbit": "Jakarta",
+    "Tahun Terbit": 2023,
+    "ISBN": "978-623-180-221-7",
+    "Halaman": 156
+  },
+  "Buku_8": {
+    "Judul": "PJOK",
+    "Judul Tambahan": "Pendidikan Jasmani, Olahraga, dan Kesehatan",
+    "Penulis": "Aminarni, dkk",
+    "Penerbit": "Penerbit Erlangga",
+    "Tempat Terbit": "Jakarta",
+    "Tahun Terbit": 2023,
+    "ISBN": "978-623-180-248-4",
+    "Halaman": 158
+  },
+  "Buku_9": {
+    "Judul": "Salam",
+    "Penulis": "Abdul Rokhim, dkk",
+    "Penerbit": "Penerbit Erlangga",
+    "Tempat Terbit": "Jakarta",
+    "Tahun Terbit": 2020,
+    "ISBN": "978-623-266-314-5",
+    "Halaman": 212
+  },
+  "Buku_10": {
+    "Judul": "Extended Goodbye",
+    "Penulis": "Clara Canceriana",
+    "Penerbit": "Bentang Belia",
+    "Tempat Terbit": "Yogyakarta",
+    "Tahun Terbit": "2017",
+    "ISBN": "978-602-430-154-5",
+    "Halaman": 338
+  }
+}
+    
+    
