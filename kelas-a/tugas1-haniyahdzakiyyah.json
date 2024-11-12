@@ -1,1 +1,102 @@
-
+{ 
+  "book_1": { 
+    "title": "Pulang", 
+    "author": "Leila S. Chudori",
+    "publisher": "Kepustakaan Populer Media",
+    "place": "Jakarta",
+    "year": 2012,
+    "isbn": "978-602-424-275-6",
+    "pages": 461,
+    "genre": "Fiksi"
+  }, 
+  "book_2": { 
+    "title": "Critical Eleven",
+    "author": "Ika Natassa",
+    "publisher" : "Gramedia Pustaka Utama",
+    "place" : "Jakarta",
+    "year": 2015,
+    "isbn": "978-602-03-1892-9",
+    "pages": 344,
+    "genre": "Fiksi"
+  },
+  "book_3": {
+    "title": "Anatologi Rasa",
+    "author": "Ika Natassa",
+    "publisher": "Gramedia Pustaka Utama",
+    "place": "Jakarta",
+    "year": 2012,
+    "isbn": "978-979-22-8809-4",
+    "pages": 344,
+    "genre": "Fiksi"
+  },
+  "book_4": {
+    "title": "Ranah 3 Warna",
+    "author": "A. Fuadi",
+    "publisher": "Gramedia Pustaka Utama",
+    "place": "Jakarta",
+    "year": 2011,
+    "isbn": "978-979-22-6325-1",
+    "pages": 494,
+    "genre": "Fiksi"
+  },
+  "book_5": {
+    "title": "I Do",
+    "author": "Handoko Hendroyono",
+    "publisher": "Kepustakaan Populer Gramedia",
+    "place": "Jakarta",
+    "year": 2014,
+    "isbn": "978-979-91-0696-4",
+    "pages": 196,
+    "genre": "Fiksi"
+  },
+  "book_6": {
+    "title": "Kalkulus dan Geometri Analitis",
+    "author": ["Edwin J. Purcell, Dale Varberg"],
+    "publisher": "Erlangga",
+    "place": "Jakarta",
+    "year": 2004,
+    "pages": 606,
+    "genre": "Non-Fiksi"
+  },
+  "book_7": {
+    "title": "Algoritma",
+    "subtitle": "Algoritma & Struktur Data 1",
+    "author": "Moh. Sjukani",
+    "publisher": "Mitra Wacana Media",
+    "place": "Jakarta",
+    "year": 2014, 
+    "isbn": "978-602-1353-68-4", 
+    "pages": 508, 
+    "genre": "fiksi"
+  }, 
+  "book_8": {
+    "title": "Student Hidjo", 
+    "author": "Mas Marco Kartodikromo", 
+    "publisher": "Narasi", 
+    "place": "Yogyakarta", 
+    "year": 2018, 
+    "isbn": "978-978-168-557-3", 
+    "pages": 186, 
+    "genre": "Fiksi"
+  }, 
+  "book_9": {
+    "title": "Lontara Rindu", 
+    "author": "S.Gegge Mappangewa", 
+    "publisher": "Republika", 
+    "place": "Jakarta", 
+    "year": 2012, 
+    "isbn": "978-602-7595-01-9", 
+    "pages": 342, 
+    "genre": "Fiksi"
+  }, 
+  "book_10": {
+    "title": "Manajemen Kearsipan",
+    "author": ["Sambas Ali Muhidi, Henri Winata"], 
+    "publisher": "Pustaka Setia", 
+    "place": "Bandung", 
+    "year": 2018, 
+    "isbn": "978-979-076-589-4", 
+    "pages": 506, 
+    "genre": "Non-Fiksi"
+  }
+}
