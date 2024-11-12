@@ -1,0 +1,125 @@
+{
+
+    "Buku 1" :
+{
+    "Judul Buku" :"Drama Keluarga Lumut",
+    "Pengarang" : "Winona Araminta",
+    "Penerbit" : "Gagas Media",
+    "Tahun Terbit" : 2024,
+    "Halaman" : 156,
+    "ISBN" : 9786234932935,
+    "Bahasa" : "Indonesia"
+
+},
+
+"Buku 2" :
+{
+    "Judul Buku" :"Hidden Potential: Rahasia Mencapai Hal-Hal yang Lebih Besar",
+    "Pengarang" : "Adam Grant",
+    "Penerbit" : "Gramedia Pustaka Utama",
+    "Tahun Terbit" : 2024,
+    "Halaman" : 328,
+    "ISBN" : 9786020679037,
+    "Bahasa" : "Indonesia"
+
+},
+
+"Buku 3" :
+{
+    "Judul Buku" :"My Mouth is a Volcano",
+    "Pengarang" : "Julia Cook",
+    "Penerbit" : "National Center for Youth Issues",
+    "Tahun Terbit" : 2005,
+    "Halaman" : 32,
+    "ISBN" : 9781937870829,
+    "Bahasa" : "Inggris"
+
+},
+
+"Buku 4" :
+{
+    "Judul Buku" :"The Wild Robot",
+    "Pengarang" : "Peter Brown",
+    "Penerbit" : "Hachette UK",
+    "Tahun Terbit" : 2016,
+    "Halaman" : 288,
+    "ISBN" : 9780316382014,
+    "Bahasa" : "Inggris"
+
+},
+
+"Buku 5" :
+{
+    "Judul Buku" :"Twisty Romantic",
+    "Pengarang" : "Despersa",
+    "Penerbit" : "Despersa Books",
+    "Tahun Terbit" : 2023,
+    "Halaman" : 482,
+    "ISBN" : 97862356888824,
+    "Bahasa" : "Indonesia"
+
+},
+
+"Buku 6" :
+{
+    "Judul Buku" :"Atomic Habits: An Easy & Proven Way to Build Good HabiTS & Break Bad Ones",
+    "Pengarang" : "James Clear",
+    "Penerbit" : "Penguin",
+    "Tahun Terbit" : 2018,
+    "Halaman" : 320,
+    "ISBN" : 9780735211308,
+    "Bahasa" : "Inggris"
+
+},
+
+"Buku 7" :
+{
+    "Judul Buku" :"The Poppy War",
+    "Pengarang" : "R.F Kuang",
+    "Penerbit" : "Harper Collins",
+    "Tahun Terbit" : 2018,
+    "Halaman" : 544,
+    "ISBN" : 9780062662590,
+    "Bahasa" : "Inggris"
+
+},
+
+"Buku 8" :
+{
+    "Judul Buku" :"Chasing You",
+    "Pengarang" : "Clarisa Yani",
+    "Penerbit" : "LovRinz",
+    "Tahun Terbit" : "tidak diketahui",
+    "Halaman" : 889,
+    "ISBN" : 9786232895874,
+    "Bahasa" : "Indonesia"
+
+},
+
+"Buku 9" :
+{
+    "Judul Buku" :"Some of My Best Friends are Cookies: Over 80 recipes for the best cookies of your life",
+    "Pengarang" : "Emelia Jackson",
+    "Penerbit" : "Allen & Unwin",
+    "Tahun Terbit" : 2024,
+    "Halaman" : 232,
+    "ISBN" : 9781761505201,
+    "Bahasa" : "Inggris"
+
+},
+
+"Buku 10" :
+{
+    "Judul Buku" :"The Montessori Toddler: A Parent Guide to Raising a Curious and Responsible Human Being",
+    "Pengarang" : "Simone Davies",
+    "Penerbit" : "Hachette UK",
+    "Tahun Terbit" : 2019,
+    "Halaman" : 240,
+    "ISBN" : 9781523507900,
+    "Bahasa" : "Inggris"
+
+
+}
+
+
+}
