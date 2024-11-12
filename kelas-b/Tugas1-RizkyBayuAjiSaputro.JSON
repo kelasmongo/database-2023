@@ -1,0 +1,76 @@
+{
+    "Koleksi Perpustakaan FAH": {
+        "Buku 1": {
+            "Judul" : "Undang-undang dasar Republik Islam Iran",
+            "Penerbit" : "Humas Kedutaan Besar Republik Islam Iran",
+            "Bahasa" : "Indonesia",
+            "Ketersediaan" : "Tersedia namun tidak untuk dipinjamkan"
+        },
+        "Buku 2": {
+            "Judul" : "Umrah & haji perjalanan religius",
+            "Penulis" : "Nurcholish Madjid",
+            "Penerbit" : "Para Madina",
+            "Bahasa" : "Indonesia",
+            "Ketersediaan": "Tersedia"
+        },
+        "Buku 3": {
+            "Judul" : "Mengenali dan memberantas korupsi",
+            "Penulis" : "Arya Maheka",
+            "Penerbit" : "KPK",
+            "Bahasa" : "Indonesia",
+            "Ketersediaan" : "Tersedia"
+        },
+        "Buku 4" : {
+            "Judul" : "Perspektif Manajemen pengetahuan informasi, komunikasi, pendidikan, dan perpustakaan tahun 2019",
+            "Penulis" : " Pawit M. Yusup",
+            "Penerbit" : "Rajawali press",
+            "Bahasa" : "Indonesia",
+            "Ketersediaan" : "Tersedia"
+        },
+        "Buku 5" : {
+            "Judul" : "Seni kaligrafi islam tahun 1992",
+            "Penulis" : "Sirajuddin AR",
+            "Penerbit" : "multi kreasi singgasana",
+            "Bahasa" : "Indonesia",
+            "Ketersediaan" : "Tersedia"
+        },
+        "Katalog buku Gramedia" : {
+        "Buku 6" :{
+            "Judul" : "One Piece 21 (2024)",
+            "Penulis" : "Eiichira Oda",
+            "Penerbit" : "Elex Media Komputindo",
+            "Bahasa" : "Indonesia" ,
+            "Harga" : "Rp.45.000"  
+        },
+        "Buku 7" : {
+            "Judul" : "One piece 20 (2024)",
+            "Penulis" : "Eiichira Oda",
+            "Penerbit" : "Elex Media Komputindo",
+            "Bahasa" : "Indonesia",
+            "Harga" : "Rp.36.000"
+        },
+        "Buku 8" : {
+            "Judul" : "Naruto Vol 39",
+            "Penulis" : "Masashi Kishimoto",
+            "Penerbit" : "Elex Media Komputindo",
+            "Bahasa" : "Indonesia",
+            "Harga" : "Rp.29.000"
+        },
+        "Buku 9" : {
+            "Judul" : "Naruto Vol 52",
+            "Penulis" : "Masashi Kishimoto",
+            "Penerbit" : "Elex Media Komputindo",
+            "Bahasa" : "Indonesia",
+            "Harga" : "Rp.29.000"
+        },
+        "Buku 10" : {
+            "Judul" : "Dilan 1983: Wo Ai Ni",
+            "penulis" : "Pidi Baiq",
+            "Penerbit" : "Pastel Books",
+            "Bahasa" : "Indonesia",
+            "Harga" : "Rp.85.000"
+        }
+        
+        }
+    }
+}
