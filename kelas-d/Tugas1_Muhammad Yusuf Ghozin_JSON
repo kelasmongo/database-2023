@@ -1,0 +1,161 @@
+{
+    "Bibliographic Number 1": 1,
+    "Buku Tercetak 1":
+    [
+        {
+            "Judul Buku": "Pengantar Ilmu Hukum",
+            "Pengarang": "R. Soeroso, S.H.",
+            "ISBN": 9798061748,
+            "Deskripsi Fisik": "Edisi 1, Cetakan. 15. xvii, 346 halaman; 21 cm",
+            "Penerbit": "Sinar Grafika",
+            "Tempat Terbit": "Jakarta",
+            "Tahun Terbit": 2021,
+            "Subjek": "Hukum",
+            "Bahasa": "Indonesia"
+        }
+    ],
+
+    "Bibliographic Number 2": 2,
+    "Buku Tercetak 2": 
+    [
+        {
+            "Judul": "Bunga Rampai Hukum Pidana dan Acara Pidana",
+            "Pengarang": "Andi Hamzah",
+            "ISBN": 9794500062,
+            "Deskripsi Fisik": "Cetakan 1, 272 halaman; 21 cm",
+            "Penerbit": "Ghalia Indonesia",
+            "Tempat Terbit": "Jakarta Timur",
+            "Tahun Terbit": 1986,
+            "Subjek": "Hukum Pidana",
+            "Bahasa": "Indonesia"
+        }
+    ],
+
+    "Biblliographic Number 3": 3,
+    "Buku Tercetak 3":
+    [
+        {
+            "Judul": "Pembahasan Permasalahan dan Penerapan KUHAP",
+            "Pengarang": "M. Yahya Harahap",
+            "ISBN": 9788767721,
+            "Deskripsi Fisik": "Edisi 2, Cetakan. 11. xxix, 665 halaman; 23 cm",
+            "Penerbit": "Sinar Grafika",
+            "Tempat Terbit": "Jakarta",
+            "Tahun Terbit": 2009,
+            "Subjek": "Sidang Pidana - Prosedur Pengadilan Pidana",
+            "Bahasa": "Indonesia"
+        }
+    ],
+
+    "Biblliographic Number 4": 4,
+    "Buku Tercetak 4":
+    [
+        {
+            "Judul": "Mudah Belajar Bahasa Arab",
+            "Pengarang": "Nurul Huda",
+            "ISBN": 9786028689366,
+            "Deskripsi Fisik": "Cetakan, 2. xvi, 248 halaman; 21 cm",
+            "Penerbit": "AMZAH",
+            "Tempat Terbit": "Jakarta",
+            "Tahun Terbit": 2012,
+            "Subjek": "Bahasa Arab",
+            "Bahasa": "Indonesia dan Arab"
+        }
+    ],
+
+    "Biblliographic Number 5": 5,
+    "Buku Tercetak 5":
+    [
+        {
+            "Judul": "Psikologi Perkembangan",
+            "Pengarang": "F.J Monks, AMP.Knoers, Siti Rahayu Haditono",
+            "ISBN": 9794204404,
+            "Deskripsi Fisik": "Edisi 3, Cetakan. 11. xv, 421 halaman; 21 cm",
+            "Penerbit": "Gadjah Mada University Press",
+            "Tempat Terbit": "Yogyakarta",
+            "Tahun Terbit": 1998,
+            "Subjek": "Psikologi",
+            "Bahasa": "Indonesia"
+        }
+    ],
+
+    "Biblliographic Number 6": 6,
+    "Buku Tercetak 6":
+    [
+        {
+            "Judul": "Buku ajar filsafat: epistemologi dan logika",
+            "Pengarang": "Sarlito Wirawan Sarwono",
+            "ISBN": 9794204404,
+            "Deskripsi Fisik": "Cetakan, 1 ; xii, 212 hlm.; 23 cm.",
+            "Penerbit": "Sleman Aswaja Pressindo",
+            "Tempat Terbit": "Yogyakarta",
+            "Tahun Terbit": 2014,
+            "Subjek": "Philosophy, Epistemology, Logic",
+            "Bahasa": "Indonesia"
+        }
+    ],
+
+    "Biblliographic Number 7": 7,
+    "Buku Tercetak 7":
+    [
+        {
+            "Judul": "A History of Western Philosophy",
+            "Pengarang": "Betrand Russel",
+            "ISBN": 99781416554776,
+            "Deskripsi Fisik": "916 Halaman ; 22 cm",
+            "Penerbit": "George Allen and Anwin",
+            "Tempat Terbit": "London",
+            "Tahun Terbit": 1957,
+            "Subjek": "Philosophy, Epistemology, Logic",
+            "Bahasa": "Inggris"
+        }
+    ],
+
+    "Biblliographic Number 8": 8,
+    "Buku Tercetak 8":
+    [
+        {
+            "Judul": "Bintang",
+            "Pengarang": "Tere Liye",
+            "ISBN": 9786020351179,
+            "Deskripsi Fisik": "Cetakan 1, 392 Halaman.; 20 cm",
+            "Penerbit": "Gramedia Pustaka Utama",
+            "Tempat Terbit": "London",
+            "Tahun Terbit": 2017,
+            "Subjek": "Novel",
+            "Bahasa": "Indonesia"
+        }
+    ],
+    
+    "Biblliographic Number 9": 9,
+    "Buku Tercetak 9":
+    [
+        {
+            "Judul": "Bintang",
+            "Pengarang": "Tere Liye",
+            "ISBN": 9786020351179,
+            "Deskripsi Fisik": "Cetakan 1, 392 Halaman.; 20 cm",
+            "Penerbit": "Gramedia Pustaka Utama",
+            "Tempat Terbit": "London",
+            "Tahun Terbit": 2017,
+            "Subjek": "Novel",
+            "Bahasa": "Indonesia"
+        }
+    ],
+
+    "Biblliographic Number 10": 10,
+    "Buku Tercetak 10":
+    [
+        {
+            "Judul": "Jakarta Sebelum Pagi",
+            "Pengarang": "Ziggy Zezsyazeoviennazabrizkie",
+            "ISBN": 978602375844,
+            "Deskripsi Fisik": "Cetakan 2, 270 Halaman ; 20 cm",
+            "Penerbit": "Grasindo",
+            "Tempat Terbit": "Jakarta",
+            "Tahun Terbit": 2017,
+            "Subjek": "Fiksi",
+            "Bahasa": "Indonesia"
+        }
+    ]
+}
