@@ -1,0 +1,151 @@
+{
+    "Buku Nomor 1":
+    [
+        {
+            "Judul": "Love and Pain",
+            "Pengarang": "Aqiela R",
+            "Penerbit": "Guepedia",
+            "Tahun Terbit": 2016,
+            "Tempat Penerbit": "Bekasi",
+            "ISBN": 9786026319883,
+            "Deskripsi Fisik": "191 halaman : 20 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi Indonesia"
+        }
+    ],
+
+    "Buku Nomor 2":
+    [
+        {
+            "Judul": "Amplop Putih",
+            "Pengarang": "Devi Indah Pujiana",
+            "Penerbit": "Bukuloe",
+            "Tahun Terbit": 2016,
+            "Tempat Penerbit": "Depok",
+            "ISBN": 9786026214072,
+            "Deskripsi Fisik": "92 halaman : 20 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi Indonesia"
+        }
+    ],
+
+    "Buku Nomor 3":
+    [
+        {
+            "Judul": "The Beautiful Geek",
+            "Pengarang": "Tria Barnawi",
+            "Penerbit": "Gramedia Pustaka Utama",
+            "Tahun Terbit": 2014,
+            "Tempat Penerbit": "Jakarta",
+            "ISBN": 9786020305110,
+            "Deskripsi Fisik": "192 halaman : 20 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi Indonesia"
+        }
+    ],
+
+    "Buku Nomor 4":
+    [
+        {
+            "Judul": "Jas Hujan",
+            "Pengarang": "Wina Natalia",
+            "Penerbit": "PT Gramedia Widiasarana Indonesia",
+            "Tahun Terbit": 2015,
+            "Tempat Penerbit": "Jakarta",
+            "ISBN": 9786023750078,
+            "Deskripsi Fisik": "164 halaman : 19 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi Indonesia"
+        }
+    ],
+
+    "Buku Nomor 5":
+    [
+        {
+            "Judul": "Once Upon a Time",
+            "Pengarang": "Dheyamela",
+            "Penerbit": "Galaxy Media",
+            "Tahun Terbit": 2019,
+            "Tempat Penerbit": "Jakarta",
+            "ISBN": 9786237524052,
+            "Deskripsi Fisik": "396 halaman : 19 cm",
+            "Bahasa": "",
+            "Subjek": ""
+        }
+    ],
+
+    "Buku Nomor 6":
+    [
+        {
+            "Judul": "Memori",
+            "Pengarang": "Sirhayani",
+            "Penerbit": "Grasindo",
+            "Tahun Terbit": 2018,
+            "Tempat Penerbit": "Jakarta",
+            "ISBN": 978602425-289,
+            "Deskripsi Fisik": "289 halaman : 20 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi Indonesia"
+        }
+    ],
+
+    "Buku Nomor 7":
+    [
+        {
+            "Judul": "Misteri Bilik Korek Api",
+            "Pengarang": "Ruwi Meita",
+            "Penerbit": "Grasindo",
+            "Tahun Terbit": 2017,
+            "Tempat Penerbit": "Jakarta",
+            "ISBN": 9786024523503,
+            "Deskripsi Fisik": "238 halaman : 20 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi Indonesia"
+        }
+    ],
+
+    "Buku Nomor 8":
+    [
+        {
+            "Judul": "Antologi Rasa",
+            "Pengarang": "Ika Natassa",
+            "Penerbit": "Gramedia Pustaka Utama",
+            "Tahun Terbit": 2011,
+            "Tempat Penerbit": "Jakarta",
+            "ISBN": 9789792274394,
+            "Deskripsi Fisik": "339 halaman : 20 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi Indonesia"
+        }
+    ],
+
+    "Buku Nomor 9":
+    [
+        {
+            "Judul": "Target Terakhir",
+            "Pengarang": "Lexie Xu",
+            "Penerbit": "Gramedia Pustaka Utama",
+            "Tahun Terbit": 2015,
+            "Tempat Penerbit": "Jakarta",
+            "ISBN": 9786020318776,
+            "Deskripsi Fisik": "512 halaman : 20 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi Indonesia"
+        }
+    ],
+
+    "Buku Nomor 10":
+    [
+        {
+            "Judul": "Rumah Teratai",
+            "Pengarang": "Sutanto L. Tjokro",
+            "Penerbit": "Elex Media Komputindo",
+            "Tahun Terbit": 2016,
+            "Tempat Penerbit": "Jakarta",
+            "ISBN": 9786020295138,
+            "Deskripsi Fisik": "498 halaman : 20 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi Indonesia"
+        }
+    ]
+}
