@@ -1,0 +1,151 @@
+{
+    "Buku Nomor 1":
+    [
+        {
+            "Judul": "Pelangi Persahabatan",
+            "Pengarang": "Annisa Dyah Pertiwi",
+            "Penerbit": "Violetta",
+            "Tahun Terbit": 2009,
+            "Tempat Penerbit": "Jakarta",
+            "ISBN": 9786029654721,
+            "Deskripsi Fisik": "74 Halaman, Ilustarsi; 21 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi Indonesia"
+        }
+    ],
+
+    "Buku Nomor 2":
+    [
+        {
+            "Judul": "Struktur Bahasa Barangas",
+            "Pengarang": "Abdul Djebar Hapip",
+            "Penerbit": "Pusat Pembinaan dan Pengembangan Bahasa",
+            "Tahun Terbit": 1984,
+            "Tempat Penerbit": "Jakarta",
+            "ISBN": "",
+            "Deskripsi Fisik": "xix, 104 Halaman ; 20 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Bahasa"
+        }
+    ],
+
+    "Buku Nomor 3":
+    [
+        {
+            "Judul": "Tikus dan Singa",
+            "Pengarang": "Iput dan Oyas",
+            "Penerbit": "Mizan",
+            "Tahun Terbit": 2019,
+            "Tempat Penerbit": "Jakarta",
+            "ISBN": 9786020989587,
+            "Deskripsi Fisik": "20 Halaman, Ilustrasi ; 17 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi Indonesia"
+        }
+    ],
+
+    "Buku Nomor 4":
+    [
+        {
+            "Judul": "Ensiklopedia Hewan",
+            "Pengarang": "Djoko Santoso",
+            "Penerbit": "Ganeca Exact",
+            "Tahun Terbit": 2006,
+            "Tempat Penerbit": "Jakarta",
+            "ISBN": 9797446891,
+            "Deskripsi Fisik": "30 Halaman, Ilustrasi ; 28 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Ensiklopedia Hewan"
+        }
+    ],
+
+    "Buku Nomor 5":
+    [
+        {
+            "Judul": "Chamomile",
+            "Pengarang": "Hanna Sajadiah",
+            "Penerbit": "Readerzen Tanggap literasi",
+            "Tahun Terbit": 2022, 
+            "Tempat Penerbit": "Jakarta",
+            "ISBN": 9786239929152,
+            "Deskripsi Fisik": "173 Halaman ; Ilustrasi, 18 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi Indonesia"
+        }
+    ],
+
+    "Buku Nomor 6":
+    [
+        {
+            "Judul": "Dari mana Adik Bayi Berasal",
+            "Pengarang": "Wright dan Sally An",
+            "Penerbit": "Erlangga for Kids",
+            "Tahun Terbit": 2022,
+            "Tempat Penerbit": "jakarta",
+            "ISBN": 9789790757165,
+            "Deskripsi Fisik": "27 Halaman ; Ilustrasi, 22 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Cerita Anak"
+        }
+    ],
+
+    "Buku Nomor 7":
+    [
+        {
+            "Judul": "Mengelola persaingan kaka adik",
+            "Pengarang": "Ummu Hazits",
+            "Penerbit": "Afra Publishing",
+            "Tahun Terbit": 2008,
+            "Tempat Penerbit": "Surakarta",
+            "ISBN": 9789791397407,
+            "Deskripsi Fisik": "168 Halaman ; 20 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Psikologi Anak"
+        }
+    ],
+
+    "Buku Nomor 8":
+    [
+        {
+            "Judul": "Bermain Sepak Bola",
+            "Pengarang": "Abdul Rohim",
+            "Penerbit": "Aneka ilmu",
+            "Tahun Terbit": 2008,
+            "Tempat Penerbit": "Semarang",
+            "ISBN": 9789790481466,
+            "Deskripsi Fisik": "-",
+            "Bahasa": "Indonesia",
+            "Subjek": "Olahraga"
+        }
+    ],
+
+    "Buku Nomor 9":
+    [
+        {
+            "Judul": "15 Kisah Nabi",
+            "Pengarang": "Lelia Wulandari",
+            "Penerbit": "Elex Media Komputindo",
+            "Tahun Terbit": 2018,
+            "Tempat Penerbit": "Jakarta",
+            "ISBN": 9786020478432,
+            "Deskripsi Fisik": "68 Halaman ; Ilustrasi 23 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Kisah Nabi"
+        }
+    ],
+
+    "Buku Nomor 10":
+    [
+        {
+            "Judul": "50 Perempuan Tangguh Dunia",
+            "Pengarang": "Fenny Lie dan Asteria Renny",
+            "Penerbit": "Elex Media Komputindo",
+            "Tahun Terbit": 2018,
+            "Tempat Penerbit": "Jakarta",
+            "ISBN": 9786020486093,
+            "Deskripsi Fisik": "50 Halaman ; Ilustrasi, 23 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Biografi"
+        }
+    ]
+}
