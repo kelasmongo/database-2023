@@ -1,0 +1,152 @@
+{
+    "Buku Nomor 1":
+    [
+        {
+            "Judul": "Bumi Manusia",
+            "Pengarang": "Pramoedya Ananta Toer",
+            "Penerbit": "Lentera Dipantara",
+            "Tahun Terbit": "2005",
+            "Tempat Terbit": "Jakarta",
+            "ISBN": "978-979-97312-3-4",
+            "Deskripsi Fisik":"551 halaman; 20 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi Indonesia"
+
+        }
+    ],
+    
+    "Buku Nomor 2":
+    [
+        {
+            "Judul": "Book Of Introvert",
+            "Pengarang": "Tony Ibrahim",
+            "Penerbit": "Immortal Publishing",
+            "Tahun Terbit": "2021",
+            "Tempat Terbit": "Sleman",
+            "ISBN": "978-623-7778-75-2",
+            "Deskripsi Fisik":"Vii 116 halaman 20 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Kepribadian"
+        }
+    ],
+
+    "Buku Nomor 3":
+    [
+        {
+            "Judul": "Dilan Dia Adalah Dilanku Tahun 1990",
+            "Pengarang": "Pidi Baiq",
+            "Penerbit": "Pastel Books",
+            "Tahun Terbit": "2016",
+            "Tempat Terbit": "Bandung",
+            "ISBN": "978-620-7870-86-4",
+            "Deskripsi Fisik":"348 halaman 21 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi Indonesia"
+        }
+    ],
+
+    "Buku Nomor 4":
+    [
+        {
+            "Judul": "Atomic Habits",
+            "Pengarang": "James Clear",
+            "Penerbit": "Gramedia Pustaka Utama",
+            "Tahun Terbit": "2022",
+            "Tempat Terbit": "Jakarta",
+            "ISBN": "978-602-06-3317-6",
+            "Deskripsi Fisik":"Ix, 340 halaman Ilustrasi 24 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Psikologi Perkembangan"
+        }
+    ],
+
+    "Buku Nomor 5":
+    [
+        {
+            "Judul": "The Things You Can See Only When You Slow Down",
+            "Pengarang": "Haemin Sunim",
+            "Penerbit": "Penguin Books",
+            "Tahun Terbit": "2017",
+            "Tempat Terbit": "USA",
+            "ISBN": "978-024-1340-66-0",
+            "Deskripsi Fisik":"265 halaman: 18 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Psikologi Perkembangan"
+        }
+    ],
+
+    "Buku Nomor 6":
+    [
+        {
+            "Judul": "Mariposa",
+            "Pengarang": "Luluk H.F",
+            "Penerbit": "Bumi Semesta",
+            "Tahun Terbit": "2019",
+            "Tempat Terbit": "Depok",
+            "ISBN": "978-602-5508-61-5",
+            "Deskripsi Fisik":"478 halaman: 21 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi Indonesia"
+        }
+    ],
+
+    "Buku Nomor 7":
+    [
+        {
+            "Judul": "Filosofi Teras",
+            "Pengarang": "Henry Manampiring",
+            "Penerbit": "Gramedia Pustaka Utama",
+            "Tahun Terbit": "2022",
+            "Tempat Terbit": "Jakarta",
+            "ISBN": "978-623-346-303-4",
+            "Deskripsi Fisik":"xxvii 298 halaman ilustrasi: 21 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi Indonesia"
+        }
+    ],
+
+    "Buku Nomor 8":
+    [
+        {
+            "Judul": "Belajar Marketing Belajar Hidup",
+            "Pengarang": "Henry Manampiring",
+            "Penerbit": "Kompas",
+            "Tahun Terbit": "2024",
+            "Tempat Terbit": "Jakarta",
+            "ISBN": "978-623-160-564-1",
+            "Deskripsi Fisik":"288 halaman ilustrasi: 21 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Personal Improvement"
+        }
+    ],
+
+    "Buku Nomor 9":
+    [
+        {
+            "Judul": "Laut Bercerita",
+            "Pengarang": "Leila S. Chudori",
+            "Penerbit": "Kepustakaan Populer Gramedia",
+            "Tahun Terbit": "2022",
+            "Tempat Terbit": "Jakarta",
+            "ISBN": "978-602-424-694-5",
+            "Deskripsi Fisik":"x 379 halaman: 20 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi Indonesia"
+        }
+    ],
+
+    "Buku Nomor 10":
+    [
+        {
+            "Judul": "Keajaiban Toko Kelontong Namiya",
+            "Pengarang": "Keigo Higashino",
+            "Penerbit": "Gramedia Pustaka Utama",
+            "Tahun Terbit": "2020",
+            "Tempat Terbit": "Jakarta",
+            "ISBN": "978-602-064-8293",
+            "Deskripsi Fisik":"400 halaman: 20 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi Jepang"
+        }
+    ]
+}
