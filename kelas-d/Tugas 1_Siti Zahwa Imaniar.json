@@ -1,0 +1,126 @@
+{
+    "Buku Nomor 1": [
+        {
+            "Judul": "The Girl Who Fell",
+            "Pengarang": "S.M.Parker",
+            "Penerbit": "Simon Pulse",
+            "Tahun Terbit": "2016",
+            "Tempat Terbit": "New York",
+            "ISBN": 9781481437257,
+            "Deskripsi Fisik": "356 hal ; 21 cm",
+            "Bahasa": "English",
+            "Subjek": "Novel"
+        }
+    ],
+    "Buku Nomor 2": [
+        {
+            "Judul": "Ilmu Perbandingan Pendidikan",
+            "Pengarang": "M.Arifin ARIFIN",
+            "Penerbit": "Golden Terayon",
+            "Tahun Terbit": "1986",
+            "Tempat Terbit": "Jakarta",
+            "ISBN": 9789798125065,
+            "Deskripsi Fisik": "VII, 125 p. ; 23 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "PENDIDIKAN-TEORI"
+        }
+    ],
+    "Buku Nomor 3": [
+        {
+            "Judul": "Pengantar Ilmu Kependudukan",
+            "Pengarang": "Said RUSLI",
+            "Penerbit": "LP3ES",
+            "Tahun Terbit": "1984",
+            "Tempat Terbit": "Jakarta",
+            "Deskripsi Fisik": "IX, 134 p. : 23 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "PENDUDUK-TEORI"
+        }
+    ],
+    "Buku Nomor 4": [
+        {
+            "Judul": "Tantangan wanita modern ketakutan wanita?",
+            "Pengarang": "Colette Dowling",
+            "Penerbit": "Erlangga",
+            "Tahun Terbit": "1992",
+            "Tempat Terbit": "Jakarta",
+            "Deskripsi Fisik": "VIII, 227 p.: 23 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "WANITA-KEADAAN SOSIAL"
+        }
+    ],
+    "Buku Nomor 5": [
+        {
+            "Judul": "Psikologi Sosial",
+            "Pengarang": "David O. SEARS",
+            "Penerbit": "Erlangga",
+            "Tahun Terbit": "1985",
+            "Tempat Terbit": "Jakarta",
+            "Deskripsi Fisik": "XI,275 p.; ill.: 25 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "PSIKOLOGI SOSIAL"
+        }
+    ],
+    "Buku Nomor 6": [
+        {
+            "Judul": "Studying the Novel",
+            "Pengarang": "Jeremy Hawthorn",
+            "Penerbit": "Oxford University Press",
+            "Tahun Terbit": "2005",
+            "Tempat Terbit": "London",
+            "Deskripsi Fisik": "vi, 218 p.; 21 cm",
+            "ISBN": 9780340887875,
+            "Bahasa": "English",
+            "Subjek": "Mempelajari novel"
+        }
+    ],
+    "Buku Nomor 7": [
+        {
+            "Judul": "The Anatomy Of The Novel",
+            "Pengarang": "Marjorie Boulton",
+            "Penerbit": "Routledge and Kegan Paul",
+            "Tahun Terbit": "1975",
+            "Deskripsi Fisik": "ix, 146 hlm.: ilus.; 18 cm",
+            "ISBN": 9780710081360,
+            "Bahasa": "English",
+            "Subjek": "Structure"
+        }
+    ],
+    "Buku Nomor 8": [
+        {
+            "Judul": "Peradaban Komunikasi Politik",
+            "Pengarang": "Novel Ali",
+            "Penerbit": "Remaja Rosdakarya",
+            "Tahun Terbit": "1999",
+            "ISBN": 9789795147831,
+            "Deskripsi Fisik": "22",
+            "Bahasa": "Indonesia",
+            "Subjek": "Politik"
+        }
+    ],
+    "Buku Nomor 9": [
+        {
+            "Judul": "Encyclopedia Of Software Engineering VOL!",
+            "Pengarang": "Philip A. Laplante",
+            "Penerbit": "Taylor & Francisgroup",
+            "Tahun Terbit": "2011",
+            "ISBN": 9781420064285,
+            "Deskripsi Fisik": "xxxiii, 650p.; 28cm",
+            "Bahasa": "English",
+            "Subjek": "Software"
+        }
+    ],
+    "Buku Nomor 10": [
+        {
+            "Judul": "Perbandingan Kekuasaan Presiden Indonesia: Setelah Perubahan UUD 1945 Dengan Delapan Negara Maju",
+            "Pengarang": "Abdul Ghoffar",
+            "Penerbit": "Kencana",
+            "Tempat Terbit": "Jakarta",
+            "Tahun Terbit": "2009",
+            "ISBN": 9789791486576,
+            "Deskripsi Fisik": "xxvi, 473 p.; 23 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "INDONESIA - PRESIDEN - KEKUASAAN"
+        }
+    ]
+}
