@@ -1,100 +1,100 @@
 {
-  "Bibliografi_1": [
-    {
-      "Judul": "Radikus MakanKakus",
-      "Pengarang": "Raditya Dika",
-      "Penerbit": "Kawah Media",
-      "Tahun Terbit": "2017",
-      "ISBN": "9789797808976"
-    }
+	"Bibliografi_1": [
+		{
+			"Judul": "Radikus MakanKakus",
+			"Pengarang": "Raditya Dika",
+			"Penerbit": "Kawah Media",
+			"Tahun Terbit": "2017",
+			"ISBN": "9789797808976"
+		}
   ],
-    "Bibliografi_2": [
-	{ 
-	  "Judul": "Perahu",
-	  "Pengarang": "Conie Sema",
-	  "Edisi": "Pertama",
-	  "Penerbit": "Teras Budaya",
-	  "Tahun Terbit": "2018",
-	  "ISBN": "9786025780127"
-    } 
+	"Bibliografi_2": [
+		{ 
+			"Judul": "Perahu",
+			"Pengarang": "Conie Sema",
+			"Edisi": "Pertama",
+			"Penerbit": "Teras Budaya",
+			"Tahun Terbit": "2018",
+			"ISBN": "9786025780127"
+		} 
   ],
     "Bibliografi_3": [
-	{ 
-	  "Judul": "Firytale",
-	  "Pengarang": "Danielle Steel",
-	  "Penerbit": "Delacorte Press",
-	  "Tahun Terbit": "2017",
-	  "ISBN": "9781101884065"
-	}
+		{ 
+			"Judul": "Firytale",
+			"Pengarang": "Danielle Steel",
+			"Penerbit": "Delacorte Press",
+			"Tahun Terbit": "2017",
+			"ISBN": "9781101884065"
+		}
   ],
     "Bibliografi_4": [
-	{
-      "Judul": "Awan",
-	  "Pengarang": "Syafruddin Pernyata",
-	  "Edisi": "Pertama",
-	  "Penerbit": "Kalika",
-	  "Tahun Terbit": "2018"
-	}
+		{
+			"Judul": "Awan",
+			"Pengarang": "Syafruddin Pernyata",
+			"Edisi": "Pertama",
+			"Penerbit": "Kalika",
+			"Tahun Terbit": "2018"
+		}
   ], 
     "Bibliografi_5": [
-	{
-	  "Judul": "Perfect Love",
-      "Pengarang": "Hana Sutrisno",
-	  "Edisi": "Pertama",
-	  "Penerbit": "Cakrawala",
-	  "Tahun Terbit": "2014"
-	}
+		{
+			"Judul": "Perfect Love",
+			"Pengarang": "Hana Sutrisno",
+			"Edisi": "Pertama",
+			"Penerbit": "Cakrawala",
+			"Tahun Terbit": "2014"
+		}
   ],
     "Bibliografi_6": [
-	{
-	  "Judul": "Rich People Problems",
-	  "Pengarang": "Kevin Kwan",
-	  "Penerbit": "Doubleday Books for Young Readers",
-	  "Tempat Terbit": "New York",
-	  "Tahun Terbit": "2017"
-	}
+		{
+			"Judul": "Rich People Problems",
+			"Pengarang": "Kevin Kwan",
+			"Penerbit": "Doubleday Books for Young Readers",
+			"Tempat Terbit": "New York",
+			"Tahun Terbit": "2017"
+		}
   ],
     "Bibliografi_7": [
-	{
-	  "Judul": "Bertukar Rasa",
-	  "Pengarang": "Puji Purnama",
-	  "Edisi": "Pertama",
-	  "Penerbit": "Meja Tamu",
-	  "Tempat Terbit": "Sidoarjo",
-	  "Tahun Terbit": "2018"
-	}
+		{
+			"Judul": "Bertukar Rasa",
+			"Pengarang": "Puji Purnama",
+			"Edisi": "Pertama",
+			"Penerbit": "Meja Tamu",
+			"Tempat Terbit": "Sidoarjo",
+			"Tahun Terbit": "2018"
+		}
   ],
     "Bibliografi_8": [
-	{
-	  "Judul": "Ranai Rena",
-	  "Pengarang": "Ida Ernawati",
-	  "Edisi": "Pertama",
-	  "Penerbit": "Meja Tamu",
-	  "Tahun Terbit": "2018",
-	  "ISBN": "9786026679666"
-	}
+		{
+			"Judul": "Ranai Rena",
+			"Pengarang": "Ida Ernawati",
+			"Edisi": "Pertama",
+			"Penerbit": "Meja Tamu",
+			"Tahun Terbit": "2018",
+			"ISBN": "9786026679666"
+		}
   ],
     "Bibliografi_9": [
-	{
-	  "Judul": "Lain Waktu",
-	  "Pengarang": "Hilmi Abedillah",
-	  "Edisi": "Pertama",
-	  "Penerbit": "Elex Media Komputindo",
-	  "Tahun Terbit": "2019",
-	  "Tempat Terbit": "Jakarta",
-	  "ISBN": "9786230008153"
-	}
+		{
+			"Judul": "Lain Waktu",
+			"Pengarang": "Hilmi Abedillah",
+			"Edisi": "Pertama",
+			"Penerbit": "Elex Media Komputindo",
+			"Tahun Terbit": "2019",
+			"Tempat Terbit": "Jakarta",
+			"ISBN": "9786230008153"
+		}
   ],
     "Bibliografi_10": [
-	{
-	  "Judul": "Skenario",
-	  "Pengarang": "Lala Pasha",
-	  "Edisi": "Pertama",
-	  "Penerbit": "Pustaka Rumah Aloy",
-	  "Tempat Terbit": "Pontianak",
-	  "Tahun Terbit": "2017"
-	}
-  ]
+		{
+			"Judul": "Skenario",
+			"Pengarang": "Lala Pasha",
+			"Edisi": "Pertama",
+			"Penerbit": "Pustaka Rumah Aloy",
+			"Tempat Terbit": "Pontianak",
+			"Tahun Terbit": "2017"
+		}
+	]
 }
 	
 	
