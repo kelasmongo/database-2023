@@ -1,1 +1,131 @@
+{
+    "Buku_Pertama":
+    [
+        {
+            "Judul": "atlas tematik provinsi",
+            "pengarang": "Mahyuzar",
+            "Penerbit": "Anak Saleh Pratama",
+            "Edisi": "Cetakan Pertama",
+            "Tahun terbit": "Tidak Diketahui",
+            "ISBN": 9793351500,
+            "Reference": true
+        }
+    ],
 
+    "Buku_Kedua":
+    [
+        {
+            "Judul": "Jaringan baru teroris solo",
+            "pengarang": "Fajar Purwawidada",
+            "penerbit": "Gramedia",
+            "edisi": "Cetakan Pertama",
+            "Tahun Terbit": "Tidak Diketahui",
+            "ISBN": 9789799107787,
+            "reference": false
+        }
+    ],
+
+    "Buku_Ketiga":
+    [
+        {
+            "Judul": "Cermin Bening",
+            "pengarang": "Riantiarno",
+            "penerbit": "Grasindo",
+            "edisi": "Tidak Diketahui",
+            "Tahun Terbit": 2005,
+            "ISBN": 9797592251,
+            "reference": false
+        }
+    ],
+
+    "Buku_Keempat":
+    [
+        {
+            "Judul": "The Spiderwick Chronicles",
+            "pengarang": "Tony DiTerlizzi dan Holly Black",
+            "penerbit": "Gramedia Pustaka Utama",
+            "edisi": "Tidak Diketahui",
+            "Tahun Terbit": 2004,
+            "ISBN": 979221125,
+            "reference": false
+        }
+    ],
+
+    "Buku_Kelima":
+    [
+        {
+            "Judul": "Kepustakawanan profetik",
+            "pengarang": "Ade Abdul Hak",
+            "penerbit": "Adabia Press",
+            "edisi": "Cetakan Pertama",
+            "Tahun Terbit": 2023,
+            "ISBN": 9786027908260,
+            "reference": false
+        }
+    ],
+
+    "Buku_Keenam":
+    [
+        {
+            "Judul": "Ejaan Yang Disempurakan : Pedoman Umum Ejaan Bahasa Indonesia",
+            "pengarang": "Tim LITBANG kebahasaan Genesis",
+            "penerbit": "Frasa Lingua",
+            "edisi": "Cetakan Kelima",
+            "ISBN": "Tidak Diketahui",
+            "Tahun Terbit": 2016,
+            "reference": true
+        }
+    ],
+
+    "Buku_Ketujuh":
+    [
+        {
+            "Judul": "Indonesia Banking Directory 2009-2010",
+            "pengarang": "Pustaka Bisnis Indonesia",
+            "penerbit": "Pustaka Bisnis Indonesia",
+            "edisi": "Cetakan Keempat",
+            "ISBN": 9789796190393,
+            "Tahun Terbit": 2009,
+            "reference": true
+        }
+    ],
+
+    "Buku_Kedelapan":
+    [
+        {
+            "Judul": "BincangAkhlak",
+            "pengarang": "Takdir Alisyahbana Ridwan",
+            "penerbit": "mediakita",
+            "edisi": "Cetakan Keempat",
+            "ISBN": 9789797947873,
+            "Tahun Terbit": 2023,
+            "reference": false
+        }
+    ],
+
+    "Buku_Kesembilan":
+    [
+        {
+            "Judul": "TemantapiMenikah 2",
+            "pengarang": "Ayudia Bing Slamet",
+            "penerbit": "Elex Media Komputindo",
+            "edisi": "Cetakan Kedua",
+            "ISBN": 9786020445410,
+            "Tahun Terbit": 2017,
+            "reference": false
+        }
+    ],
+
+    "Buku_Kesepuluh":
+    [
+        {
+            "Judul": "Ikhlas Paling Serius",
+            "pengarang": "Fajar Sulaiman",
+            "penerbit": "mediakita",
+            "edisi": "Cetakan Kesepuluh",
+            "ISBN": 9789797946265,
+            "Tahun Terbit": 2021,
+            "reference": false
+        }
+    ]
+}
