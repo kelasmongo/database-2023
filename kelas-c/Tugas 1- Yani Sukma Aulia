@@ -60,5 +60,42 @@
   ],
     "Bibliografi_7": [
       {
-        "Judul": 
-
+        "Judul": "Hujan",
+        "Nama Pengarang": "Tere Liye",
+        "Penerbit": "PT Gramedia Pustaka",
+        "Tahun Terbit": "2016",
+        "ISBN": "9786020324784",
+        "Jumlah Halaman": "320 Halaman"
+      }
+  ],
+    "Bibliografi_8": [
+      {
+        "Judul": "Komet", 
+        "Nama Pengarang": "Tere Liye",
+        "Penerbit": "Gramedia Pustaka Utama",
+        "Tahun Terbit": "2018",
+        "ISBN": "9786020385938",
+        "Jumlah Halaman": "372 Halaman"
+       }
+  ],
+      "Bibliografi_9": [
+        {
+          "Judul": "Komet Minor",
+          "Nama Pengarang": "Tere Liye",
+          "Penerbit": "Gramedia Pustaka Utama",
+          "Tahun Terbit": "2019",
+          "ISBN": "9786020623399",
+          "Jumlah Halaman": "376 Halaman"
+         }
+    ],
+        "Bibliografi_10": [
+          {
+            "Judul": "Serangkai",
+            "Nama Penagrang": "Valerie Patkar",
+            "Penerbit": "Bhuana Ilmu Populer",
+            "Tahun Terbit": "2021",
+            "ISBN": "9786230402876",
+            "Jumlah Halaman": "400 Halaman"
+          }
+    ]
+}
