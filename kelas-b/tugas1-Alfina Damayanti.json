@@ -1,0 +1,31 @@
+{
+  "buku_1": {
+    "judul": "fish in the water",
+    "penulis": "lee chanhyuk",
+    "penerbit": "gramedia",
+    "tempat terbit": "jakarta",
+    "tahun terbit": 2021,
+    "isbn": 9786020648781,
+    "halaman": 176
+  },
+  "buku_2": {
+    "judul": "home sweet loan",
+    "penulis": "almira bastari",
+    "penerbit": "gramedia",
+    "tempat terbit": "jakarta",
+    "tahun terbit": 2022,
+    "isbn": 9786020658049,
+    "halaman": 312
+  },
+  "buku_3": {
+    "judul": "studi islam 2",
+    "penulis": "hasan basri salim",
+    "penerbit": "lembaga penelitian UIN Syarif Hidayatullah Jakarta",
+    "tempat terbit": "tangerang selatan",
+    "tahun terbit": 2010,
+    "isbn": "978-602-8606-83-8",
+    "halaman": 238
+  },
+  "buku_4": {
+    
+    
