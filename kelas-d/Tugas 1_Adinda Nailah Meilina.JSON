@@ -1,0 +1,151 @@
+{
+    "Buku Nomor 1":
+    [
+        {
+            "Judul": "Kutukan Bulan Biru",
+            "Pengarang": "Sherlyn Dhissa",
+            "Penerbit": "Kana Media",
+            "Tahun Terbit": "2022",
+            "Tempat Penerbit": "Yogyakarta",
+            "ISBN": 9786022670285,
+            "Deskripsi Fisik": "160 halaman ; 14 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Novel"
+        }
+    ],
+
+    "Buku Nomor 2":
+    [
+        {
+            "Judul": "Amazing Experiments with Everyday Materials : Fun Science",
+            "Pengarang": "Eko Praptanto",
+            "Penerbit": "Pustaka Lebah",
+            "Tahun Terbit": 2020,
+            "Tempat Penerbit": "Jakarta",
+            "ISBN": 9789793973135,
+            "Deskripsi Fisik": "39 hallaman, ilustrasi ; 29 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Ensiklopedi Anak"
+        }
+    ],
+
+    "Buku Nomor 3":
+    [
+        {
+            "Judul": "Fosfor : Kegeapan Ini, Butuh Cahayanya",
+            "Pengarang": "Ummi Yahya",
+            "Penerbit": "Redaksi",
+            "Tahun Terbit": "2021",
+            "Tempat Penerbit": "Depok",
+            "ISBN": 9786239660659,
+            "Deskripsi Fisik": "323 halaman, ilustrasi ; 15 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Novel"
+        }
+    ],
+
+    "Buku Nomor 4":
+    [
+        {
+            "Judul": "Seri Ensiklopedia anak Muslim : 5  Nabi Ulul Azmi",
+            "Pengarang": "Kak Adib",
+            "Penerbit": "Diva Kids",
+            "Tahun Terbit": "2017",
+            "Tempat Penerbit": "Jakarta",
+            "ISBN": 9786023913992,
+            "Deskripsi Fisik": "183 Halaman, iustrasi ; 27 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "syahadat"
+        }
+    ],
+
+    "Buku Nomor 5":
+    [
+        {
+            "Judul": "Ensiklopedia Sastra Minangkabau",
+            "Pengarang": "-", 
+            "Penerbit": "Balai Bahasa Padang",
+            "Tahun Terbit": "2008",
+            "Tempat Penerbit": "Padang",
+            "ISBN": 9789796857739,
+            "Deskripsi Fisik": "146 Halaman ; 22 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Sastra Minangkabau"
+        }
+    ],
+
+    "Buku Nomor 6":
+    [
+        {
+            "Judul": "Matahari Terbit Di Barat : Kumpullan Puisi Dan Fiksi",
+            "Pengarang": "Indri Hapsari",
+            "Penerbit": "Indrihapsari.com",
+            "Tahun Terbit": "2015",
+            "Tempat Penerbit": "-",
+            "ISBN": 9789797623258,
+            "Deskripsi Fisik": "143 Halaman ; 22 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Kesustraaan Indonesia"
+        }
+    ],
+
+    "Buku Nomor 7":
+    [
+        {
+            "Judul": "Karamel Dan Kumpulan Fiksi",
+            "Pengarang": "Dewi Puspasari",
+            "Penerbit": "Yayasan Pusaka Thamrin Dahlan",
+            "Tahun Terbit": "2021",
+            "Tempat Penerbit": "Jakarta",
+            "ISBN": 9786235631448,
+            "Deskripsi Fisik": "152 Halaman, ilustrasi ; 21 cm.",
+            "Bahasa": "Indonesia",
+            "Subjek": "Cerita Pendek Indonesia"
+        }
+    ],
+
+    "Buku Nomor 8":
+    [
+        {
+            "Judul": "Friendzone; Lempar Kode, Sembunyi Hati",
+            "Pengarang": "Alnira",
+            "Penerbit": "Grasindo",
+            "Tahun Terbit": "2018",
+            "Tempat Penerbit": "Jakarta",
+            "ISBN": 9786024528423,
+            "Deskripsi Fisik": "301 Halaman ; 20 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi Indonesia"
+        }
+    ],
+
+    "Buku Nomor 9":
+    [
+        {
+            "Judul": "Kiat Menuliis Fiksi: 50 Hari Jadi Penullis Besar",
+            "Pengarang": "Sides Sudyarto",
+            "Penerbit": "Pustaka Populer Obor",
+            "Tahun Terbit": "2006",
+            "Tempat Penerbit": "Jakarta",
+            "ISBN": 979461596,
+            "Deskripsi Fisik": "ix, 108 Halaman ; 17 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi Indonesia"
+        }
+    ],
+
+    "Buku Nomor 10":
+    [
+        {
+            "Judul": "When It Rains",
+            "Pengarang": "Velicia Ong",
+            "Penerbit": "Grasindo",
+            "Tahun Terbit": "2019",
+            "Tempat Penerbit": "Jakarta",
+            "ISBN": 9786020516110,
+            "Deskripsi Fisik": "195 Halaman ; 20 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Sastra Indonesia"
+        }
+    ]
+}
