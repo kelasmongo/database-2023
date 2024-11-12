@@ -1,92 +1,92 @@
 {
   "books_1": {
-    "title":
-    "author":
-    "publisher":
-    "year":
-    "language":
-    "pages":
-    "isbn":
+    "title": "Bubu, Si Buku yang Pintar",
+    "author": "Siti Anisah",
+    "publisher": "Tiga Ananda",
+    "year": 2017,
+    "subjek": "Cerpen Anak",
+    "pages": 36,
+    "isbn": "9786023663422"
   },
   "books_2": {
-    "title":
-    "author":
-    "publisher":
-    "year":
-    "language":
-    "pages":
-    "isbn":
+    "title": "Rindu",
+    "author": "Tere Liye",
+    "publisher": "Republika",
+    "year": 2014,
+    "language": "Indonesia",
+    "pages": 544,
+    "isbn": "978-602-8997-90-4"
   },
   "books_3": {
-    "title":
-    "author":
-    "publisher":
-    "year":
-    "language":
-    "pages":
-    "isbn":
+    "title": "Bintang",
+    "author": "Tere Liye",
+    "publisher": "Gramedia Pustaka",
+    "year": 2017,
+    "language": "Indonesia",
+    "pages": 392,
+    "isbn": "978-602-03-5117-9"
   },
   "books_4": {
-    "title":
-    "author":
-    "publisher":
-    "year":
-    "language":
-    "pages":
-    "isbn":
+    "title": "Ibu Cadangan",
+    "author": "Wahyuono",
+    "publisher": "Pranata Widya Sejahtera",
+    "year": 2020,
+    "language": "Indonesia",
+    "pages": 119,
+    "isbn": "978-623-92744-0-5"
   },
   "books_5": {
-    "title":
-    "author":
-    "publisher":
-    "year":
-    "language":
-    "pages":
-    "isbn":
+    "title": "Cinta ya Cinta",
+    "author": "Ali Muakhir",
+    "publisher": "Dar Mizan",
+    "year": 2002,
+    "language": "Indonesia",
+    "pages": 187,
+    "isbn": "979-3035-84-6"
   },
   "books_6":
-    "title":
-    "author":
-    "publisher":
-    "year":
-    "language":
-    "pages":
-    "isbn":
+    "title": "Manajemen Perpustakaan",
+    "author": "Lubis",
+    "publisher": "Deepublish",
+    "year": 2018,
+    "language": "Indonesia",
+    "pages": 65,
+    "isbn": "9786024758301"
   },
   "books_7":
-    "title":
-    "author":
-    "publisher":
-    "year":
-    "language":
-    "pages":
-    "isbn":
+    "title": "Cinta Bertepuk Sebelah Tangan",
+    "author": "Zalfa Juadah Jahro",
+    "publisher": "Cahaya Pelangi Media",
+    "year": 2020,
+    "language": "Indonesia",
+    "pages": 196,
+    "isbn": "978-623-6670-38-5"
   },
   "books_8":
-    "title":
-    "author":
-    "publisher":
-    "year":
-    "language":
-    "pages":
-    "isbn":
+    "title": "Pengantar Ilmu Kearsipan",
+    "author": "Sulistyo Basuki",
+    "publisher": "Universitas Terbuka",
+    "year": 2007,
+    "language": "Indonesia",
+    "pages": 561,
+    "isbn": "979-689-964-7"
   },
   "books_9":
-    "title":
-    "author":
-    "publisher":
-    "year":
-    "language":
-    "pages":
-    "isbn":
+    "title": "Pengantar Psikologi Lintas Budaya",
+    "author": "Matsumoto",
+    "publisher": "Pustaka Pelajar",
+    "year": 2004,
+    "language": "Indonesia",
+    "pages": 266,
+    "isbn": "979-3477-55-5"
   }, 
   "books_10":
-    "title":
-    "author":
-    "publisher":
-    "year":
-    "languages":
-    "pages":
-    "isbn":
+    "title": "Dear Nathan",
+    "author": "Erisca Febriani",
+    "publisher": "Best Media",
+    "year": 2017,
+    "languages": "Indonesia",
+    "pages": 528,
+    "isbn": "978-602-6940-14-8"
   }
 }
