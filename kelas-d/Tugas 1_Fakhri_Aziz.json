@@ -1,0 +1,161 @@
+{
+    "Buku Number 1":
+    [
+        {
+            "Judul": "Sang Pemimpi",
+            "Pengarang": "Andrea Hinata",
+            "Penerbit": "Bentang",
+            "Tempat Terbit": "Yogyakarta",
+            "Tahun Terbit": 2010,
+            "Edisi": "Cetakan 28",
+            "ISBN": 9789791227810,
+            "Deskripsi Fisik": "vii, 248 Halaman.; 21 cm",
+            "Subjek": "Novel",
+            "Bahasa": "Indonesia"
+        }
+    ],
+
+    "Buku Number 2":
+    [
+        {
+            "Judul": "Si Anak Kuat",
+            "Pengarang": "Tere Liye",
+            "Penerbit": "Sabak Grip Nusantra",
+            "Tempat Terbit": "Depok",
+            "Tahun Terbit": 2018,
+            "Edisi": "Cetakan 1",
+            "ISBN": 9786025734427,
+            "Deskripsi Fisik": "397 Halaman.; 21 cm",
+            "Subjek": "Novel",
+            "Bahasa": "Indonesia"
+        }
+    ],
+
+    "Buku Number 3":
+    [
+        {
+            "Judul": "Selalu Ada Kapal Untuk Pulang",
+            "Pengarang": "Randu Alamsyah",
+            "Penerbit": "Diva Press",
+            "Tempat Terbit": "Yogyakarta",
+            "Tahun Terbit": 2013,
+            "Edisi": "Cetakan 1",
+            "ISBN": 9786025734427,
+            "Deskripsi Fisik": "397 Halaman.; 21 cm",
+            "Subjek": "Novel",
+            "Bahasa": "Indonesia"
+        }
+    ],
+
+    "Buku Number 4":
+    [
+        {
+            "Judul": "Negeri Para Bedebah",
+            "Pengarang": "Tere Liye",
+            "Penerbit": "Gramedia Pustaka Utama",
+            "Tempat Terbit": "Jakarta",
+            "Tahun Terbit": 2012,
+            "Edisi": "Cetakan 1",
+            "ISBN": 9789792285529,
+            "Deskripsi Fisik": "440 Halaman.; 20 cm",
+            "Subjek": "Novel",
+            "Bahasa": "Indonesia"
+        }
+    ],
+
+    "Buku Number 5":
+    [
+        {
+            "Judul": "Sunyi Paling Riuh",
+            "Pengarang": "Fajar Sulaiman",
+            "Penerbit": "Kawah Media",
+            "Tempat Terbit": "Jakarta",
+            "Tahun Terbit": 2023,
+            "Edisi": "Cetakan 1",
+            "ISBN": 97886022204855,
+            "Deskripsi Fisik": "308 Halaman.; 19 cm",
+            "Subjek": "Novel",
+            "Bahasa": "Indonesia"
+        }
+    ],
+
+    "Buku Number 6":
+    [
+        {
+            "Judul": "Jakarta Sebelum Pagi",
+            "Pengarang": "Ziggy Zezsyazeoviennazabrizkie",
+            "Penerbit": "Grasindo",
+            "Tempat Terbit": "Jakarta",
+            "Tahun Terbit": 2017,
+            "Edisi": "Cetakan 2",
+            "ISBN": 9786023758449,
+            "Deskripsi Fisik": "270 Halaman.; 20 cm",
+            "Subjek": "Fiksi",
+            "Bahasa": "Indonesia"
+        }
+    ],
+
+    "Buku Number 7":
+    [
+        {
+            "Judul": "Layangan Putus",
+            "Pengarang": "Mommy ASF",
+            "Penerbit": "Rdm Publishers",
+            "Tempat Terbit": "Malang",
+            "Tahun Terbit": 2010,
+            "Edisi": "Cetakan 1",
+            "ISBN": 9786020729091,
+            "Deskripsi Fisik": "268 Halaman.; 21 cm",
+            "Subjek": "Novel",
+            "Bahasa": "Indonesia"
+        }
+    ],
+
+    "Buku Number 8":
+    [
+        {
+            "Judul": "Perahu Kertas",
+            "Pengarang": "Dee Lestari",
+            "Penerbit": "Bentang",
+            "Tempat Terbit": "Malang",
+            "Tahun Terbit": 2015,
+            "Edisi": "Cetakan 1",
+            "ISBN": 9786022910527,
+            "Deskripsi Fisik": "564 Halaman.; 18 cm",
+            "Subjek": "Novel",
+            "Bahasa": "Indonesia"
+        }
+    ],
+
+    "Buku Number 9":
+    [
+        {
+            "Judul": "Bintang",
+            "Pengarang": "Tere Liye",
+            "Penerbit": "Gramedia Pustaka Utama",
+            "Tempat Terbit": "Jakarta",
+            "Tahun Terbit": 2017,
+            "Edisi": "Cetakan 1",
+            "ISBN": 9786020351179,
+            "Deskripsi Fisik": "392 Halaman.; 20 cm",
+            "Subjek": "Novel",
+            "Bahasa": "Indonesia"
+        }
+    ],
+
+    "Buku Number 10":
+    [
+        {
+            "Judul": "Hujan",
+            "Pengarang": "Tere Liye",
+            "Penerbit": "Gramedia Pustaka Utama",
+            "Tempat Terbit": "Jakarta",
+            "Tahun Terbit": 2019,
+            "Edisi": "Cetakan 3",
+            "ISBN": 9786020324784,
+            "Deskripsi Fisik": "320 Halaman.; 20 cm",
+            "Subjek": "Novel",
+            "Bahasa": "Indonesia"
+        }
+    ]
+}
