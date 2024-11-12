@@ -1,0 +1,72 @@
+{
+    "Buku_1": {
+        "Judul": "Tentang Kamu",
+        "Penulis": "Tere Liye",
+        "Penerbit": "Republika",
+        "Tahun Terbit": 2017,
+        "Tenmpat Terbit": "Jakarta"
+    }, 
+    "Buku_2": {
+        "Judul": "Menjadi Manusia Menjadi Hamba",
+        "Penulis": "Fahruddin Faiz",
+        "Penerbit": "Mizan Media Utama",
+        "Tahun Terbit": 2021,
+        "Tenmpat Terbit": "Jakarta"
+    },
+    "Buku_3": {
+        "Judul": "Negeri Para Pedebah",
+        "Penulis": "Tere Liye",
+        "Penerbit": "Gramedia Pustaka Utama",
+        "Tahun Terbit": 2016,
+        "Tenmpat Terbit": "Jakarta"
+    },
+    "Buku_4": {
+        "Judul": "Pulang",
+        "Penulis": "Leila S. Chudori",
+        "Penerbit": "Gramedia Pustaka Utama",
+        "Tahun Terbit": 2012,
+        "Tenmpat Terbit": "Jakarta"    
+    },
+    "Buku_5": {
+        "Judul": "9 Matahari",
+        "Penulis": "Adenita",
+        "Penerbit": "Grasindo",
+        "Tahun Terbit": 2009,
+        "Tenmpat Terbit": "Jakarta"    
+    },
+    "Buku_6": {
+        "Judul": "Sungging Sebuah Novel",
+        "Penulis": "Alan TH",
+        "Penerbit": "KPG",
+        "Tahun Terbit": 2017,
+        "Tenmpat Terbit": "Jakarta"  
+    },
+    "Buku_7": {
+        "Judul": "Cantik Itu Luka",
+        "Penulis": "Eka Kurniawan",
+        "Penerbit": "Gramedia Pustaka Utama",
+        "Tahun Terbit": 2002,
+        "Tenmpat Terbit": "Jakarta"  
+    },
+    "Buku_8": {
+        "Judul": "Sebuah Seni Untuk Bersikap Bodo Amat",
+        "Penulis": "Mark Manson",
+        "Penerbit": "Grasindo",
+        "Tahun Terbit": 2018,
+        "Tenmpat Terbit": "Jakarta"  
+    },
+    "Buku_9": {
+        "Judul": "Menghilang, Menemukan Diri Sejati",
+        "Penulis": "Fahruddin Faiz",
+        "Penerbit": "Noura Books",
+        "Tahun Terbit": 2022,
+        "Tenmpat Terbit": "Jakarta"  
+    }, 
+    "Buku_10": {
+        "Judul": "Gagal Menjadi Manusia",
+        "Penulis": "Dazai Osamu",
+        "Penerbit": "Penerbit Mai",
+        "Tahun Terbit": 2020,
+        "Tenmpat Terbit": "Jakarta"   	
+    }
+}
