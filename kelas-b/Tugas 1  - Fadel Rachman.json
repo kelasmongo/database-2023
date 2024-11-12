@@ -1,0 +1,112 @@
+{
+    "buku 1" :
+    [
+        {
+            "judul" : "My Ice Girl",
+            "pengarang" : "Pit Sansi",
+            "penerbit" : "Bentang Belia",
+            "tahun terbit" :"2018",
+            "tempat terbit" : "YOgyakarta"
+        }
+        
+    ],
+
+    "buku 2" :
+    [
+        {
+            "judul" : "Menjalin Silaturahmi Dalam Bingkai Komunitas",
+            "pengarang" : "Shohipuddin Ochid",
+            "penerbit" : "KBM Indonesia",
+            "tahun terbit" : "2021",
+            "tempat terbit" : "Yogyakarta"
+        }
+    ],
+
+    "buku 3" :
+    [
+        {
+            "judul" : "Daun Yang Jatuh Tak Pernah Membenci Angin",
+            "pengarang" : "Tere Liye",
+            "penerbit" : "PT Gramedia Pusaka Utama",
+            "tahun terbit" : "2010",
+            "tempat terbit" : "Jakarta"
+        }
+    ],
+
+    "buku 4" : 
+    [
+        {
+            "judul" : "Sagaras",
+            "pengarang" : "Tere LIye",
+            "penerbit" : "PT Sabak Grip Nusantara",
+            "tahun terbit" : "2022",
+            "tempat terbit" : "Jakarta"
+        }
+    ],
+
+    "buku 5" :
+    [
+        {
+            "judul" : "Ma'ajim al-arabiyah",
+            "pengarang" : "Rajab abd al-jawad Ibrahim",
+            "penerbit" : "Dar al-afaq al-arabiyah",
+            "tahun terbit" : "2016",
+            "tempat terbit" : "Kairo"
+        }
+    ],
+
+    "buku 6" :
+    [
+        {
+            "judul" : "THE ALPHA GIRL'S GUIDE",
+            "pengarang" : "Henry Manampirng",
+            "penerbit" : " Gagas Media",
+            "tahun terbit" : "2023",
+            "tempat terbit" : "Jakarta"
+        }
+    ],
+
+    "buku 7" :
+    [
+        {
+            "judul" : "Koala Kumal",
+            "pengarang" : "Raditya Dika",
+            "penerbit" : " Gagas Media",
+            "tahun terbit" : "2017",
+            "tempat terbit" : "Ciganjur"
+        }
+    ],
+
+    "buku 8" :
+    [
+        {
+            "judul" : "Maroujiu Al-Thulab Fi Al-Insan", 
+            "pengarang" : "Ibrahim Syamsuddin",
+            "penerbit" : "Darul Kutub Al-Ilmiyyah",
+            "tahun terbit" : "2002",
+            "tempat terbit" : "Libanon"
+        }
+    ],
+
+    "buku 9" :
+    [
+        {
+            "judul" : "Kritik Sastra Feminis : Teori dan Aplikasi",
+            "pengarang" : "Sugihastuti dan Suharto",
+            "penerbit" : "Pustaka Pelajar",
+            "tahun terbit" : "2016",
+            "tempat terbit" : "Yogyakarta"
+        }
+    ],
+
+    "buku 10" :
+    [
+        {
+            "judul" : "Dua Cinta",
+            "pengarang" : "Stephenie Meyer",
+            "penerbit" : "PT Gramedia Pusaka Utama",
+            "tahun terbit" : "2009",
+            "tempat terbit" : "Jakarta"
+        }
+    ]
+}
