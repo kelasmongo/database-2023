@@ -1,0 +1,151 @@
+{
+    "Buku Nomor 1":
+    [
+        {
+            "Judul": "Membaca dan Membaca Lagi",
+            "Pengarang": "Allen Pamela dan Soemanto Bakdi",
+            "Penerbit": "Indonesia Tera",
+            "Tahun Terbit": 2004,
+            "Tempat Penerbit": "Magelang",
+            "ISBN": 9799375606,
+            "Deskripsi Fisik": "xxii, 320 Halaman ; 21 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi"
+        }
+    ],
+
+    "Buku Nomor 2":
+    [
+        {
+            "Judul": "Berkenalan dengan Prosa Fiksi",
+            "Pengarang": "Sayuti dan Suminto",
+            "Penerbit": "Gamamedia",
+            "Tahun Terbit": 2000,
+            "Tempat Penerbit": "Yogyakarta",
+            "ISBN": "-",
+            "Deskripsi Fisik": "x, 220 Halaman",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi"
+        }
+    ],
+
+    "Buku Nomor 3":
+    [
+        {
+            "Judul": "Fiksi dan Non Fiksi dalam Kajian Semiotik",
+            "Pengarang": "Zoes dan Aart Van Zoest",
+            "Penerbit": "Intermasa",
+            "Tahun Terbit": 1990,
+            "Tempat Penerbit": "Jakarta",
+            "ISBN": "-",
+            "Deskripsi Fisik": "ix, 92 Halaman ; 21 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi"
+        }
+    ],
+
+    "Buku Nomor 4":
+    [
+        {
+            "Judul": "Metode Karakterisasi Telaah Fiksi",
+            "Pengarang": "Minderok dan Albertina",
+            "Penerbit": "Yayasan Obor Indonesia",
+            "Tahun Terbit": 2005,
+            "Tempat Penerbit": "Jakarta",
+            "ISBN": 9794615574,
+            "Deskripsi Fisik": "x, 178 Halaman ; 23 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi"
+        }
+    ],
+
+    "Buku Nomor 5":
+    [
+        {
+            "Judul": "Menganalisis Fiksi Sebuah Pengantar",
+            "Pengarang": "Furqonul Aziz dan Abdul Hasim",
+            "Penerbit": "Ghalia Indonesia",
+            "Tahun Terbit": 2010,
+            "Tempat Penerbit": "Bogor, Jawa Barat",
+            "ISBN": 9789794506196,
+            "Deskripsi Fisik": "viii, 105 Halaman ; 23 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi"
+        }
+    ],
+
+    "Buku Nomor 6":
+    [
+        {
+            "Judul": "Ensiklopedia Bid'ah",
+            "Pengarang": "Am Mathar dan Hammud bin Abdullah",
+            "Penerbit": "yayasan Al Sofwa Darul Hak",
+            "Tahun Terbit": 2012,
+            "Tempat Penerbit": "Jakarta",
+            "ISBN": 9789793407562,
+            "Deskripsi Fisik": "xviii, 540 Halaman ; 23 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Ensiklopedia"
+        }
+    ],
+
+    "Buku Nomor 7":
+    [
+        {
+            "Judul": "Ensiklopedia Biologi Dunia Hewan Mamalia 2",
+            "Pengarang": "Fatikasari",
+            "Penerbit": "Lentera Abadi",
+            "Tahun Terbit": 2008,
+            "Tempat Penerbit": "London",
+            "ISBN": 9789793535678,
+            "Deskripsi Fisik": "xxxiii, 257 Halaman",
+            "Bahasa": "Indonesia",
+            "Subjek": "Ensiklopedia"
+        }
+    ],
+
+    "Buku Nomor 8":
+    [
+        {
+            "Judul": "Ensiklopedia Ekonomi Keuangan dan Perdagangan 1",
+            "Pengarang": "Abdurrahman",
+            "Penerbit": "Pradnya",
+            "Tahun Terbit": 1976,
+            "Tempat Penerbit": "Jakarta",
+            "ISBN": "-",
+            "Deskripsi Fisik": "1130 Halaman ; 21 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Ensiklopedia"
+        }
+    ],
+
+    "Buku Nomor 9":
+    [
+        {
+            "Judul": "Ensiklopedia Junior Binatang Kecil",
+            "Pengarang": "Isma Soekoto",
+            "Penerbit": "Bhuana Ilmu Populer",
+            "Tahun Terbit": 2021,
+            "Tempat Penerbit": "Jakarta",
+            "ISBN": 978602394208,
+            "Deskripsi Fisik": "123 Halaman ; Ilustrasi, 23 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Ensiklopedia"
+        }
+    ],
+
+    "Buku Nomor 10":
+    [
+        {
+            "Judul": "Perempuan Teduh",
+            "Pengarang": "Harun tasqif",
+            "Penerbit": "Qultumedia",
+            "Tahun Terbit": 2019,
+            "Tempat Penerbit": "Jakarta",
+            "ISBN": 9789790174153,
+            "Deskripsi Fisik": "x, 238 halaman ; 18 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi"
+        }
+    ]
+}
