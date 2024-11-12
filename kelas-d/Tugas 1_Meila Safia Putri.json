@@ -1,0 +1,99 @@
+{
+
+    "buku 1" : 
+        {
+            "Judul Buku" : "Pulang",
+            "Pengarang" : "Leila S. Chudori",
+            "Tahun" : 2023,
+            "Penerbit" : "Kepustakaan Populer Gramedia",
+            "Jumlah Halaman" : 460,
+            "ISBN" : 9786024242746
+        },
+    
+        "buku 2" :
+        {
+            "Judul Buku" : "Laut Bercerita",
+            "Pengarang" : "Leila S. Chudori",
+            "Tahun" : 2017,
+            "Penerbit" : "Kepustakaan Populer Gramedia",
+            "Jumlah Halaman" : 379,
+            "ISBN" : 9786024246945
+        },
+    
+        "buku 3" :
+        {
+            "Judul Buku" : "Daun Yang Jatuh Tidak Pernah Membenci Angin",
+            "Pengarang" : "Tere Liye",
+            "Tahun" : 2010,
+            "Penerbit" : "Gramedia Pustaka Utama",
+            "Jumlah Halaman" : 264,
+            "ISBN" : 9789792257809
+        },
+    
+        "buku 4" :
+        {
+            "Judul Buku" : "Sang Pemimpin",
+            "Pengarang" : "Andrea Hirata",
+            "Tahun" : 2006,
+            "Penerbit" : "Bentang Pustaka",
+            "Jumlah Halaman" : 292,
+            "ISBN" : 9789793062921
+        },
+        "buku 5" :
+        {
+            "Judul Buku" : "Namaku Alam",
+            "Pengarang" : "Leila S. Chudori",
+            "Tahun" : 2023,
+            "Penerbit" : "Kepustakaan Populer Gramedia",
+            "Jumlah Halaman" : 438,
+            "ISBN" : 9786231340825
+        },
+        "buku 6" :
+        {
+            "Judul Buku" : "Laskar Pelangi",
+            "Pengarang" : "Andrea Hirata",
+            "Tahun" : 2005,
+            "Penerbit" : "Bentang Pustaka",
+            "Jumlah Halaman" : 529,
+            "ISBN" : 9793062797
+        },
+        "buku 7" :
+        {
+            "Judul Buku" : "Autumn In Paris",
+            "Pengarang" : "Ilana Tan",
+            "Tahun" : 2007,
+            "Penerbit" : "Gramedia Pustaka Utama",
+            "Jumlah Halaman" : 272,
+            "ISBN" : 9792230300
+        },
+        "buku 8" :
+        {
+            "Judul Buku" : "5 cm",
+            "Pengarang" : "Dhonny Dhirgantoro",
+            "Tahun" : 2005,
+            "Penerbit" : "Grasindo",
+            "Jumlah Halaman" : 381,
+            "ISBN" : 9789797591519
+        }, 
+        "buku 9" :
+        {
+            "Judul Buku" : "Habibi Ainun",
+            "Pengarang" : "Bacharuddin Jusuf Habibie",
+            "Tahun" : 2010,
+            "Penerbit" : "PT Thc Mandiri",
+            "Jumlah Halaman" : 323,
+            "ISBN" : 9789791255134	
+            	
+            
+            
+        },
+        "buku 10" :
+        {
+            "Judul Buku" : "Rumah Kaca",
+            "Pengarang" : "Pramoedya Ananta Toer",
+            "Tahun" : 1988,
+            "Penerbit" : "Lentera Dipantara",
+            "Jumlah Halaman" : 646,
+            "ISBN" : 9789731267
+        }
+    }
