@@ -1,0 +1,186 @@
+{
+    "Buku Pertama":
+    [
+        { 
+            "judul": "Sejarah Perpustakaan Nasional Tepublik Indonesia",
+            "pengarang": "Sulistyo basuki",
+            "penerbit": "Perpustakaan Nasional Republik Indonesia",
+            "edisi": "edisi 2016",
+            "tempat terbit": "jakarta",
+            "jenis bahan": "Monograf",
+            "deskripsi fisik": "vii,54 hlm.;21cm",
+            "catatan": "bibliografi : hlm. 50-54",
+            "bahasa": "Indonesia",
+            "bentuk karya": "buku fiksi",
+            "subjek": "sejarah perpusatakaan nasional",
+            "target pembaca": "Umum",
+            "ISBN": 9789790087958
+        }
+    ],
+
+    "Buku Kedua":
+    [
+        {
+            "judul": "Pengantar Ilmu Kearsipan",
+            "pengarang": "Sulistyo basuki",
+            "penerbit": "Universitas Terbuka",
+            "edisi": "edisi 2, cetakan pertama",
+            "tempat terbit": "tangerang",
+            "jenis bahan": "monograf",
+            "deskripsi fisik": "ii,561 halaman.,ilustrasi,21cm",
+            "catatan": "Buku materi pokok Arsip4101/4sks/modul1-12",
+            "bahasa": "Indonesia",
+            "bentuk karya": "buku fiksi",
+            "subjek": "Materi kearsipan",
+            "target pembaca": "Umum",
+            "ISBN": 9796899647
+        }
+    ],
+
+    "buku ketiga":
+    [
+        {
+            "judul": "collection management, manajemen koleksi",
+            "pengarang": "anita tri widiyanti dan romula adiono",
+            "penerbit": "UB Press",
+            "edisi": "cetakan pertama",
+            "tempat terbit": "Malang",
+            "jenis bahan": "monograf",
+            "deskripsi fisik": "xviii,262 halaman;24cm",
+            "catatan": "bibliografi : halaman525-253",
+            "bahasa": "Indonesia",
+            "bentuk karya": "Buku fiksi",
+            "subjek": "pengembangan koleksi",
+            "target pembaca": "umum",
+            "ISBN": 9786232960756
+        }
+    ],
+
+    "buku keempat":
+    [
+        {
+            "judul": "ketersediaan koleksi perpustakaan dalam memenuhi kebutuhan bahan ajar berbasis silabus",
+            "pengarang": "herlina, imron, padila",
+            "penerbit": "Idea Press",
+            "edisi": "cetakan pertama",
+            "tempat terbit": "yogyakarta",
+            "jenis bahan": "monigraf",
+            "deskripsi fisik": "viii,100 halaman,24cm",
+            "catatan": "bibliografi: halaman 139-141",
+            "bahasa": "indonesia",
+            "bentuk karya": "buku fiksi",
+            "subjek": "pengembangan koleksi, perpustakaan",
+            "target pembaca": "dewasa",
+            "ISBN": 9786028686624
+        }
+    ],
+
+    "Buku kelima":
+    [
+        {
+             "judul": "introduction to physics and chemistry",
+             "pengarang": "beiser, arthur, krauskopi, konrad",
+             "edisi": "pertama",
+             "penerbit": "McGraw-hill book",
+             "tempat terbit": "New york",
+             "jenis bahan": "monograf",
+             "deskripsi fisik": "527 halaman, ilustrasi, 21cm",
+             "catatan": "indeks",
+             "bahasa": "inggris",
+             "bentuk karya": "buku fiksi",
+             "subjek": "pengantar fisika, pengantar matematika",
+             "target pembaca": "umum",
+             "ISBN": "-"
+        }
+    ],
+
+    "buku keenam":
+    [
+        {
+            "Judul": "indigenous and cultural psychology",
+            "pengarang": "Uichoi Kim, Helly Prajitno soet",
+            "penerbit": "pustaka pelajar",
+            "tempat terbit": "Yogyakarta",
+            "jenis bahan": "monograf",
+            "deskripsi fisik": "810 halam, 28cm",
+            "catatan": "judul asli : ingenous ans cultural psychology",
+            "bahasa": "Indonesia",
+            "bentuk karya": "fiksi",
+            "subjek": "psikologi",
+            "target pembaca": "umum",
+            "ISBN": 9786028764919
+        }
+    ], 
+
+    "buku ketujuh":
+    [
+        {
+            "Judul": "understanding psyhology",
+            "pengarang": "morris, charles g, maisto",
+            "penerbit": "pearson prentice hall",
+            "tempat terbit": "New jersey",
+            "jenis bahan": "monograf",
+            "deskripsi fisik": "xxii,535, 66 halaman, ilustrasi, 28cm",
+            "catatan": "indeks bibilografi halaman 1-66",
+            "bahasa": "inggris",
+            "bentuk karya": "buku fiksi",
+            "subjek": "psikologi",
+            "target pembaca": "umum",
+            "ISBN": 91323351410
+        }
+    ], 
+
+    "buku kedelapan":
+    [
+        {
+            "Judul": "mariposa",
+            "pengarang": "luluk hf, yuni sulistyowati, yayasan mitra netra",
+            "penerbit": "yayasan mitra netra",
+            "tempat terbit": "jakarta",
+            "jenis bahan": "sumber elektronik",
+            "deskripsi fisik": "1CD : igital, audio: 4 3/4 inci",
+            "catatan": "judul diambil dari kemasan buku ini menggunakan bahasa indonesia",
+            "bahasa": "Indonesia",
+            "bentuk karya": "fiksi",
+            "subjek": "fiksi indonesia",
+            "target pembaca": "umum",
+            "ISBN": 9786025508615
+        }
+    ], 
+
+    "buku kesembilan":
+    [
+        {
+            "Judul": "sesuai petang",
+            "pengarang": "jacob, m, gadis rasid",
+            "penerbit": "djambatan",
+            "tempat terbit": "jakarta",
+            "jenis bahan": "monograf",
+            "deskripsi fisik": "vii,145 halaman: 21cm",
+            "catatan": "-",
+            "bahasa": "Indonesia",
+            "bentuk karya": "fiksi",
+            "subjek": "novel",
+            "target pembaca": "umum",
+            "ISBN": 9794280348
+        }
+    ], 
+
+    "buku kesepuluh":
+    [
+        {
+            "Judul": "persahabatan bagus dan noni",
+            "pengarang": "gol a gong, endah, tias tamalaka, arrahmanrendi",
+            "penerbit": "bestari kids",
+            "tempat terbit": "jakarta",
+            "jenis bahan": "monograf",
+            "deskripsi fisik": "144 halaman: ilustrasi; 20cm",
+            "catatan": "-",
+            "bahasa": "Indonesia",
+            "bentuk karya": "fiksi",
+            "subjek": "novel",
+            "target pembaca": "umum",
+            "ISBN": 97890633711
+        }
+    ]
+}
