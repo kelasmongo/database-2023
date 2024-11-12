@@ -1,0 +1,104 @@
+{
+    "books": [
+        {
+            "isbn": "978-602-42-4694-5",
+            "title": "Laut Bercerita",
+            "subtitle": "-",
+            "author": "Leila S. Chudori",
+            "published": "Jakarta, 2017",
+            "publisher": "Grademia Pustaka Utama",
+            "pages": 400,
+            "description": "Buku ini menceritakan tentang suasana Indonesia pada masa orde baru."
+        },
+        {
+            "isbn": "978-602-06-7438-4",
+            "title": "Sisi Gelap Surga",
+            "subtitle": "-",
+            "author": "Brian Khrisna",
+            "published": "Jakarta, 2023",
+            "publisher": "Grademia Pustaka Utama",
+            "pages": 304,
+            "description": "Buku ini menceritakan tentang kehidupan orang-orang di Jakarta."
+        },
+        {
+            "isbn": "978-623-02-1977-1",
+            "title": "Perpustakaan Simbol Peradaban",
+            "subtitle": "-",
+            "author": "Kusumawati",
+            "published": "Yogyakarta, 2020",
+            "publisher": "Deepublish",
+            "pages": 96,
+            "description": "Perpustakaan simbol peradaban menngulas prospek perpustakaan."
+        },
+        {
+            "isbn": "-",
+            "title": "Peduli perpustakaan",
+            "subtitle": "-",
+            "author": "Tri Hardiningtyas",
+            "published": "Surakarta, 2012",
+            "publisher": "Sebelas Maret University Press",
+            "pages": 103,
+            "description": "-."
+        },
+        {
+            "isbn": "978-602-06-3806-5",
+            "title": "Jokowi mewujudkan mimpi Indonesia",
+            "subtitle": "memahami pembangunan berbasis karakter dan nilai-nilai kemanusiaan",
+            "author": "Darmawan Prasodjo",
+            "published": "Jakarta, 2020",
+            "publisher": "Grademia Pustaka Utama",
+            "pages": 580,
+            "description": "Buku ini memberikan penjelasan tentang bagaimana seorang pemimpin bangsa berusaha mewujudkan Indonesia Maju yang kita impikan bersama."
+        },
+        {
+            "isbn": "978-60-242-5620-3",
+            "title": "Penyelesaian sengketa kontrak kerja konstruksi melalui arttrase & APS",
+            "subtitle": "-",
+            "author": "Nieke Masruchiyah",
+            "published": "Depok, 2018",
+            "publisher": "Rajawali Pers",
+            "pages": 270,
+            "description": "Buku ini khusus mengupas penyelesaian sengketa kontrak kerja konstruksi dengan menggunakan arbitrase dan alternatif penyelesaian sengketa (APS)."
+        },
+        {
+            "isbn": "978-62-339-1134-4",
+            "title": "Sejarah dan tradisi hukum",
+            "subtitle": "-",
+            "author": "Ibnu Sina Chandranegara",
+            "published": "Jakarta, 2023",
+            "publisher": "Sinar Grafika",
+            "pages": 262,
+            "description": "Buku ini memberikan penjelasan memahami studi sejarah terhadap hukum dan meninjau berbagai tradisi hukum dalam lintasan sejarah."
+        },
+        {
+            "isbn": "979-3477-67-9",
+            "title": "Hidup kreatif di zaman penuh problem",
+            "subtitle": "-",
+            "author": "Bailes, Frederick ; Kamdani ; raiza W, Ghafina",
+            "published": "Yogyakarta, 2004",
+            "publisher": "Pustaka Pelajar",
+            "pages": 297,
+            "description": "Dengan bantuan buku ini akan menemukan bahwa diri anda mempunyai sebuah kekuatan tersembunyi yang dinamakan kekuatan kreatif."
+        },
+        {
+            "isbn": "978-97-909-2662-2",
+            "title": "Prakarya dan Kewirausahaan",
+            "subtitle": "-",
+            "author": "Arif Febriadi",
+            "published": "Jakarta, 2015",
+            "publisher": "Yudhistira",
+            "pages": 201,
+            "description": "Buku ini berisi kurikulum tentang prakarya dan kewirausahaan."
+        },
+        {
+            "isbn": "978-979-756-713-2",
+            "title": "Sensor Layar Sentuh",
+            "subtitle": "Aplikasi Teknologi Nano",
+            "author": "Muis, Saludin",
+            "published": "Yogyakarta, 2011",
+            "publisher": "Graha Ilmu",
+            "pages": 399,
+            "description": "Teknologi layar sentuh merupakan trend masa kini yang bersifat friendly."
+        }
+    ]
+}
