@@ -1,0 +1,107 @@
+"Books": [
+        {
+            "title": "Dapat apa sih dari universitas",
+            "subtitle": "kiat kreatif di era global",
+            "author": "Romi Satria Wahono",
+            "published": "Jakarta 2009",
+            "publisher": "Zip Books",
+            "pages": 220,
+            "isbn": "978-979-17288-6-7",
+            "language": "Indonesia",
+            "abstract": "buku ini berisi tentang pengalaman kuliah sang penulis dan beberapa tips kuliah"
+        },
+        {
+            "title": "Al-Arabiyyah bin Namazij",
+            "subtitle": "Juz tsani",
+            "author": "Tim penyusun materi pengajaran bahasa arab IAIN syarif Hidayatullah",
+            "published": "Jakarta 2020",
+            "publisher": "Bulan Bintang",
+            "pages": 134,
+            "isbn": "979-418-108-0",
+            "Language": "Arab",
+            "abstract": "buku ini berisi aspek aspek pengajaran bahasa Arab"
+        },
+        {
+            "title": "About Life",
+            "author": "Tereliye",
+            "published": "Jakarta 2021",
+            "publisher": "PT Gramedia Pustaka Utama",
+            "pages": 128,
+            "isbn": "9786020630212",
+            "Language": "Indonesia",
+            "abstract": "buku ini berisi 100 kutipan sang penulis tentang kehidupan"
+        },
+        {
+            "title": "Teori-teori Psikologi Sosial",
+            "author": "Prof.Dr.Sarlito Wirawan Sarwono",
+            "published": "Jakarta 2014",
+            "publisher": "Rajawali Press",
+            "pages": 256,
+            "isbn": "979-421-094-3",
+            "Language": "Indonesia",
+            "abstract": "buku ini berisi analisis mendalam tentang psikologi sosial"
+        },
+        {
+            "title": "Kemas Ulang Informasi",
+            "subtitle": "Konsep dan praktiknya di bidang kepustakawan",
+            "author": "Wahid Nashihudin",
+            "published": "Jakarta 2021",
+            "publisher": "Ikatan Sarjana Ilmu Perpustakaan Dan Informasi Indonesia Press",
+            "pages": 102,
+            "isbn": "978-623-93178-3-6",
+            "Language": "Indonesia",
+            "abstract": "buku ini berisi tentang informasi teoritis dan praktis dalam pengelolaan kemas ulang informasi di bidang ilmu perpustakaan"
+        },
+        {
+            "title": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+            "author": "Sekretariat Jenderal MPR RI",
+            "published": "Jakarta 2016",
+            "publisher": "Sekretariat Jenderal MPR RI",
+            "pages": 174,
+            "Language": "Indonesia",
+            "abstract": "buku ini berisi pasal-pasal UUD RI 1945"
+        },
+        {
+            "title": "Mobilmotor",
+            "author": "PT Informedia Indonesia",
+            "published": "Jakarta 2002",
+            "publisher": "PT Informedia Indonesia",
+            "pages": 90,
+            "issn": "0047-7591",
+            "Language": "Indonesia",
+            "description": "buku ini berisi tentang otomotif"
+        },
+        {
+            "title": "What's So wrong About Your",
+            "subtitle": "Trauma And Expectation",
+            "author": "Ardhi Mohamad",
+            "published": "Jakarta 2023",
+            "publisher": "Alvi Ardhi Publishing",
+            "pages": 296,
+            "isbn": "978-623-97002-4-9",
+            "Language": "Indonesia",
+            "description": "buku ini berisi tentang self improvment"
+        },
+        {
+            "title": "What's So wrong About Your",
+            "subtitle": "Self Healing",
+            "author": "Ardhi Mohamad",
+            "published": "Jakarta 2023",
+            "publisher": "Alvi Ardhi Publishing",
+            "pages": 276,
+            "isbn": "978-623-97002-1-8",
+            "Language": "Indonesia",
+            "description": "buku ini berisi tentang self improvment"
+        },
+        {
+            "title": "Menahan Rasa",
+            "author": "Elsa Putri Ramadhani",
+            "published": "Jakarta 2020",
+            "publisher": "Qultum Media",
+            "pages": 266,
+            "isbn": "978-979-017-452-8",
+            "Language": "Indonesia",
+            "description": "buku ini berisi tentang pengalaman kisah percintaan sang penulis"
+        }
+    ]
+}
