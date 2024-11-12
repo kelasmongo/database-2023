@@ -1,0 +1,161 @@
+{
+    "Buku 1": 
+    [
+        {
+            "Judul": "Taman Akhir Hayar",
+            "Pengarang": "Mey",
+            "Penerbit": "Alra Media",
+            "Tempat Terbit": "Kalimantan Selatan",
+            "Tahun Terbit": 2018,
+            "Edisi": "Cetakan 1",
+            "ISBN": 9786025696190,
+            "Deskripsi Fisik": "175 Halaman.; 21 cm",
+            "Subjek": "Novel",
+            "Bahasa": "Indonesia"
+        }
+    ],
+
+    "Buku 2":
+    [
+        {
+            "Judul": "Pulang",
+            "Pengarang": "Murnih Aisyah",
+            "Penerbit": "Syahadah Creative Media",
+            "Tempat Terbit": "Sulawesi Selatan",
+            "Tahun Terbit": 2018,
+            "Edisi": "Cetakan 1",
+            "ISBN": 9786025493799,
+            "Deskripsi Fisik": "151 Halaman.; 20 cm",
+            "Subjek": "Novel",
+            "Bahasa": "Indonesia"
+        }
+    ],
+
+    "Buku 3": 
+    [
+        {
+            "Judul": "Sang Jagoan",
+            "Pengarang": "Dewinta Ambarwati",
+            "Penerbit": "Win Media",
+            "Tempat Terbit": "Jawa Timur",
+            "Tahun Terbit": 2023,
+            "Edisi": "Cetakan 1",
+            "ISBN": 9786238348572,
+            "Deskripsi Fisik": "vi, 60 Halaman.; 20 cm",
+            "Subjek": "Novel",
+            "Bahasa": "Indonesia"
+        }
+    ],
+
+    "Buku 4": 
+    [
+        {
+            "Judul": "Sang Jagoan",
+            "Pengarang": "Dewinta Ambarwati",
+            "Penerbit": "Win Media",
+            "Tempat Terbit": "Jawa Timur",
+            "Tahun Terbit": 2023,
+            "Edisi": "Cetakan 1",
+            "ISBN": 9786238348572,
+            "Deskripsi Fisik": "vi, 60 Halaman.; 20 cm",
+            "Subjek": "Novel",
+            "Bahasa": "Indonesia"
+        }
+    ],
+
+    "Buku 5": 
+    [
+        {
+            "Judul": "Dokter Tampan Terjebak Cinta Lokasi Gadis Sederhana",
+            "Pengarang": "Reni Meirina Rifanti",
+            "Penerbit": "Bookies Literasi",
+            "Tempat Terbit": "Sumatera Utara",
+            "Tahun Terbit": 2022,
+            "Edisi": "Cetakan 1",
+            "ISBN": 9786235381237,
+            "Deskripsi Fisik": "vi, 147 Halaman.; 20 cm",
+            "Subjek": "Novel",
+            "Bahasa": "Indonesia"
+        }
+    ],
+
+    "Buku 6": 
+    [
+        {
+            "Judul": "Wish You Were G",
+            "Pengarang": "Ghe Rabadza",
+            "Penerbit": "Kreator Cerdas Indonesia",
+            "Tempat Terbit": "Jawa Timur",
+            "Tahun Terbit": 2023,
+            "Edisi": "Cetakan 1",
+            "ISBN": 9786235376141,
+            "Deskripsi Fisik": "v, 271 Halaman.; 20 cm",
+            "Subjek": "Novel",
+            "Bahasa": "Indonesia"
+        }
+    ],
+
+    "Buku 7": 
+    [
+        {
+            "Judul": "Payabo Bisa Tonji",
+            "Pengarang": "Sutrianida",
+            "Penerbit": "Subaltern Inti Media",
+            "Tempat Terbit": "Sulawesi Selatan",
+            "Tahun Terbit": 2023,
+            "Edisi": "Cetakan 1",
+            "ISBN": 9786235587417,
+            "Deskripsi Fisik": "vii, 128 Halaman.; 19 cm",
+            "Subjek": "Novel",
+            "Bahasa": "Indonesia"
+        }
+    ],
+
+    "Buku 8": 
+    [
+        {
+            "Judul": "Negeri Para Bedebah",
+            "Pengarang": "Tere Liye",
+            "Penerbit": "Gramedia Pustaka Utama",
+            "Tempat Terbit": "Jakarta",
+            "Tahun Terbit": 2012,
+            "Edisi": "Cetakan 1",
+            "ISBN": 9789792285529,
+            "Deskripsi Fisik": "440 Halaman.; 20 cm",
+            "Subjek": "Novel",
+            "Bahasa": "Indonesia"
+        }
+    ],
+
+    "Buku 9": 
+    [
+        {
+            "Judul": "Laut Bercerita",
+            "Pengarang": "Leila S. Chudori",
+            "Penerbit": "Kepustakaan Populer Gramedia",
+            "Tempat Terbit": "Jakarta",
+            "Tahun Terbit": 2017,
+            "Edisi": "Cetakan 1",
+            "ISBN": 9786024246945,
+            "Deskripsi Fisik": "x, 379 Halaman.; 20 cm",
+            "Subjek": "Novel",
+            "Bahasa": "Indonesia"
+        }
+    ],
+
+    "Buku 10": 
+    [
+        {
+            "Judul": "Hujan",
+            "Pengarang": "Tere Liye",
+            "Penerbit": "Gramedia Pustaka Utama",
+            "Tempat Terbit": "Jakarta",
+            "Tahun Terbit": 2019,
+            "Edisi": "Cetakan 3",
+            "ISBN": 9786020324784,
+            "Deskripsi Fisik": "320 Halaman.; 20 cm",
+            "Subjek": "Novel",
+            "Bahasa": "Indonesia"
+        }
+    ]
+}
