@@ -1,0 +1,110 @@
+{
+    "Buku1" :
+    [
+        {
+            "Judul" : "Studi Tentang Bahasa Gaul, Tuturan Kasual",
+            "Penerbit" :"Amsterdam",
+            "Tahun" : "1981",
+            "Penulis" : "Soning Kasl"
+            
+        }
+    ],
+
+    "Buku2" :
+    [
+        {
+            "Judul" : "Japanesw Street Slang",
+            "Penerbit" : "Boston",
+            "Tahun" : "1993",
+            "Penulis" : "Constantine Peter"
+        }
+    ],
+    
+    "Buku3" :
+    [
+        {
+            "Judul" : "Atomic Habits",
+            "Penerbit" : "Gramedia Pustaka",
+            "Tahun" : "2019",
+            "Penulis" : "James Clear"
+
+        }
+    ],
+
+    "Buku4" :
+    [
+        {
+            "Judul" : "Pak,Bu,Bantu Aku Lewat Doamu",
+            "Penerbit" : "Gramedia Mediatama",
+            "Tahun" : "2024",
+            "Penulis" : "Dandy Arifin"
+        }
+    ],
+
+    "Buku5" :
+    [
+        {
+            "Judul" : "Perlahan Ilhlas Perlahan Melepas",
+            "Penerbit" : "Mediakita",
+            "Tahun" : "2024",
+            "Penulis" : "Ayum Daigo"
+
+        }
+    ],
+
+    "Buku6" :
+    [
+        {
+            "Judul" : "Leadership",
+            "Penerbit" : "Gramedia Pusaka",
+            "Tahun" : "2018",
+            "Penulis" : "Dale Carnegia"
+        
+        }
+    ],
+
+    "Buku7" :
+    [
+        {
+            "Judul" : "Timun Jelita",
+            "Penerbit" : "Gaga Media",
+            "Tahun" : "2024",
+            "Penulis" : "Raditya Dika"
+        }
+    ],
+
+    "Buku8" :
+    [
+        {
+            "Judul" : "Hamidah Hamidun",
+            "Penerbit" : "Diva Press",
+            "Tahun" : "2024",
+            "Penulis" : "Desy Arisandi"
+        }
+    ],
+
+    "Buku9" :
+    [
+        {
+            "Judul" : "Waktu Aku Dilayoff",
+            "Penerbit" : "Shira Media",
+            "Tahun" : "2024",
+            "Penulis" : "Ester Pandiangan"
+        
+        }
+    ],
+
+    "Buku10" :
+    [
+        {
+            "Judul" : "Perhatikan Celah Peron",
+            "Penerbit" : "Elex Media Komputindo",
+            "Tahun" : "2024",
+            "Penulis" : "Sashi Kirana"
+        }
+    ]
+        
+    
+
+}
+
