@@ -1,0 +1,112 @@
+{
+    "Buku_1": {
+        "Judul": "Cara Mengelola Perpustakaan Sekolah Dasar",
+        "Pengarang": "Yaya Suhendar",
+        "Penerbit": "Prenamedia Group",
+        "Tahun Terbit": "2014",
+        "Tempat Terbit": "Jakarta",
+        "ISBN": "978-979-3464-88-6",
+        "Deskripsi Fisik": "224 halaman, 21 cm.",
+        "Bahasa": "Indonesia",
+        "Subjek": "Panduan"
+    },
+    "Buku_2": {
+        "Judul": "Kebebasan Informasi di Beberapa Negara",
+        "Pengarang": "Koalisi untuk Kebebasan Informasi",
+        "Penerbit": "Koalisi untuk Kebebasan Informasi",
+        "Tahun Terbit": "2003",
+        "Tempat Terbit": "Jakarta",
+        "ISBN": "979-9381-34-7",
+        "Deskripsi Fisik": "249 halaman, 21 cm.",
+        "Bahasa": "Indonesia",
+        "Subjek": "Jurnalistik"
+    },
+    "Buku_3": {
+        "Judul": "al-maktabah",
+        "Pengarang": "Pusat Perpustakaan UIN Syarif Hidayatullah Jakarta",
+        "Penerbit": "Perpustakaan UIN Syarif Hidayatullah Jakarta",
+        "Tahun Terbit": "1999",
+        "Tempat Terbit": "Ciputat",
+        "ISBN": "0125 9334",
+        "Deskripsi Fisik": "10 jilid, 25 cm.",
+        "Bahasa": "Indonesia",
+        "Subjek": "Perpustakaan"
+    },
+    "Buku_4": {
+        "Judul": "The Setting Sun",
+        "Pengarang": "Dazai Osamu",
+        "Penerbit": "Charles E. Tuttle",
+        "Tahun Terbit": "1981",
+        "Tempat Terbit": "Tokyo",
+        "ISSN": "4-8055-0474-X",
+        "Deskripsi Fisik": "175 halaman, 19 cm.",
+        "Bahasa": "Inggris",
+        "Subjek": "Fiksi"
+    },
+    "Buku_5": {
+        "Judul": "Orang Gagal",
+        "Pengarang": "Dazai Osamu",
+        "Penerbit": "Basabasi",
+        "Tahun Terbit": "2020",
+        "Tempat Terbit": "Yogyakarta",
+        "ISBN": "978-623-7290-59-9",
+        "Deksripsi Fisik": "116 halaman, 20cm",
+        "Bahasa": "Indonesia",
+        "Subjek": "Fiksi Jepang"
+    },
+    "Buku_6": {
+        "Judul": "Naomi Sebuah Novel",
+        "Pengarang": "Junichiro Tanizaki",
+        "Penerbit": "Komodo Books",
+        "Tahun Terbit": "2012",
+        "Tempat Terbit": "Depok",
+        "ISBN": "978-602-9137-23-1",
+        "Deskripsi Fisik": "256 halaman, 21 cm.",
+        "Bahasa": "Indonesia",
+        "Subjek": "Fiksi Jepang"
+    },
+    "Buku_7": {
+        "Judul": "Crime and Punishment",
+        "Pengarang": "Fyodor Dostoyevsky",
+        "Penerbit": "Elex Media Komputindo",
+        "Tahun Terbit": "2010",
+        "Tempat Terbit": "Jakarta",
+        "Deskripsi Fisik": "186 halaman, 23 cm.",
+        "ISBN": "978-979-27-7541-9",
+        "Bahasa": "Indonesia",
+        "Subjek": "Komik"
+    },
+    "Buku_8": {
+        "Judul": "Neraka Cermin",
+        "Pengarang": "Edogawa Rampo",
+        "Penerbit": "Niskala",
+        "Tahun Terbit": "2021",
+        "Tempat Terbit": "Sleman",
+        "Deskripsi Fisik": "182 halaman, 18 cm.",
+        "ISBN": "978-623-96332-0-2",
+        "Bahasa": "Indonesia",
+        "Subjek": "Fiksi"
+    },
+    "Buku_9": {
+        "Judul": "A Collection of Stories",
+        "Pengarang": "Edgar Allan Poe",
+        "Penerbit": "A Tom Doherty Associates Book",
+        "Tahun Terbit": "1988",
+        "Tempat Terbit": "New York",
+        "Deskripsi Fisik": "236 halaman, 17 cm.",
+        "ISSN": "0-812-50475-5",
+        "Bahasa":"Inggris",
+        "Subjek": "Fiksi"
+    },
+    "Buku_10": {
+        "Judul": "Catatan dari Bawah Tanah",
+        "Pengarang": "Fyodor Dostoyevsky",
+        "Penerbit": "Kepustakaan Popiler Gramedia",
+        "Tahun Terbit": "2016",
+        "Tempat Terbit": "Jakarta",
+        "Deskripsi Fisik": "155 halaman, 21 cm.",
+        "ISBN": "978-602-6208-86-6",
+        "Bahasa": "Indonesia",
+        "Subjek": "Drama"
+    }
+}
