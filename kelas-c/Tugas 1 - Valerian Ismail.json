@@ -1,0 +1,102 @@
+{
+    "Buku pertama": [
+        {
+            "Judul": "Kita, Kata, Cinta",
+            "Penulis": "Krisna Pabichara",
+            "ISBN": "978-602-391-694-8",
+            "Tebal Buku": "440 Halaman",
+            "Tahun terbit": "2008",
+            "Penerbit": "Diva Press"
+        }
+    ],
+    "Buku Kedua": [
+        {
+            "Judul": "My Ex My Fiance",
+            "Penulis": "Psyco 61",
+            "ISBN": "978-602-407-475-3",
+            "Tebal Buku": "308 Halaman",
+            "Tahun terbit": "2018",
+            "Penerbit": "Laksana"
+        }
+    ],
+    "Buku Ketiga": [
+        {
+            "Judul": "Jalan Keempat",
+            "Penulis": "M.Faizi",
+            "ISBN": "978-602-391-814-0",
+            "Tebal Buku": "68 Halaman",
+            "Tahun terbit": "2019",
+            "Penerbit": "Diva Press"
+        }
+    ],
+    "Buku Keempat": [
+        {
+            "Judul": "Antologi Puisi Secangkir Teh Untuk Berdua",
+            "Penulis": "Warasti Kurniati",
+            "ISBN": "978-623-02-1671-8",
+            "Tebal Buku": "81 Halaman",
+            "Tahun terbit": "2020",
+            "Penerbit": "Deepublish"
+        }
+    ],
+    "Buku Kelima": [
+        {
+            "Judul": "Romeo Juliet",
+            "Penulis": "William Shakesphere",
+            "ISBN": "978-623-92430-9-8",
+            "Tebal Buku": "166 Halaman",
+            "Tahun terbit": "2020",
+            "Penerbit": "Buku Bijak"
+        }
+    ],
+    "Buku Keenam": [
+        {
+            "Judul": "Hello My Pumpkin",
+            "Penulis": "Virza Azzahra",
+            "ISBN": "9786231038760",
+            "Tebal Buku": "280 Halaman",
+            "Tahun terbit": "2024",
+            "Penerbit": "Akad"
+        }
+    ],
+    "Buku Ketujuh": [
+        {
+            "Judul": "Restoran Terkutuk",
+            "Penulis": "Eve Shi",
+            "ISBN": "9786230060342",
+            "Tebal Buku": "168 Halaman",
+            "Tahun terbit": "2024",
+            "Penerbit": "Elex Media Komputindo"
+        }
+    ],
+    "Buku Kedelapan": [
+        {
+            "Judul": "Sisi Tergelap Surga",
+            "Penulis": "Brian Krisna",
+            "ISBN": "9786020674384",
+            "Tebal Buku": "304 Halaman",
+            "Tahun terbit": "2023",
+            "Penerbit": "Gramedia Pustaka Utama"
+        }
+    ],
+    "Buku Kesembilan": [
+        {
+            "Judul": "City Lite: Scars",
+            "Penulis": "Asri Tahir",
+            "ISBN": "9786230060038",
+            "Tebal Buku": "304 Halaman",
+            "Tahun terbit": "2024",
+            "Penerbit": "Elex Media Komputindo"
+        }
+    ],
+    "Buku Kesepuluh": [
+        {
+            "Judul": "Laut Bercerita",
+            "Penulis": "Leila S. Chudori",
+            "ISBN": "9786024246945",
+            "Tebal Buku": "400 Halaman",
+            "Tahun terbit": "2017",
+            "Penerbit": "Kepustakaan Populer Gramedia"
+        }
+    ]
+}
