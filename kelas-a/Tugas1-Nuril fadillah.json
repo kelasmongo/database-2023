@@ -1,41 +1,46 @@
 {
   "books_1": {
-    "title":
-    "publisher":
-    "year" :
-    "pages" :
-    "isbn":
+    "title": "Keluarga tak kasatmata",
+    "publisher": "gagas media",
+    "year" : "2016",
+    "language": "indonesia",
+    "pages" : "118",
+    "isbn" : "978-979-780-803-7"
   },
   "books_2": {
-    "title":
-    "publisher":
-    "year" :
-    "pages" :
-    "isbn":
+    "title": "Tahu ga tahu analisis culture +62",
+    "publisher": "gagas media",
+    "year" : "2019",
+    "language": "indonesia",
+    "pages" : "117",
+    "isbn" : "978-979-780-945-4" 
   },
   "books_3": {
-    "title":
-    "publisher":
-    "year" :
-    "pages" :
-    "isbn":
+    "title": "Le petit prince",
+    "publisher": "Gramedia pustaka utama",
+    "year" : "2011",
+    "language": "indonesia",
+    "pages" : "118",
+    "isbn": "9786020323411"
   },
   "books_4": {
-    "title":
-    "publisher":
-    "year" :
-    "pages" :
-    "isbn":
+    "title": "La tahla jangan mengeluh",
+    "publisher": "anak hebat indonesia",
+    "year" : "2018",
+    "language": "indonesia",
+    "pages" : "178",
+    "isbn": "978-602-5907-85-2"
   },
   "books_5": {
-    "title":
-    "publisher":
-    "year" :
-    "pages" :
-    "isbn":
+    "title": "Funiculi funicula before the coffe gets cold",
+    "publisher": "Gramedia pustaka utama",
+    "year" :"2021",
+    "language": "indonesia",
+    "pages" : "223",
+    "isbn": "9786020651927"  
   },
   "books_6": {
-    "title":
+    "title": "
     "publisher":
     "year" :
     "pages" :
