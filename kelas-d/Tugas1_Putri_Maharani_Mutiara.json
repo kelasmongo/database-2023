@@ -1,0 +1,95 @@
+{
+    "buku 1" :
+    {
+        "Judul Buku" : "Himpunan",
+        "Pengarang" : "Citra Saras",
+        "Tahun" : 2019,
+        "Penerbit" : "Sunset Road",
+        "Jumlah Halaman" : 620,
+        "ISBN" : 9786239115128
+    },
+
+    "buku 2" :
+    {
+        "Judul Buku" : "Pukul Setengah Lima",
+        "Pengarang" : "Rintik Sedu",
+        "Tahun" : 2023,
+        "Penerbit" : "Gramedia Pustaka Utama",
+        "Jumlah Halaman" : 208,
+        "ISBN" : 9786020672748
+    },
+
+    "buku 3" :
+    {
+        "Judul Buku" : "Nonversation",
+        "Pengarang" : "Valerie Patkar",
+        "Tahun" : 2020,
+        "Penerbit" : "Bhuana Sastra",
+        "Jumlah Halaman" : 341,
+        "ISBN" : 9786024932933
+    },
+
+    "buku 4" :
+    {
+        "Judul Buku" : "Serangkai",
+        "Pengarang" : "Valerie Patkar",
+        "Tahun" : 2021,
+        "Penerbit" : "Bhuana Ilmu Populer",
+        "Jumlah Halaman" : 400,
+        "ISBN" : 9786230402876
+    },
+    "buku 5" :
+    {
+        "Judul Buku" : "Lelaki - lelaki tanpa perempuan",
+        "Pengarang" : "Murakami, Haruki",
+        "Tahun" : 2024,
+        "Penerbit" : "Gramedia Pustaka Utama",
+        "Jumlah Halaman" : 262,
+        "ISBN" : 9786024817664
+    },
+    "buku 6" :
+    {
+        "Judul Buku" : "Namaku alam",
+        "Pengarang" : "Leila S. Chudori",
+        "Tahun" : 2023,
+        "Penerbit" : "Kepustakaan Popular Gramedia",
+        "Jumlah Halaman" : 438,
+        "ISBN" : 9786231340825
+    },
+    "buku 7" :
+    {
+        "Judul Buku" : "Aku titip dia, ya!",
+        "Pengarang" : "Rafi Ibadi",
+        "Tahun" : 2022,
+        "Penerbit" : "Gradien Mediatama",
+        "Jumlah Halaman" : 164,
+        "ISBN" : 9786022082286
+    },
+    "buku 8" :
+    {
+        "Judul Buku" : "Midnight Diaries",
+        "Pengarang" : "Skysphire",
+        "Tahun" : 2023,
+        "Penerbit" : "Bukune",
+        "Jumlah Halaman" : 214,
+        "ISBN" : 9786022207191
+    }, 
+    "buku 9" :
+    {
+        "Judul Buku" : "Si anak kuat",
+        "Pengarang" : "Tere Liye",
+        "Tahun" : 2023,
+        "Penerbit" : "Sabak Grip Nusantara",
+        "Jumlah Halaman" : 427,
+        "ISBN" : 9786239554590
+    },
+    "buku 10" :
+    {
+        "Judul Buku" : "Circe",
+        "Pengarang" : "Madeline Miller",
+        "Tahun" : 2023,
+        "Penerbit" : "Bloomsbury Publishing",
+        "Jumlah Halaman" : 340,
+        "ISBN" : 9781526664587
+    }
+}
