@@ -1,1 +1,92 @@
-
+[
+    {
+        "title": "Metode Penelitian Perpustakaan dan Sains Informasi",
+        "author": "Prijana dan Andri Yanto",
+        "Publisher": "Simbiosa Rekatama Media",
+        "published": "Bandung,2020",
+        "pages": "264",
+        "isbn": "978-623-6625-07-1",
+        "description": "Buku ini membahas metode penelitian kuantitatif di bidang perpustakaan dan sains informasi"
+    },
+    {
+        "title": "Research design Pendekatan Kualitatif, kuantitatif, dan mixed",
+        "author": "John W. Creswell",
+        "Publisher": "Pustaka Pelajar",
+        "published": "Yogyakarta,2013",
+        "pages": "383",
+        "isbn": "978-602-8764-84-1",
+        "description": "Buku ini berisi referensi sekaligus pegangan untuk mata kuliah metode-metode penelitian"
+    },
+    {
+        "title": "Pengelolaan Arsip Berbasis Otomasi",
+        "author": "Mulyadi",
+        "Publisher": "Rajawali pers",
+        "published": "Jakarta,2016",
+        "pages": "319",
+        "isbn": "978-425-209-0",
+        "description": "Buku ini berisi teori-teori tentang kearsipan secara ilmiah"
+    },
+    {
+        "title": "Manajemen Perpustakaan",
+        "author": "Priyono Darmanto",
+        "Publisher": "Bumi aksara",
+        "published": "Jakarta,2018",
+        "pages": "132",
+        "isbn": "978-602-217-704-3",
+        "description": "Buku ini berisi tentang dasar-dasar perpustakaan dan cara untuk memanajemen"
+    },
+    {
+        "title": "Perpustakaan digital",
+        "author": "Retno sayekti dan mardianto",
+        "publisher": "Perdana publishing",
+        "published": "Medan,2019",
+        "pages": "174",
+        "isbn": "978-623-716-69-4",
+        "descrption": "Buku ini berisi tentang pepustakaan digital yang dikembangkan beberapa tahun belakangan ini"
+    },
+    {
+        "title": "Mengelola perpustakaan sekolah",
+        "author": "Dian sinaga",
+        "publisher": "Kiblat buku utama",
+        "published": "Bandung,2007",
+        "pages": "142",
+        "isbn": "979-98606-3-6",
+        "descrption": "Buku ini mengenai bagaimana cara untuk mengelola perpustakaan di sekolah"
+    },
+    {
+        "title": "Manajemen perpustakaan sekolah profesional",
+        "author": "Andi Prastowo",
+        "publisher": "Diva press",
+        "published": "Jogjakarta,2012",
+        "pages": "407",
+        "isbn": "978-602-7695-10-8",
+        "descrption": "Buku ini berisi tentang tata cara manajemen perpustakaan sekolah secara efektif dan efisien"
+    },
+    {
+        "title": "Pengantar Studi (Ilmu) Komunikas IKomunikasi Sebagai Kegiatan Komunikasi Sebagai Ilmu",
+        "author": "Redi panuju",
+        "publisher": "Prenadamedia group",
+        "published": "Jakarta,2018",
+        "pages": "250",
+        "isbn": "978-602-422-743-2",
+        "descrption": "Buku ini akan memperkaya referensi bagi mereka yang berkecimpung sebagai praktisi komunikasi yang berhubungan dengan antara lain bidang pemasaran, kreator cerita, penulis cerita, kehumasan, dan public speaking"
+    },
+    {
+        "title": "Ayat-ayat cinta 2",
+        "author": "Habiburrahman El Shirazy",
+        "publisher": "Republika Penerbit",
+        "published": "Jakarta,2017",
+        "pages": "698",
+        "isbn": "9786020822150",
+        "descrption": "Fahri (Fedi Nuril), dosen di Universitas Edinburgh, ia tinggal sendiri di Skotlandia setelah Aisha, istrinya, hilang di Palestina dan tak ditemukan. Kini, ia melanjutkan hidup ditemani Paman Hulusi, asisten rumah tangga asal Turki"
+    },
+    {
+        "title": "Sejarah kearsipan",
+        "author": "Arsip nasional republik Indonesia",
+        "publisher": "Arsip Nasional Republik Indonesia",
+        "published": "Jakarta,2009",
+        "pages": "45",
+        "isbn": "-",
+        "descrption": "Buku yang berisi sejarah kearsipan dari awal mula ditemukan"
+    }
+]
