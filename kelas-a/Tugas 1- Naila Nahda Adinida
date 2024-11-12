@@ -1,5 +1,47 @@
 {
-"Buku Pertama":{
-"judul": "Alghava":bahasa indonesia",
-"isbn": "9786237191407",
-"penerbit": "Media Moka"
+    "Buku pertama": {
+        "judul": "Alghava",
+        "isbn": "9786237191407",
+        "penerbit": "Media Moka"
+    },
+  "Buku kedua": {
+    "judul": "jurnal jo: online",
+    "isbn": "9789792257380",
+    "pengarang": "Gramedia Pustaka Umum",
+  },
+ "Buku ketiga": {
+    "judul": "Genetika",
+    "isbn": "1654080412",
+    "pengarang": "Gadjah mada university press",
+  },
+  "Buku keempat": {
+    "judul": "introducing phonetic science",
+    "isbn": "9780521146173",
+    "pengarang": "cambridge university press",
+  },
+  "Buku kelima": {
+    "judul": "Cerita Azra",
+    "isbn": "9789790993136",
+    "pengarang": " Andini Dwifatma",
+  },
+  "Buku keenam": {
+    "judul": "Tazkiya",
+    "isbn": "14121735",
+    "pengarang": "fakultas psikologi",
+  },
+  "Buku kedelapan": {
+    "judul": "jane in love",
+    "isbn": "9786029474374",
+    "pengarang": "nurashinchi",
+  },
+  "Buku kesembilan": {
+    "judul": "Bumi",
+    "isbn": "9769239726263",
+    "pengarang": "tere liye",
+  },
+  "Buku kesepuluh": {
+    "judul": "perempuan teduh",
+    "isbn": " 9789790174153",
+    "pengarang": "Harun tasqif"
+  }
+}
