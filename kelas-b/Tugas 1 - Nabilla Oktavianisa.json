@@ -1,0 +1,82 @@
+{
+    "book_1": {
+        "title": "Al-Munawaroh Al-Yaumiyah",
+        "author": "Muhammad Syamsy Al-Rijal",
+        "publisher": "Adabia Press",
+        "year": "2017",
+        "place": "Jakarta",
+        "ISBN": "978-602-9708-10-9"
+    },
+    "book_2": {
+        "title": "Menguasai IPS: Sistem Kebut Semalam",
+        "author": "Muhammad Doddy AB. dan Tim Penulis Pustaka Gema Media",
+        "publisher": "Penerbit Pustaka Gema Media",
+        "year": "2020",
+        "place": "Jakarta",
+        "ISBN": "978-602-98755-5"
+    },
+    "book_3": {
+        "title": "Rumah Teratai",
+        "author": "Sutanto L. Tjokro",
+        "publisher": "Elex Media Komputindo",
+        "year": "2016",
+        "place": "Jakarta",
+        "ISBN": "978-602-02-9513-8"
+    },
+    "book_4": {
+        "title": "Bumi Manusia",
+        "author": "Pramoedya Ananta Toer",
+        "publisher": "Lentera Dipantara",
+        "year": "2020",
+        "place": "Jakarta",
+        "ISBN": "978-979-97132-3-4"
+    },
+    "book_5": {
+        "title": "UUD 1945: Amandemen I, II, III, & IV, UUDRIS & UUDS",
+        "author": "Tim Permata Press",
+        "publisher": "Permata Press",
+        "year": "2011",
+        "place": "Surabaya",
+        "ISBN": "978-602-8228-20-8"
+    },
+    "book_6": {
+        "title": "Fix You",
+        "author": "Carrie Elks",
+        "publisher": "Corvus",
+        "year": "2014",
+        "place": "London",
+        "ISBN": "978-1-78239-824-0"
+    },
+    "book_7": {
+        "title": "Alasan Untuk Tetap Hidup",
+        "author": "Matt Haig",
+        "publisher": "Gramedia Pustaka Utama",
+        "year": "2018",
+        "place": "Jakarta",
+        "ISBN": "978-602-06-4853-8"
+    },
+    "book_8": {
+        "title": "The 5 Second Rule",
+        "author": "Mel Robbins",
+        "publisher": "Gemilang",
+        "year": "2022",
+        "place": "Tangerang Selatan",
+        "ISBN": "978-623-7162-56-8"
+    },
+    "book_9": {
+        "title": "Kim Ji-Young, Lahir Tahun 1982",
+        "author": "Cho Nam-Joo",
+        "publisher": "Gramedia Pustaka Utama",
+        "year": "2020",
+        "place": "Jakarta",
+        "ISBN": "978-602-0636-19-1"
+    },
+    "book_10": {
+        "title": "Between Shades Of Gray",
+        "author": "Ruta Sepetys",
+        "publisher": "Noura Books",
+        "year": "2014",
+        "place": "Jakarta",
+        "ISBN" : "978-602-1306-45-1"
+    }
+}
