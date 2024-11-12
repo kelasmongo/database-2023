@@ -1,0 +1,151 @@
+{
+    "Buku Nomor 1":
+    [
+        {
+            "Judul": "Pulang",
+            "Pengarang": "Leila S. Chudori",
+            "Penerbit": "Gramedia",
+            "Tahun Terbit": 2012,
+            "Tempat Penerbit": "Jakarta",
+            "ISBN": 9789799105158,
+            "Deskripsi Fisik": "viii, 464 halaman ; 20 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi Indonesia"
+        }
+    ],
+
+    "Buku Nomor 2":
+    [
+        {
+            "Judul": "Ibu Pergi Ke Surga",
+            "Pengarang": "Sitor Situmorang",
+            "Penerbit": "Komunitas Bambu",
+            "Tahun Terbit": 2015,
+            "Tempat Penerbit": "Depok, Jawa Barat",
+            "ISBN": "-",
+            "Deskripsi Fisik": "xxii, 218 Halaman ; 21 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Cerita Pendek"
+        }
+    ],
+
+    "Buku Nomor 3":
+    [
+        {
+            "Judul": "Laut Bercerita",
+            "Pengarang": "Leila S. Chudori",
+            "Penerbit": "Kepustakaan Populer Gramedia",
+            "Tahun Terbit": 2017,
+            "Tempat Penerbit": "Jakarta",
+            "ISBN": 9786024246945,
+            "Deskripsi Fisik": "377 Halaman ; 20 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi Indonesia"
+        }
+    ],
+
+    "Buku Nomor 4":
+    [
+        {
+            "Judul": "Tentang Kamu",
+            "Pengarang": "Tere Liye",
+            "Penerbit": "Republika",
+            "Tahun Terbit": 2017,
+            "Tempat Penerbit": "Jakarta",
+            "ISBN": 9786020822341,
+            "Deskripsi Fisik": "vi, 524 Halaman ; 21 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi Indonesia"
+        }
+    ],
+
+    "Buku Nomor 5":
+    [
+        {
+            "Judul": "Negeri Para Bedebah",
+            "Pengarang": "Tere Liye",
+            "Penerbit": "Gramedia",
+            "Tahun Terbit": 2013,
+            "Tempat Penerbit": "Jakarta",
+            "ISBN": 9789792285529,
+            "Deskripsi Fisik": "433 Halaman ; 21 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi Indonesia"
+        }
+    ],
+
+    "Buku Nomor 6":
+    [
+        {
+            "Judul": "Si Anak Pintar",
+            "Pengarang": "Tere Liye",
+            "Penerbit": "Republika",
+            "Tahun Terbit": 2018,
+            "Tempat Penerbit": "Jakarta",
+            "ISBN": 9786025734502,
+            "Deskripsi Fisik": "iv, 345 Halaman ; 21 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi Indonesia"
+        }
+    ],
+
+    "Buku Nomor 7":
+    [
+        {
+            "Judul": "Sunset Bersama Rosie",
+            "Pengarang": "Tere Liye",
+            "Penerbit": "Mahaka",
+            "Tahun Terbit": 2017,
+            "Tempat Penerbit": "Jakarta",
+            "ISBN": 9786029474084,
+            "Deskripsi Fisik": "iv, 426 Halaman ; 21 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi Indonesia"
+        }
+    ],
+
+    "Buku Nomor 8":
+    [
+        {
+            "Judul": "Si Anak Pemberani",
+            "Pengarang": "Tere Liye",
+            "Penerbit": "Republika",
+            "Tahun Terbit": 2018,
+            "Tempat Penerbit": "Jakarta",
+            "ISBN": 9786025734526,
+            "Deskripsi Fisik": "iv, 420 Halaman ; 21 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi Indonesia"
+        }
+    ],
+
+    "Buku Nomor 9":
+    [
+        {
+            "Judul": "Tanah Para Bandit",
+            "Pengarang": "Tere Liye",
+            "Penerbit": "Sabak Grip Nusantara",
+            "Tahun Terbit": 2022,
+            "Tempat Penerbit": "Jakarta",
+            "ISBN": 9786238829675,
+            "Deskripsi Fisik": "436 Halaman ; Ilustrasi 20 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi Indonesia"
+        }
+    ],
+
+    "Buku Nomor 10":
+    [
+        {
+            "Judul": "Negeri Di ujung Tanduk",
+            "Pengarang": "Tere Liye",
+            "Penerbit": "Kompas Gramedia",
+            "Tahun Terbit": 2013,
+            "Tempat Penerbit": "Jakarta",
+            "ISBN": 9789792294293,
+            "Deskripsi Fisik": "359 Halaman ; 20 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi Indonesia"
+        }
+    ]
+}
