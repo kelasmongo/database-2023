@@ -1,0 +1,112 @@
+{
+    "Buku_1": {
+        "Judul": "Menjadi Manusia Paling Bahagia",
+        "Judul Tambahan": "560 Nasehat Menuju Hidup Bahagia Dunia Akhirat",
+        "Pengarang": "Aidh Al-Qarni",
+        "Penerbit": "Pustaka Arafah",
+        "Tempat Terbit": "Solo",
+        "Tahun Terbit": "2004",
+        "Bahasa": "Indonesia",
+        "Halaman": "167",
+        "ISBN" : "9793746017"
+
+    },
+    "Buku_2": {
+        "Judul": "Turuq Tanmiyah Al-Alfaz Fi Al-Lughah",
+        "Pengarang": "Ibrahim Unais",
+        "Penerbit": "Matbaah An-Nadhah Al-Jadidah",
+        "Tempat Terbit": "Kairo",
+        "Tahun Terbit": "1967",
+        "Bahasa": "Arab",
+        "Halaman": "47"
+
+    },
+    "Buku_3": {
+        "Judul": "Etika Kepustakawanan",
+        "Pengarang": "Rachman Hermawan S. dan Zulfikar Zen",
+        "Penerbit": "Sagung Seto",
+        "Tempat Terbit": "Jakarta",
+        "Tahun Terbit": "2006",
+        "Bahasa": "Indonesia",
+        "Halaman": "296",
+        "ISBN": "9793288213"
+
+    },
+    "Buku_4": {
+        "Judul": "Si Ela Dari Jakarta",
+        "Pengarang": "Bestari Kids",
+        "Tempat Terbit": "Jakarta",
+        "Tahun Terbit":"2009",
+        "Bahasa": "Indonesia",
+        "Halaman": "64",
+        "ISBN": "9789790630819"
+
+    },
+    "Buku_5": {
+        "Judul": "Financial Revolution In Action",
+        "Judul Tambahan": "Cara Cepat Melipatgandakan Kekayaan Anda",
+        "Pengarang": "Tung Desem Waringin dan Ongky Hojanto",
+        "Penerbit": "Gramedia Pustaka Utama",
+        "Tempat Terbit": "Jakarta",
+        "Tahun Terbit": "2017",
+        "Bahasa": "Indonesia",
+        "Halaman": "246",
+        "ISBN": "9789792299052"
+        
+    },
+    "Buku_6": {
+        "Judul": "Ilmuwan-Ilmuwan Muslim",
+        "Judul Tambahan": "Pelopor Hebat Di Bidang Sains Modern",
+        "Pengarang": "Ehsan Masood",
+        "Penerbit": "Gramedia Pustaka Utama", 
+        "Tempat Terbit": "Jakarta",
+        "Tahun Terbit": "2009",
+        "Bahasa": "Indonesia",
+        "Halaman": "183",
+        "ISBN": "9789792249149"
+
+    },
+    "Buku_7": {
+        "Judul": "The America We Deserve",
+        "Pengarang": "Donald Trump J.",
+        "Penerbit": "Renaissance Books",
+        "Tempat Terbit": "USA",
+        "Tahun Terbit": "2000",
+        "Bahasa": "Inggris",
+        "Halaman": "227",
+        "ISBN": "9781580631310"
+
+    },
+    "Buku_8": {
+        "Judul": "Bahasa Indonesia",
+        "Judul Tambahan": "Sebagai Mata Kuliah Dasar Umum",
+        "Pengarang": "Dyah Amiyah Lindayani dan Novita Lidyana",
+        "Penerbit": "Pustaka Ilmu",
+        "Tempat Terbit": "Yogyakarta",
+        "Tahun Terbit": "2014",
+        "Bahasa": "Indonesia",
+        "Halaman": "130",
+        "ISBN": "9786027853638"
+
+    },
+    "Buku_9": {
+        "Judul": "Deskripsi Pisang",
+        "Pengarang": "Yuyu Suryasari Poerba",
+        "Penerbit": "LIPI Press",
+        "Tempat Terbit": "Jakarta",
+        "Bahasa": "Indonesia",
+        "Halaman": "312",
+        "ISBN": "9789797999735"
+
+    }, "Buku_10": {
+       "Buku": "A To Z Batik For Fashion",
+       "Pengarang": "Indah Rahmawati",
+       "Penerbit": "Laskar Aksar",
+       "Tempat Terbit": "Bekasi",
+       "Tahun Terbit": "2022",
+       "Bahasa": "Indonesia",
+       "Halaman": "112",
+       "ISBN": "9786029041262" 
+    }
+    
+}
