@@ -1,0 +1,103 @@
+{
+    "Books_1": {
+        "Title": "Study in Paris",
+        "Subtitle": "Buku Panduan Pelajar Indonesia di Kota Eiffel",
+        "Author": "Alfina Iskandar",
+        "Place": "Jakarta",
+        "Publisher": "Bhuana Ilmu Populer",
+        "Year": "2018",
+        "Pages": "228",
+        "Language": "Indonesian",
+        "ISBN": "978-602-455-255-8"
+    },
+    "Books_2": {
+        "Title": "Potret Buram HAM Indonesia",
+        "Subtitle": "Kumpulan Tulisan Rubrik Utama Buletin Wacana HAM 2005",
+        "Author": "Komnas HAM",
+        "Place": "Jakarta",
+        "Publisher": "Pusdokinfo Komnas HAM",
+        "Year": "2006",
+        "Pages": "114",
+        "Language": "Indonesian",
+        "ISBN": "979-26-1413-3"
+    },
+    "Books_3": {
+        "Title": "Najib Mahfudz Al-Mahathoh Al-Akhiroh",
+        "Author": "Muhammad Salmawi",
+        "Place": "Kairo",
+        "Publisher": "Dar Al-Shorouk",
+        "Year": "2007",
+        "Pages": "143",
+        "Language": "Arabic",
+        "ISBN": "977-09-1903-9"
+    },
+    "Books_4": {
+        "Title": "Metode Penelitian Sastra",
+        "Author": "Ahmad Bahtiar dan Aswinarko",
+        "Place": "Tangerang",
+        "Publisher": "Pustaka Mandiri",
+        "Year": "2013",
+        "Pages": "167",
+        "Language": "Indonesian",
+        "ISBN": "978-602-8958-62-2"
+    },
+    "Books_5": {
+        "Title": "Hello",
+        "Author": "Tere Liye",
+        "Place": "Depok",
+        "Publisher": "Sabak Grip Nusantara",
+        "Year": "s.a.",
+        "Pages": "320",
+        "Language": "Indonesian",
+        "ISBN": "9786238829682"
+    },
+    "Books_6": {
+        "Title": "Tinjauan Mengenai Undang-Undang Perkawinan Nomor 1/1974 dan Lampiran U.U. Nomor 1/1974 Tentang Perkawinan",
+        "Author": "Hazairin",
+        "Place": "Jakarta Pusat",
+        "Publisher": "Tintamas Indonesia",
+        "Year": "1986",
+        "Pages": "65",
+        "Language": "Indonesian"
+    },
+    "Books_7": {
+        "Title": "Bungkam Suara",
+        "Author": "J.S. Khairen",
+        "Place": "Jakarta",
+        "Publisher": "Gramedia Widiasarana Indonesia",
+        "Year": "2022",
+        "Pages": "376",
+        "Language": "Indonesian",
+        "ISBN": "9786020529813"
+    },
+    "Books_8": {
+        "Title": "Masih Ingatkah Kau Jalan Pulang",
+        "Author": "Sapardi Djoko Damono dan Rintik Sedu",
+        "Place": "Jakarta",
+        "Publisher": "Gramedia Pustaka Utama",
+        "Year": "2024",
+        "Pages": "110",
+        "Language": "Indonesian",
+        "ISBN": "9786020638331"
+    },
+    "Books_9": {
+        "Title": "Daftar Tajuk Subjek dalam Bahasa Indonesia",
+        "Author": "Sulistyo Basuki",
+        "Place": "Jakarta Timur",
+        "Publisher": "Sagung Seto",
+        "Year": "2015",
+        "Pages": "786",
+        "Language": "Indonesian",
+        "ISBN": "9786028674720"
+    },
+    "Books_10": {
+        "Title": "Timun Jelita",
+        "Author": "Raditya Dika",
+        "Place": "Jakarta Selatan",
+        "Publisher": "Gagas Media",
+        "Year": "2024",
+        "Pages": "168",
+        "Language": "Indonesian",
+        "ISBN": "9786234933031"
+    }
+}
