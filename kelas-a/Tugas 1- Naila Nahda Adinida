@@ -1,47 +1,77 @@
 {
     "Buku pertama": {
+        "judul": "Azra cerita",
+        "isbn": "9789790993136",
+        "pengarang": "Andina Dwifatma"
+    }
+}
+{
+    "Buku kedua": {
         "judul": "Alghava",
-        "isbn": "9786237191407",
-        "penerbit": "Media Moka"
-    },
-  "Buku kedua": {
-    "judul": "jurnal jo: online",
-    "isbn": "9789792257380",
-    "pengarang": "Gramedia Pustaka Umum",
-  },
- "Buku ketiga": {
-    "judul": "Genetika",
-    "isbn": "1654080412",
-    "pengarang": "Gadjah mada university press",
-  },
-  "Buku keempat": {
-    "judul": "introducing phonetic science",
-    "isbn": "9780521146173",
-    "pengarang": "cambridge university press",
-  },
-  "Buku kelima": {
-    "judul": "Cerita Azra",
-    "isbn": "9789790993136",
-    "pengarang": " Andini Dwifatma",
-  },
-  "Buku keenam": {
-    "judul": "Tazkiya",
-    "isbn": "14121735",
-    "pengarang": "fakultas psikologi",
-  },
-  "Buku kedelapan": {
-    "judul": "jane in love",
-    "isbn": "9786029474374",
-    "pengarang": "nurashinchi",
-  },
-  "Buku kesembilan": {
-    "judul": "Bumi",
-    "isbn": "9769239726263",
-    "pengarang": "tere liye",
-  },
-  "Buku kesepuluh": {
-    "judul": "perempuan teduh",
-    "isbn": " 9789790174153",
-    "pengarang": "Harun tasqif"
-  }
+        "isbn": "978623719107",
+        "pengarang": "Noonawii"
+    }
+}
+{
+    "Buku ketiga": {
+        "judul": "Masalah Mantra Cinta",
+        "isbn": "97817330226437",
+        "pengarang": "Nelson Baru"
+    }
+}
+{
+    "Buku keempat": {
+        "judul": "Introducing phonetic science",
+        "isbn": "9780521146173",
+        "pengarang": "cambridge"
+    }
+}
+{
+    "Buku kelima": {
+        "judul": "Tazkiya",
+        "isbn": "14121735",
+        "pengarang": "fakultas psikologi"
+    }
+}
+{
+    "Buku kelima": {
+        "judul": "Azra Cerita",
+        "isbn": "9789790993136",
+        "pengarang": "Andina Dwifatma"
+    }
+}
+{
+    "Buku keenam": {
+        "judul": "Atlas indonesia Dan Dunia",
+        "isbn": "9786023783410",
+        "pengarang": "William j.seta"
+    }
+}
+{
+    "Buku ketujuh": {
+        "judul": "jurnal jo:online",
+        "isbn": "9789792257380",
+        "pengarang": "Gramedia pustaka umum"
+    }
+}
+{
+    "Buku kedelapan": {
+        "judul": "Bumi",
+        "isbn": "9786239726263",
+        "pengarang": "tere liye"
+    }
+}
+{
+    "Buku kesembilan": {
+        "judul": "Jane In Love",
+        "isbn": "9786029474374",
+        "pengarang": "Nurashinichi"
+    }
+}
+{
+    "Buku kesepuluh": {
+        "judul": "Stay",
+        "isbn": "9786025884863",
+        "pengarang": "Incainica"
+    }
 }
