@@ -1,0 +1,161 @@
+{
+    "Bibliographic Number 1": 1,
+    "Buku Tercetak 1":
+    [
+        {
+            "Judul Buku": "Sebuah Seni untuk Bersikap Bodo Amat",
+            "Pengarang": "Mark Manson",
+            "ISBN": 9786024526986,
+            "Deskripsi Fisik": "xii, 246 halaman ; 21 cm",
+            "Penerbit": "Gramedia Pustaka Utama",
+            "Tempat Terbit": "Jakarta",
+            "Tahun Terbit": 2018,
+            "Subjek": "Pengembangan Diri",
+            "Bahasa": "Indonesia"
+        }
+    ],
+
+    "Bibliographic Number 2": 2,
+    "Buku Tercetak 2": 
+    [
+        {
+            "Judul": "Filosofi teras: Filsafat Yunani-Romawi Kuno Untuk Mental Tangguh Masa Kini",
+            "Pengarang": "Henry Manampiring",
+            "ISBN": 9786233463034,
+            "Deskripsi Fisik": "xxvii, 298 halaman: ilustrasi ; 24 cm",
+            "Penerbit": " Kompas Media Nusantara",
+            "Tempat Terbit": "Jakarta",
+            "Tahun Terbit": 2022,
+            "Subjek": "Filosofi, Kuno",
+            "Bahasa": "Indonesia"
+        }
+    ],
+
+    "Biblliographic Number 3": 3,
+    "Buku Tercetak 3":
+    [
+        {
+            "Judul": "Pembahasan Permasalahan dan Penerapan KUHAP",
+            "Pengarang": "Ester Lianawati",
+            "ISBN":9786239497903,
+            "Deskripsi Fisik": "Cetakan, 8. xii, 292 halaman ; 20 cm",
+            "Penerbit": "Buku Mojok Grup",
+            "Tempat Terbit": "Yogyakarta",
+            "Tahun Terbit": 2020,
+            "Subjek": "-",
+            "Bahasa": "Indonesia"
+        }
+    ],
+
+    "Biblliographic Number 4": 4,
+    "Buku Tercetak 4":
+    [
+        {
+            "Judul": "Laskar Pelangi",
+            "Pengarang": "Andrea Hirata",
+            "ISBN": 9793062797,
+            "Deskripsi Fisik": "Cetakan, 22. xiv, 534 halaman : Ilustrasi ; 21 cm.",
+            "Penerbit": "Bentang",
+            "Tempat Terbit": "Yogyakarta",
+            "Tahun Terbit": 2008,
+            "Subjek": "Fiksi",
+            "Bahasa": "Indonesia"
+        }
+    ],
+
+    "Biblliographic Number 5": 5,
+    "Buku Tercetak 5":
+    [
+        {
+            "Judul": "Negeri 5 Menara",
+            "Pengarang": "A. Fuadi",
+            "ISBN": 9789792280043,
+            "Deskripsi Fisik": "Cetakan, 18. 423 halaman; 20 cm",
+            "Penerbit": "Gramedia Pustaka Utama",
+            "Tempat Terbit": "Jakarta",
+            "Tahun Terbit": 2012,
+            "Subjek": "Novel",
+            "Bahasa": "Indonesia"
+        }
+    ],
+
+    "Biblliographic Number 6": 6,
+    "Buku Tercetak 6":
+    [
+        {
+            "Judul": "Bumi Manusia",
+            "Pengarang": "Pramoedya Ananta Toer",
+            "ISBN": 9789799731234,
+            "Deskripsi Fisik": "Cetakan, 3. 353 halaman; 23 cm",
+            "Penerbit": "Hasta Mitra",
+            "Tempat Terbit": "Jakarta",
+            "Tahun Terbit": 1980,
+            "Subjek": "Fiksi Indonesia",
+            "Bahasa": "Indonesia"
+        }
+    ],
+
+    "Biblliographic Number 7": 7,
+    "Buku Tercetak 7":
+    [
+        {
+            "Judul": "Anak Semua Bangsa",
+            "Pengarang": "Pramoedya Ananta Toer",
+            "ISBN": 9799731240,
+            "Deskripsi Fisik": "Cetakan, 9. xi, 539 halaman ;20 cm",
+            "Penerbit": "Lentera Dipantara",
+            "Tempat Terbit": "Jakarta",
+            "Tahun Terbit": 2007,
+            "Subjek": "Fiksi Indonesia",
+            "Bahasa": "Indonesia"
+        }
+    ],
+
+    "Biblliographic Number 8": 8,
+    "Buku Tercetak 8":
+    [
+        {
+            "Judul": "Ronggeng dukuh Paruk",
+            "Pengarang": "Ahmad Tohari",
+            "ISBN": 9792201963,
+            "Deskripsi Fisik": "397 Halaman ; 21 cm",
+            "Penerbit": "Gramedia Pustaka Utama",
+            "Tempat Terbit": "Jakarta",
+            "Tahun Terbit": 2003,
+            "Subjek": "Fiksi Indonesia",
+            "Bahasa": "Indonesia"
+        }
+    ],
+    
+    "Biblliographic Number 9": 9,
+    "Buku Tercetak 9":
+    [
+        {
+            "Judul": "Cantik Itu Luka",
+            "Pengarang": "Eka Kurniawan",
+            "ISBN": 9792207988,
+            "Deskripsi Fisik": "Cetakan, 1. 539 Halaman.; 21 cm",
+            "Penerbit": "Gramedia Pustaka Utama",
+            "Tempat Terbit": "Jakarta",
+            "Tahun Terbit": 2004,
+            "Subjek": "Fiksi Indonesia",
+            "Bahasa": "Indonesia"
+        }
+    ],
+
+    "Biblliographic Number 10": 10,
+    "Buku Tercetak 10":
+    [
+        {
+            "Judul": "Perahu Kertas",
+            "Pengarang": "DEE, Dewi Lestari",
+            "ISBN": 978602375844,
+            "Deskripsi Fisik": "Cetakan, 3. xii, 444 Halaman ; 20 cm",
+            "Penerbit": "Penerbit Bentang; Truedee Pusaka Sejati",
+            "Tempat Terbit": "Yogyakarta, Bandung",
+            "Tahun Terbit": 2009,
+            "Subjek": "Fiksi",
+            "Bahasa": "Indonesia"
+        }
+    ]
+}
