@@ -1,0 +1,82 @@
+{
+    "buku 1": {
+        "Judul Buku": "Alaska",
+        "Pengarang": "Nisaafatm",
+        "Tahun": 2019,
+        "Penerbit": "Bintang Media",
+        "Jumlah Halaman": 404,
+        "Genre": "Fiksi"
+    },
+    "buku 2": {
+        "Judul Buku": "The Jerk Wants Me",
+        "Pengarang": "Yessy N",
+        "Tahun": 2017,
+        "Penerbit": "Bintang Media",
+        "Jumlah Halaman": 544,
+        "Genre": "Fiksi"
+    },
+    "buku 3": {
+        "Judul Buku": "The Perfect Strangers",
+        "Pengarang": "Yessy N",
+        "Tahun": 2020,
+        "Penerbit": "Bintang Media",
+        "Jumlah Halaman": 396,
+        "Genre": "Fiksi"
+    },
+    "buku 4": {
+        "Judul Buku": "Secret Tutor",
+        "Pengarang": "Dekdi A",
+        "Tahun": 2019,
+        "Penerbit": "Aria Media Mandiri",
+        "Jumlah Halaman": 376,
+        "Genre": "Fiksi"
+    },
+    "buku 5": {
+        "Judul Buku": "Matahari Minor",
+        "Pengarang": "Tere Liye",
+        "Tahun": 2023,
+        "Penerbit": "Sabak Grip Nusantara",
+        "Jumlah Halaman": 364,
+        "Genre": "Fiksi"
+    },
+    "buku 6": {
+        "Judul Buku": "Bibi Gill",
+        "Pengarang": "Tere Liye",
+        "Tahun": 2023,
+        "Penerbit": "Sabak Grip Nusantara",
+        "Jumlah Halaman": 360,
+        "Genre": "Fiksi"
+    },
+    "buku 7": {
+        "Judul Buku": "Lumpu",
+        "Pengarang": "Tere Liye",
+        "Tahun": 2023,
+        "Penerbit": "Sabak Grip Nusantara",
+        "Jumlah Halaman": 368,
+        "Genre": "Fiksi"
+    },
+    "buku 8": {
+        "Judul Buku": "Sagara",
+        "Pengarang": "Tere Liye",
+        "Tahun": 2023,
+        "Penerbit": "Sabak Grip Nusantara",
+        "Jumlah Halaman": 392,
+        "Genre": "Fiksi"
+    },
+    "buku 9": {
+        "Judul Buku": "Hujan",
+        "Pengarang": "Tere Liye",
+        "Tahun": 2016,
+        "Penerbit": "Gramedia",
+        "Jumlah Halaman": 320,
+        "Genre": "Fiksi"
+    },
+    "buku 10": {
+        "Judul Buku": "Komet",
+        "Pengarang": "Tere Liye",
+        "Tahun": 2018,
+        "Penerbit": "Gramedia Pustaka Utama",
+        "Jumlah Halaman": 388,
+        "Genre": "Fiksi"
+    }
+}
