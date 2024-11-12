@@ -1,0 +1,101 @@
+{ 
+  "Bibliografi_1": [
+    {
+      "Judul": "Inteligensi Bakat dan Test IQ",
+      "Nama Pengarang": "Fakultas Psikologi",
+      "Penerbit": "Gaya Favorit Press",
+      "Tahun Terbit": "1986"  
+    }
+  ],
+    "Bibliografi_2": [
+      {
+        "Judul": "Dealing With The Bad Boy",
+        "Nama Pengarang": "Febriani AD",
+        "Penerbit": "Grasindo",
+        "Tahun Terbit": "2017",
+        "ISBN": "9786023758050"
+      }
+  ],
+    "Bibliografi_3": [
+      { 
+        "Judul": "Sains Fiksi Balita Akulah Bayi",
+        "Nama Pengarang": "Bambang Joko Susilo",
+        "Penerbit": "Bestari",
+        "Tahun Terbit": "2006",
+        "ISBN": "9792576711",
+        "Jumlah Halaman": "23 Halaman"
+      }
+  ],
+    "Bibliografi_4": [
+      {
+        "Judul": "Kesehatan Jiwa Remaja",
+        "Nama Pengarang": "Retna Dwi Estuningtyas",
+        "Penerbit": "Psikosain",
+        "Tahun Terbit": "2018",
+        "ISBN": "9786025875069",
+        "Edisi": "Cetakan ke 1",
+        "Jumlah Halaman": "64 Halaman"
+      }
+  ],
+    "Bibliografi_5": [
+      {
+        "Judul": "Bad Romance",
+        "Nama Pengarang": "Equita Millianda",
+        "Penerbit": "Pastel Books",
+        "Tahun Terbit": "2018",
+        "ISBN": "9786020851662",
+        "Edisi": "Cetakan ke 9",
+        "Jumlah Halaman": "376 Halaman"
+      }
+  ],
+    "Bibliografi_6": [
+      { 
+        "Judul": "Freaky Romance",
+        "Nama Pengarang": "Despersa",
+        "Penerbit": "KataDepan",
+        "Tahun Terbit": "2021",
+        "ISBN": "9786237567417",
+        "Jumlah Halaman": "340 Halaman"
+      }
+  ],
+    "Bibliografi_7": [
+      {
+        "Judul": "Ada Cinta di SMA",
+        "Nama Pengarang": "Haqi Achmad",
+        "Penerbit": "Gagas Media",
+        "Tahun Terbit": "2016",
+        "ISBN": "9789797808655",
+        "Jumlah Halaman": "250 Halaman"
+      }
+  ],
+    "Bibliografi_8": [
+      {
+        "Judul": "Fairy Tail Adventure 2", 
+        "Nama Pengarang": "Mashima Hiro",
+        "Penerbit": "Elex Media Komputindo",
+        "Tahun Terbit": "2022",
+        "ISBN": "9786230016394",
+        "Jumlah Halaman": "160 Halaman"
+       }
+  ],
+      "Bibliografi_9": [
+        {
+          "Judul": "Bajak Laut Popcorn",
+          "Nama Pengarang": "Alexander McCall Smith",
+          "Penerbit": "Buah Hati",
+          "Tahun Terbit": "2009",
+          "ISBN": "9789791883283",
+          "Jumlah Halaman": "140 Halaman"
+         }
+    ],
+        "Bibliografi_10": [
+          {
+            "Judul": "Hidup Ini Terlalu Banyak Kamu",
+            "Nama Penagrang": "Pidi Baiq",
+            "Penerbit": "Pastel Books",
+            "Tahun Terbit": "2022",
+            "ISBN": "9786235866277",
+            "Jumlah Halaman": "112 Halaman"
+          }
+    ]
+}
