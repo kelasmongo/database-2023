@@ -1,0 +1,85 @@
+{
+    "general description of 10 books":
+    [
+        {
+            "numbers of book": 1,
+            "Judul": "Kroco",
+            "Penulis": "Putu Wijaya",
+            "Penerbit": "Pustaka Firdaus",
+            "Tempat terbit": "Jakarta",
+            "ISBN": 9795410679
+        },
+        {
+            "numbers of book": 2,
+            "Judul": "Mangir",
+            "Penulis": "Pramoedya Ananta Toer",
+            "Penerbit": "KPG",
+            "Tempat terbit": "Jakarta",
+            "ISBN": 9799023408
+        },
+        {
+            "numbers of book": 3,
+            "Judul": "Sayap-sayap Patah",
+            "Penulis": "Kahlil Gibran",
+            "Penerbit": "PT DUNIA PUSTAKA JAYA",
+            "Tempat terbit": "Jakarta Pusat",
+            "ISBN": 9794190128
+        },
+        {
+            "numbers of book": 4,
+            "Judul": "Wayang Mbeling",
+            "Penulis": "Marshall Alexander Clark",
+            "Penerbit": "Lembaga Studi Pers dan Pembangunan",
+            "Tempat terbit": "Jakarta",
+            "ISBN": 9793684534
+        },
+        {
+            "numbers of book": 5,
+            "Judul": "Berani tidak populer",
+            "Penulis": "Budi S. Tanuwibowo",
+            "Penerbit": "PT Gramedia Pustaka Utama",
+            "Tempat terbit": "Jakarta",
+            "ISBN": 9786020315003
+        },
+        {
+            "numbers of book": 6,
+            "Judul": "SAMAN",
+            "Penulis": "Ayu Utami",
+            "Penerbit": "KPG",
+            "Tempat terbit": "Jakarta",
+            "ISBN": 9799023173
+        },
+        {
+            "numbers of book": 7,
+            "Judul": "Pengantar Ilmu Sejarah",
+            "Penulis": "Kunto Wijoyo",
+            "Penerbit": "Tiara Wacana",
+            "Tempat terbit": "Yogyakarta",
+            "ISBN": 9789791262569
+        },
+        {
+            "numbers of book": 8,
+            "Judul": "Hoakiau di Indonesia",
+            "Penulis": "Pramoedya Ananta Toer",
+            "Penerbit": "PT Gramedia Pustaka Utama",
+            "Tempat terbit": "Jakarta",
+            "ISBN": "Unidentified"
+        },
+        {
+            "numbers of book": 9,
+            "Judul": "Kembalinya Surga yang Hilang",
+            "Penulis": "Ali Ahmad Bakatsir",
+            "Penerbit": "Yayasan Menara Center",
+            "Tempat terbit": "Jakarta Selatan",
+            "ISBN": 9786025235023
+        },
+        {
+            "numbers of book": 10,
+            "Judul": "Sejarah dan Memori",
+            "Penulis": "Budiawan",
+            "Penerbit": "Penerbit Ombak",
+            "Tempat terbit": "Yogyakarta",
+            "ISBN": 9786022580898
+        }
+    ]
+}
