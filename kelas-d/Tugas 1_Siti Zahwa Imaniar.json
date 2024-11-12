@@ -1,5 +1,6 @@
 {
-    "Buku Nomor 1": [
+    "Buku Nomor 1": 
+    [
         {
             "Judul": "The Girl Who Fell",
             "Pengarang": "S.M.Parker",
@@ -12,7 +13,8 @@
             "Subjek": "Novel"
         }
     ],
-    "Buku Nomor 2": [
+    "Buku Nomor 2":
+    [
         {
             "Judul": "Ilmu Perbandingan Pendidikan",
             "Pengarang": "M.Arifin ARIFIN",
@@ -25,7 +27,8 @@
             "Subjek": "PENDIDIKAN-TEORI"
         }
     ],
-    "Buku Nomor 3": [
+    "Buku Nomor 3": 
+    [
         {
             "Judul": "Pengantar Ilmu Kependudukan",
             "Pengarang": "Said RUSLI",
@@ -37,7 +40,8 @@
             "Subjek": "PENDUDUK-TEORI"
         }
     ],
-    "Buku Nomor 4": [
+    "Buku Nomor 4": 
+    [
         {
             "Judul": "Tantangan wanita modern ketakutan wanita?",
             "Pengarang": "Colette Dowling",
@@ -49,7 +53,8 @@
             "Subjek": "WANITA-KEADAAN SOSIAL"
         }
     ],
-    "Buku Nomor 5": [
+    "Buku Nomor 5": 
+    [
         {
             "Judul": "Psikologi Sosial",
             "Pengarang": "David O. SEARS",
@@ -61,7 +66,8 @@
             "Subjek": "PSIKOLOGI SOSIAL"
         }
     ],
-    "Buku Nomor 6": [
+    "Buku Nomor 6": 
+    [
         {
             "Judul": "Studying the Novel",
             "Pengarang": "Jeremy Hawthorn",
@@ -74,7 +80,8 @@
             "Subjek": "Mempelajari novel"
         }
     ],
-    "Buku Nomor 7": [
+    "Buku Nomor 7": 
+    [
         {
             "Judul": "The Anatomy Of The Novel",
             "Pengarang": "Marjorie Boulton",
@@ -86,7 +93,8 @@
             "Subjek": "Structure"
         }
     ],
-    "Buku Nomor 8": [
+    "Buku Nomor 8": 
+    [
         {
             "Judul": "Peradaban Komunikasi Politik",
             "Pengarang": "Novel Ali",
@@ -98,7 +106,8 @@
             "Subjek": "Politik"
         }
     ],
-    "Buku Nomor 9": [
+    "Buku Nomor 9": 
+    [
         {
             "Judul": "Encyclopedia Of Software Engineering VOL!",
             "Pengarang": "Philip A. Laplante",
@@ -110,7 +119,8 @@
             "Subjek": "Software"
         }
     ],
-    "Buku Nomor 10": [
+    "Buku Nomor 10": 
+    [
         {
             "Judul": "Perbandingan Kekuasaan Presiden Indonesia: Setelah Perubahan UUD 1945 Dengan Delapan Negara Maju",
             "Pengarang": "Abdul Ghoffar",
