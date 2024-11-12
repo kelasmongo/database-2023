@@ -1,0 +1,72 @@
+{
+    "Buku 1": {
+        "Judul": "Negeri Para Bedebah",
+        "Pengarang": "Tere Liye",
+        "Jumlah Halaman": "433",
+        "ISBN": "9786238829620",
+        "Penerbit": "Penerbit Sabak Grip"
+    },
+    "Buku 2": {
+        "Judul": "Teruslah Bodoh Jangan Pintar",
+        "Pengarang": "Tere Liye",
+        "Jumlah Halaman": "371",
+        "ISBN": "9786238882205",
+        "Penerbit": "Penerbit Sabak Grip"
+    },
+    "Buku 3": {
+        "Judul": "Negeri di Ujung Tanjuk",
+        "Pengarang": "Tere Liye",
+        "Jumlah Halaman": "359",
+        "ISBN": "9786238829637",
+        "Penerbit": "Penerbit Sabak Grip"
+    },
+    "Buku 4": {
+        "Judul": "Pergi",
+        "Pengarang": "Tere Liye",
+        "JumlaH Halaman": "459",
+        "ISBN": "9786239554514",
+        "Penerbit": "Gramedia Pustaka Utama"
+    },
+    "Buku 5": {
+        "Judul": "Koala Kumal",
+        "Pengarang": "Raditya Dika",
+        "Jumlah Halaman": "180",
+        "ISBN": "9789797808990",
+        "Penerbit": "Kawah Media"
+    },
+    "Buku 6": {
+        "Judul": "Matahari",
+        "Pengarang": "Tere Liye",
+        "Jumlah Halaman": "400",
+        "ISBN": "9786020332116",
+        "Penerbit": "PENERBIT SABAK GRIP"
+    },
+    "Buku 7": {
+        "Judul": "Dan Janda Itu Ibuku",
+        "Pengarang": "Kang Maman",
+        "Jumlah Halaman": "248",
+        "ISBN": "9786020531199",
+        "Penerbit": "Gramedia Widiasarana Indonesia"
+    },
+    "Buku 8": {
+        "Judul": "Mangir",
+        "Pengarang": "Pramoedya Ananta Toer",
+        "Jumlah Halaman": "142",
+        "ISBN": "9786026208804",
+        "Penerbit": "Kepustakaan Populer Gramedia"
+    },
+    "Buku 9": {
+        "Judul": "Kafka On The Shore",
+        "Pengarang": "Haruki Murakami",
+        "Jumalah Halaman": "570",
+        "ISBN": "9780099494096",
+        "Penerbit": "Penguin Uk"
+    },
+    "Buku 10": {
+        "Judul": "Norwegian Wood",
+        "Pengarang": "Haruki Murakami",
+        "Jumlah Halaman": "389",
+        "ISBN": "9780099584353",
+        "Penerbit": "Penguin Uk"
+    }
+}
