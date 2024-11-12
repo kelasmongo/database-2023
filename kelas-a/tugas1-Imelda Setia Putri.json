@@ -8,8 +8,7 @@
        "Year": 2015,
        "Isbn": "978-602-7870-41-3",
        "Pages": 330,
-       "Genre": "Fiksi",
-       "Available_In_FAH_Library": true
+       "Fiksi": true
    },
     "Books_2" : {
         "Title": "Dikta & Hukum",
@@ -19,8 +18,7 @@
         "Year": 2021,
         "Isbn": "978-623-310-013-7",
         "Pages": 388,
-        "Genre": "Fiksi",
-        "Available_In_FAH_Library": false
+       "Fiksi": true
     },
      "Books_3": {
         "Title": "Rumah Kaca",
@@ -30,8 +28,7 @@
         "Year": 1988,
         "Isbn": "979-97312-6-7",
         "Pages": 646,
-        "Genre": "Fiksi",
-        "Available_In_FAH_Library": true
+        "Fiksi": true
     },
      "Books_4": {
         "Title": "Rindu",
@@ -41,8 +38,7 @@
         "Year": 2014,
         "Isbn": "978-602-8997-90-4",
         "Pages": 544,
-        "Genre": "Fiksi",
-        "Available_In_FAH_Library": true
+        "Fiksi": true
     },
      "Books_5": {
         "Title": "Kata",
@@ -52,8 +48,7 @@
         "Year": 2018,
         "Isbn": "978-979-780-932-4",
         "Pages": 389,
-        "Genre": "Fiksi",
-        "Available_In_FAH_Library": false
+        "Fiksi": true
     },
      "Books_6": {
         "Title": "Malam terakhir",
@@ -63,8 +58,7 @@
         "Year": 2017,
         "Isbn": "978-602-424-132-2",
         "Pages": 117,
-        "Genre": "Fiksi",
-        "Available_In_FAH_Library": false
+        "Fiksi": true
     },
      "Books_7": {
         "Title": "After School Horror",
@@ -74,8 +68,7 @@
         "Year": 2013,
         "Isbn": "602-220-102-0",
         "Pages": 164,
-        "Genre": "Fiksi",
-        "Available_In_FAH_Library": true
+        "Fiksi": true
     },
      "Books_8": {
         "Title": "Dear Nathan",
@@ -85,8 +78,7 @@
         "Year": 2016,
         "Isbn": "978-602-6940-14-8",
         "Pages": 528,
-        "Genre": "Fiksi",
-        "Available_In_FAH_Library": true
+        "Fiksi": true
     },
      "Books_9": {
         "Title": "Malam Tanpa Akhir",
@@ -96,19 +88,17 @@
         "Year": 2012,
         "Isbn": "978-979-22-8262-7",
         "Pages": 301,
-        "Genre": "Fiksi",
-        "Available_In_FAH_Library": true
+        "Fiksi": true
     },
      "Books_10": {
-        "Title": "Funiculi Funicula",
-        "Subtitle": "Before the Coffe Gets Cold",
-        "Author": "Tozhikazu Kawaguchi",
-        "Publisher": "Gramedia Pustaka Utama",
-        "Place": "Jakarta",
-        "Year": 2021,
-        "Isbn": "978-602-0651-92-7",
-        "Pages": 223,
-        "Genre": "Fiksi",
-        "Available_In_FAH_Library": false
+        "Title": "Mohammad Hatta",
+        "Subtitle": "Biografi Singkat 1902-1980",
+        "Author": "Salman Alfarizi",
+        "Publisher": "Garasi",
+        "Place": "Yogyakarta",
+        "Year": 2009,
+        "Isbn": "978-623-7219-63-7",
+        "Pages": 242,
+        "Fiksi": false
     }
  }
