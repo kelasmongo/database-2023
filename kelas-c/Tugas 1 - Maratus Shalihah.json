@@ -1,0 +1,82 @@
+{
+    "Buku_1": {
+        "Judul": "Laut Bercerita",
+        "Penulis": "Leila S. Chudori",
+        "Penerbit": "Kepustakaan Populer Gramedia",
+        "Tahun Terbit": 2021,
+        "Tempat Terbit": "Jakarta",
+        "Identifikasi": "9786024246945"
+    }, 
+    "Buku_2": {
+        "Judul": "Angin Dari Tebing 2",
+        "Penulis": "Clara NG",
+        "Penerbit": "Gramedia Pustaka Utama",
+        "Tahun Terbit": 2020,
+        "Tempat Terbit": "Jakarta",
+        "Identifikasi": "SCOOPG193831"
+    },
+    "Buku_3": {
+        "Judul": "Timun Jelita",
+        "Penulis": "Raditya Dika",
+        "Penerbit": "Gagas Media",
+        "Tahun Terbit": 2024,
+        "Tempat Terbit": "Jakarta",
+        "Identifikasi": "9786234933031"
+    },
+    "Buku_4": {
+        "Judul": "Buku Anak Harry Potter Dan Batu Bertuah",
+        "Penulis": "J.K. Rowling",
+        "Penerbit": "Gramedia Pustaka Utama",
+        "Tahun Terbit": 2017,
+        "Tempat Terbit": "Jakarta",
+        "Identifikasi": "9786020337647"    
+    },
+    "Buku_5": {
+       "Judul": "Berandal Bandung",
+        "Penulis": "I. A. A. Djiiwaraga",
+        "Penerbit": "Sinar Angsa",
+        "Tahun Terbit": 2024,
+        "Tempat Terbit": "Jakarta",
+        "Identifikasi": "PO-BRANDAL"    
+    },
+    "Buku_6": {
+        "Judul": "Arunika",
+        "Penulis": "Hasna Angguta",
+        "Penerbit": "Coconut Books",
+        "Tahun Terbit": 2024,
+        "Tempat Terbit": "Jakarta",
+        "Identifikasi": "9786231023858" 
+    },
+    "Buku_7": {
+       "Judul": "Novel Di Tanah Lada",
+        "Penulis": "Ziggyzesyazeoviennazabrizkie",
+        "Penerbit": "Gramedia Pustaka Utama",
+        "Tahun Terbit": 2021,
+        "Tempat Terbit": "Jakarta",
+        "Identifikasi": "9786020318967"
+    },
+    "Buku_8": {
+       "Judul": "Mariposa",
+        "Penulis": "Luluk HF",
+        "Penerbit": "Coconut Books",
+        "Tahun Terbit": 2020,
+        "Tempat Terbit": "Jakarta",
+        "Identifikasi": "9786025508615"
+    },
+    "Buku_9": {
+        "Judul": "Dilan: Dia adalah Dilanku Tahun 1990",
+        "Penulis": "Pidi Baiq",
+        "Penerbit": "Mizan Publishing",
+        "Tahun Terbit": 2015,
+        "Tempat Terbit": "Jakarta",
+        "Identifikasi": "9786027870864"
+    }, 
+    "Buku_10": {
+        "Judul": "Geez & Ann #1",
+        "Penulis": "Rintik Sedu",
+        "Penerbit": "Kawah Media",
+        "Tahun Terbit": 2020,
+        "Tempat Terbit": "Jakarta",
+        "Identifikasi": "9789797809638" 	
+    }
+}
