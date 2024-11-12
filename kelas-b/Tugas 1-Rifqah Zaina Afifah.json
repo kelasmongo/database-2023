@@ -1,0 +1,93 @@
+{
+	"books_1" : {
+		"title": "Negeri Di Ujung Tanduk",
+		"author" : "Tere Liye",
+		"publication year" : 2013,
+		"publisher" : "Tere Liye",
+		"isbn" : "978-979-229-429-3",
+		"genre" : "Fiksi",
+		"abstract" : "Kisah seorang pengacara yang terlibat dalam dunia politik dan kekuasaan di Indonesia yang berjuang melawan korupsi dan ketidakadlian."
+	},
+	"books_2" : {
+		"title" : "Laskar Pelangi",
+		"author": "Andrea Hirata",
+		"publication year" : 2005,
+		"publisher" : "Bentang Pustaka",
+		"isbn" : "978-979-306-279-9",
+		"genre" : "Fiksi inspirasi",
+		"abstract" : "Kisah perjuangan anak-anak di Belitung dalam meraih sebuah mimpi dan pendidikan di tengah keterbatasan."
+	},
+	"books_3" : {
+
+		"title": "The Hijan Girls",
+		"author" : "Najmah Alya Irawan",
+		"publication year" : 2016,
+		"publisher" : "DAR!Mizan",
+		"isbn" : "978-602-242-903-6",
+		"genre" : "Fiksi",
+		"abstract" : "Kiah persahabatan tujuh orang wanita bernama The Hijab Girls yang diadudomba oleh geng Felfet yang tidak suka dengan geng tersebut."
+	},
+	"books_4" : {
+		"title": "Bumi Manusia",
+		"author" : "Pramoedya Ananta Toer",
+		"publication year" : 2015,
+		"publisher" : "Lentera Dipantara",
+		"isbn" : "978-979-973-123-4",
+		"genre" : "Sejarah dan fiksi",
+		"abstract" : "Kisah kehidupan Minke dan perlawanan terhadap ketidakadilan kolonial Belanda di Indonesia."
+	},
+	"books_5" : {
+		"title": "Bidadari Bumi",
+		"author" : "Halimah Alaydrus",
+		"publication year" : 2024,
+		"publisher" : "Wafa Production",
+		"isbn" : "978-602-951-220-5",
+		"genre" : "Fiksi inspiratif",
+		"abstract" : "Kisah wanita mulia yang patut dijadikan teladan dalam kehidupan, terutama untuk wanita muslimah yang saat ini sedang mengalami krisis keteladanan."
+	},
+	"books_6" : {
+		"title": "Sang Pemimpi",
+		"author" : "Andrea Hirata",
+		"publication year" : 2020,
+		"publisher" : "Bentang Pustaka",
+		"isbn" : "978-602-291-663-5",
+		"genre" : "Fiksi inspiratif",
+		"abstract" : "Lanjutan dari buku laskar pelangi yang menceritakan tentang mimpi dan perjalanan hidup Ikal serta sahabatnya."
+	},
+	"books_7" : {
+		"title": "Hijrah Jejak-Jejak Arafah",
+		"author" : "Gita Farhah",
+		"publication year" : 2019,
+		"publisher" : "Milenia",
+		"isbn" : "978-602-6188-58-8",
+		"genre" : "Fiksi inspiratif",
+		"abstract" : "Kisah seseorang yang sedang patah arah dan sedang berkelu kesah dengan keadaan yang sedang dialaminya."
+	},
+	"books_8" : {
+		"title": "Negeri 5 Menara",
+		"author" : "Ahmad Fuadi",
+		"publication year" : 2012,
+		"publisher" : "Gramedia Pustaka Utama",
+		"isbn" : "978-979-228-142-2",
+		"genre" : "Fiksi inspiratif",
+		"abstract" : "Kisah inspiratifenam santri di pesantren yang meraih impian besar mereka."
+	},
+	"books_9" : {
+		"title": "Bekal Ajaib",
+		"author" : "Lubna Yasyifa Arifullah",
+		"publication year" : 2014,
+		"publisher" : "DAR!Mizan",
+		"isbn" : "978-602-242-405-5",
+		"genre" : "Fiksi",
+		"abstract" : "Kisah seseorang yang mencoba memakan bekal temannya namun terjadi hal aneh yang memubuat dia tidak bisa mengeluarkan suaranya."
+	},
+	"books_10" : {
+		"title": "Pulang",
+		"author" : "Tere Liye",
+		"publication year" : 2021,
+		"publisher" : "Saba Grip Nusantara",
+		"isbn" : "978-623-955-450-7",
+		"genre" : "Sejarah dan fiksi",
+		"abstract" : "Kisah perjalanan pulang melalui pertarungan demi pertarungan untuk memeluk erat semua kebencian dan rasa sakit yakni menjemput kedamaian."
+	}
+}
