@@ -1,0 +1,161 @@
+{
+    "Koleksi 01":
+    [
+        {
+            "Judul": "Sebat",
+            "Pengarang": "Man Liong",
+            "Edisi": "Cetakan ke 1",
+            "Tempat_terbit": "Sleman",
+            "Nama_penerbit": "Deepublish",
+            "Tahun_terbit": 2020,
+            "Halaman": 277,
+            "Seri": "",
+            "ISBN": 9786230214462,
+            "Bahasa": "Indonesia"
+        }
+    ],
+
+    "Koleksi_02":
+    [
+        {
+            "Judul": "Sabar Tanpa Batas",
+            "Pengarang": "Adhitya Mulya",
+            "Edisi": "Cetakan ke 1",
+            "Tempat_terbit": "Jagakarsa",
+            "Nama_penerbit": "GagasMedia",
+            "Tahun_terbit": 2023,
+            "Halaman": 264,
+             "Seri": "",
+            "ISBN": 9786234930245,
+            "Bahasa": "Indonesia"
+        }
+    ],
+
+    "Koleksi_03":
+    [
+        {
+            "Judul": "Gadis Penanti Kematian",
+            "Pengarang": "Audinda Sari",
+            "Edisi": "Cetakan ke 1",
+            "Tempat_terbit": "Kepanjen",
+            "Nama_penerbit": "AE Publishing",
+            "Tahun_terbit": 2021,
+            "Halaman": 193,
+            "Seri": "",
+            "ISBN": 9786233064293,
+            "Bahasa": "Indonesia"
+        }
+    ],
+
+    "Koleksi_04":
+    [
+        {
+        "Judul": "Pohon Sidrah",
+        "Pengarang": "Kuswaidi Syafi'ie",
+        "Edisi": "Cetakan ke 1",
+        "Tempat_terbit": "Yogyakarta",
+        "Nama_penerbit": "DIVA Press",
+        "Tahun_terbit": 2018,
+        "Halaman": 124,
+        "Seri": "",
+        "ISBN": 9786023916283,
+        "Bahasa": "Indonesia"
+        }
+    ],
+
+    "Koleksi_05":
+    [
+        {
+            "Judul": "Benang Merah Prosa",
+            "Pengarang": "Budi Riswandi",
+            "Edisi": "Cetakan ke 2",
+            "Tempat_terbit": "Tasikmalaya",
+            "Nama_penerbit": "Langgam Pustaka",
+            "Tahun_terbit": 2022,
+            "Halaman": 190,
+            "Seri": "",
+            "ISBN": 9786237461982,
+            "Bahasa": "Indonesia"
+        }
+    ],
+
+    "Koleksi_06":
+    [
+        {
+            "Judul": "Hot Seat",
+            "Pengarang": "Nabilla Anasty",
+            "Edisi": "Cetakan ke 1",
+            "Tempat_terbit": "Bandung",
+            "Nama_penerbit": "DAR! Mizan",
+            "Tahun_terbit": 2016,
+            "Halaman": 181,
+            "Seri": "Seri Fantasteen",
+            "ISBN": 9786024200886,
+            "Bahasa": "Indonesia"
+        }
+    ],
+
+    "Koleksi_07":
+    [
+        {
+            "Judul": "Balada Kafe Lara = The Ballad of the Sad Cafe",
+            "Pengarang": "Carson McCullers ; penerjemah, Laura Harsono",
+            "Edisi": "Cetakan ke 1",
+            "Tempat_terbit": "Yogyakarta",
+            "Nama_penerbit": "Noktah",
+            "Tahun_terbit": 2021,
+            "Halaman": 148,
+            "Seri": "Seri Terjemahan",
+            "ISBN": 9786236175200,
+            "Bahasa": "Indonesia"
+        }
+    ],
+
+    "Koleksi_08":
+    [
+        {
+            "Judul": "Balada Gathak Guthuk : Lorong Waktu Centhini",
+            "Pengarang": "Sujiwo Tejo",
+            "Edisi": "Cetakan ke 1",
+            "Tempat_terbit": "Yogyakarta",
+            "Nama_penerbit": "Bentang",
+            "Tahun_terbit": 2016,
+            "Halaman": 272,
+            "Seri": "",
+            "ISBN": 9786022911630,
+            "Bahasa": "Indonesia"
+        }
+    ],
+
+    "Koleksi_09":
+    [
+        {
+            "Judul": "Filosofi Kakus",
+            "Pengarang": "Dionisius Riandika",
+            "Edisi": "Cetakan ke 1",
+            "Tempat_terbit": "Sukabumi",
+            "Nama_penerbit": "CV Jejak, Anggota IKAPI",
+            "Tahun_terbit": 2023,
+            "Halaman": 173,
+            "Seri": "",
+            "ISBN": 9786234984033,
+            "Bahasa": "Indonesia"
+        }
+    ],
+
+    "Koleksi_10":
+    [
+        {
+            "Judul": " Mei Merah 1998 : Kala Arwah Berkisah",
+            "Pengarang": "Naning Pranoto",
+            "Edisi": "Cetakan ke 1",
+            "Tempat_terbit": "Jakarta",
+            "Nama_penerbit": "Yayasan Pustaka Obor Indonesia",
+            "Tahun_terbit": 2018,
+            "Halaman": 222,
+            "Seri": "",
+            "ISBN": 9786024337216,
+            "Bahasa": "Indonesia"
+        }
+    ]
+}
