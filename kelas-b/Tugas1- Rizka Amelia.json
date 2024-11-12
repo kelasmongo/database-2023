@@ -1,0 +1,101 @@
+{
+	"Buku_1": [
+		{
+			"Judul": "Laut Bercerita",
+			"Pengarang": "Leila S. Chudori",
+			"Penerbit": "Kepustakaan Populer Gramedia",
+			"Tempat Terbit": "Jakarta",
+			"Tahun Terbit": "2017",
+			"ISBN": "978-602-424-694-5"
+		}
+	], 
+	"Buku_2": [
+		{
+			"Judul": "Laskar Pelangi",
+			"Pengarang": "Andrea Hirata", 
+			"Penerbit": "Bentang Pustaka",
+			"Tempat Terbit": "Yogyakarta",
+			"Tahun Terbit": "2005",
+			"ISBN": "(979-3062-79-7"
+		}
+	],
+	"Buku_3": [
+		{
+			"Judul": "Negeri 5 Menara",
+			"Pengarang": "Ahmad Fuadi",
+			"Penerbit": " Gramedia Pustaka Utama",
+			"Tempat Terbit": "Jakarta",
+			"Tahun Terbit": "2009",
+			"ISBN": "978-979-22-8004-3"
+		}
+	],
+	"Buku_4": [
+		{
+			"Judul": "Dilan: Dia adalah Dilanku tahun 1990",
+			"Pengarang": "Pidi baiq",
+			"Penerbit": "Pastel Books",
+			"Tempat Terbit": "Bandung",
+			"Tahun Terbit": "2017",
+			"ISBN": "978-602-7870-86-4"
+		}
+	], 
+	"Buku_5": [
+		{
+			"judul": "Sang Pelindung",
+			"Pengarang": "McKenna Lindsay",
+			"Penerbit": "Gramedia",
+			"Tempat Terbit": "Jakarta",
+			"Tahun Terbit": "2015",
+			"ISBN": "978-602-03-1656-7"
+		}
+	],
+	"Buku_6": [
+		{
+			"Judul": "Matahari Menjelajah Ruang Angkasa",
+			"Pengarang": "Poulette Bourgeois",
+			"Penerbit": "Elek Media Komputindo",
+			"Tempat Terbit": " Jakarta", 
+			"Tahun Terbit": "2002", 
+			"ISBN": "979-20-3347-5"
+		}
+	],
+	"Buku_7": [
+		{
+			"Judul": "Ketahanan Nasional",
+			"Pengarang": "Perpustakaan nasional",
+			"Penerbit": "Perpustakaan Nasional RI",
+			"Tempat Terbit": "jakarta",
+			"Tahun Terbit": "1983"
+		}
+	], 
+	"Buku_8": [
+		{
+			"Judul": "Kecil-Kecil Punya Karya Juara Sejati",
+			"Pengarang": "Silmi Sabila",
+			"Penerbit": " PT Mizan Pustaka",
+			"Tempat Terbit": "Bandung",
+			"Tahun Terbit": "2011",
+			"ISBN": "978-602-9329-02-5"
+		}
+	],
+	"Buku_9": [
+		{
+			"Judul": "Supernova Kesatria Putri",
+			"Pengarang": "Dee Lestari",
+			"Penerbit": "Bentang",
+			"Tempat Terbit": "Yogyakarta",
+			"Tahun Terbit": "2014",
+			"ISBN": "978-602-291-052-7"
+		}
+	],
+	"Buku_10": [
+		{
+			"Judul": "Miauw...Miauw...Seri Hewan Peliharaan",
+			"Pengarang": "Aan wulandari",
+			"Penerbit": "Erlangga",
+			"Tempat Terbit": "Jakarta",
+			"Tahun Terbit": "2010",
+			"ISBN": "978-979-075-705-9"
+		}
+	]		
+}
