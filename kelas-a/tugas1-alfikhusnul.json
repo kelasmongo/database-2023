@@ -1,0 +1,109 @@
+{
+    "informasi buku":[
+        {
+            "Nomor buku": 1, 
+            "Judul utama": "The Little Guide to Un-Procrastination",
+            "Judul seri": "Greatest Self-Improvement Book Series",
+            "Judul tambahan": "Panduan Singkat tentang Cara Menyegerakan Pekerjaan",
+            "Penulis": "Leo Babauta",
+            "Penerbit": "Bright Publisher",
+            "Tahun terbit": 2021,
+            "Halaman": 94, 
+            "Bahasa": "Indonesia",
+            "ISBN": "978-623-7778-23-3"
+        },
+        {
+            "Nomor buku": 2,
+            "Judul utama": "Pedoman RDA",
+            "Judul tambahan": "Resource Description and Access",
+            "Penulis": "Perpustakaan Nasional RI",
+            "Penerbit": "Perpustakaan Nasional RI",
+            "Tahun terbit": 2019,
+            "Halaman": 88,
+            "Bahasa": "Indonesia",
+            "ISBN": "978-979-008-851-1"
+        },
+        {
+            "Nomor buku": 3,
+            "Judul utama": "Renungan Mistik Jalal Ad-Din Rumi",
+            "Penulis": "R. Mulyadhi Kartanegara",
+            "Penerbit": "Pustaka Jaya",
+            "Tahun terbit": 1986,
+            "Halaman": 102,
+            "Bahasa": "Indonesia",
+            "ISBN": "979-419-022-5"
+        },
+        {
+            "Nomor buku": 4,
+            "Judul utama": "Belajar Lucu dengan Serius",
+            "Penulis": "Hasta Indriyana",
+            "Penerbit": "PT. Gramedia Pustaka Utama",
+            "Tahun terbit": 2017,
+            "Halaman": 96,
+            "Bahasa": "Indonesia",
+            "ISBN": "978-602-03-7596-0"
+        },
+        {
+            "Nomor buku": 5, 
+            "Judul utama": "Undang-Undang Republik Indonesia Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional",
+            "Penulis": "Departemen Pendidikan Nasional Republik Indonesia",
+            "Penerbit": "Departemen Pendidikan Nasional Republik Indonesia",
+            "Tahun terbit": 2003,
+            "Halaman": 72,
+            "Bahasa": "Indonesia"
+        },
+        {
+            "Nomor buku": 6,
+            "Judul utama": "Ilmu Budaya Dasar",
+            "Judul tambahan": "Untuk Mahasiswa Perguruan Tinggi Mata Kuliah Dasar Umum (MKDU)",
+            "Penulis": "Drs. Djoko Widagdho, dkk",
+            "Penerbit": "Bumi Aksara",
+            "Tahun terbit": 2012,
+            "Halaman": 252,
+            "Bahasa": "Indonesia",
+            "ISBN": "979-526-048-0"
+        },
+        {
+            "Nomor buku": 7,
+            "Judul utama": "Mencari Simetri",
+            "Judul seri": "Metropop",
+            "Penulis": "Annisa Ihsani",
+            "Penerbit": "Gramedia Pustaka Utama",
+            "Tahun terbit": 2019,
+            "Halaman": 240,
+            "Bahasa": "Indonesia",
+            "ISBN": "978-602-062-936-0"
+        },
+        {
+            "Nomor buku": 8,
+            "Judul utama": "La Hami",
+            "Penulis": "Marah Rusli",
+            "Penerbit": "Balai Pustaka",
+            "Tahun terbit": 2022,
+            "Halaman": 286,
+            "Bahasa": "Indonesia",
+            "ISBN": "979-407-286-9"
+        },
+        {
+            "Nomor buku": 9,
+            "Judul utama": "Jika Kita Tak Pernah Jadi Apa-Apa",
+            "Penulis": "Alvi Syahrin",
+            "Penerbit": "Gagas Media",
+            "Tahun terbit": 2021,
+            "Halaman": 248,
+            "Bahasa": "Indonesia",
+            "ISBN": "978-979-780-948-5"
+        },
+        {
+            "Nomor buku": 10,
+            "Judul utama": "Lima Cerita",
+            "Judul tambahan": "Kisah-Kisah Menjadi Dewasa",
+            "Penulis": "Desi Anwar",
+            "Penerbit": "PT Gramedia Pustaka Utama",
+            "Tahun terbit": 2019,
+            "Halaman": 315,
+            "Bahasa": "Indonesia",
+            "ISBN": "978-602-06-1367-3"
+        }
+    ]
+}
