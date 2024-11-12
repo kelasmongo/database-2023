@@ -1,0 +1,111 @@
+{
+    "buku 1" :
+    [
+        {
+            "judul" : "Atomic Habbits: Perubahan Kecil yang Memberikan Hasil Yang Luar Biasa",
+            "pengarang" : "James Clear",
+            "penerbit" : "Gramedia Pustaka Utama",
+            "tahun terbit" : "2021",
+            "tempat terbit" : "Jakarta"
+        }
+    ],
+
+    "buku 2" :
+    [
+        {
+            "judul" : "Menjadi Pribadi Tahan Banting",
+            "pengarang" : "Haidar Musyafa",
+            "penerbit" : "Syalmahat Publishing",
+            "tahun terbit" : "2021",
+            "tempat terbit" : "Semarang"
+        }
+    ],
+    
+    "buku 3" :
+    [
+        {
+            "judul" : "Menjadi Pribadi yang Berpengaruh",
+            "pengarang" : "Yusuf Al-Uqshari",
+            "penerbit" : "Gema Insani",
+            "tahun terbit" : "2005",
+            "tempat terbit" : "Jakarta"
+        }
+    ],
+
+    "buku 4" :
+    [
+        {
+            "judul" :  "Berpikir Positif dan Berjiwa Besar",
+            "pengarang" : "Yopi Jalu Paksi",
+            "penerbit" : "Cakrawala",
+            "tahun terbit" : "2016",
+            "tempat terbit" : "Yogyakarta"
+        }
+    ],
+
+    "buku 5" :
+    [
+        {
+            "judul" : "Mengenal Pribadi Agung Nabi Muhammad",
+            "pengarang" : "Imam At-Tirmidzi",
+            "penerbit" : "Aqwam",
+            "tahun terbit" : "2016",
+            "tempat terbit" : "Solo"
+        }
+    ],
+
+    "buku 6" :
+    [
+        {
+            "judul" : "Belajar Memahami Keuangan Pribadi Sejak Dini",
+            "pengarang" : "Elvy Maria Manurung",
+            "penerbit" : "Erlangga",
+            "tahun terbit" : "2022",
+            "tempat terbit" : "Jakarta"
+        }
+    ],
+
+    "buku 7" :
+    [
+        {
+            "judul" : "Tetaplah Kuat Apapun yang Terjadi",
+            "pengarang" : "Riza Noviana",
+            "penerbit" : "Araska",
+            "tahun terbit" : "2023",
+            "tempat terbit" : "Jakarta"
+        }
+    ],
+
+    "buku 8" :
+    [
+        {
+            "judul" : "Zero to Hero",
+            "pengarang" : "Solikhin Abu Izzudin",
+            "penerbit" : "Pro-U Media",
+            "tahun terbit" : "2006",
+            "tempat terbit" : "yogyakarta"
+        }
+    ],
+
+    "buku 9" :
+    [
+        {
+            "judul" : "Obat Minder",
+            "pengarang" : "Alam Bachtiar",
+            "penerbit" : "Araska",
+            "tahun terbit" : "2020",
+            "tempat terbit" : "Jakarta"
+        }
+    ],
+
+    "buku 10" :
+    [
+        {
+            "judul" : "Percaya Diri Harga Mati",
+            "pengarang" : "Denieda Fanun",
+            "penerbit" : "Araska",
+            "tahun terbit" : "2019",
+            "tempat terbit" : "yogyakarta"
+        }
+    ]
+}
