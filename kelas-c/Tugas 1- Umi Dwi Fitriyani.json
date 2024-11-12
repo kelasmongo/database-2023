@@ -1,104 +1,114 @@
 
 {
-	"bibliografi1" : {
-		"Judul" : "paruk kankenr",
-		"Pernyataan Tanggung Jawab" : "Jacob Julian",
-		"Tempat Terbit" : "Jakarta",
-		"Nama Penerbit" : "Moka Media",
-		"Tahun Terbit" : "2014",
-		"Identifikasi Manifestasi" : "979-795-814-0",
-		"Deskripsi Fisik" : "iv, 296 halaman ; 19cm"
-	},
-	"bibliografi2" : {
-		"Judul" : "kanji bau",
-		"Judul Tambahan" : "Panitia Hari Akhir",
-		"Pernyataan Tanggung Jawab" : "Faza Meonk",
-		"Nama Penerbit" : "Falcon Publishing",
-		"Tempat Terbit" : "Jakarta",
-		"Tahun Terbit" : "2018",
-		"Identifikasi Manifestasi" : "978-602-6714-09-1",
-		"Deskripsi Fisik" : "iv, 198 halaman ; 21cm"
-	},
-	"bibliografi3" : {
-		"Judul" : "jalpa kanker prostat",
-		"Judul Tambahan" : "Kisah Kusut Dunia Dongeng",
-		"Pernyataan Tanggung Jawab" : "Faza Meonk",
-		"Tempat Terbit" : "Jakarta",
-		"Nama Penerbit" : "Elex Media Komputindo",
-		"Tahun Terbit" : "2016",
-		"Identifikasi Manifestasi" : "978-602-02-9221-2",
-		"Deskripsi Fisik" : "120 halaman ; 20cm"
-	},
-	"bibliografi4" : {
-		"Judul" : "Diary of a Wimpy Kid",
-		"Judul Tambahan" : "Cabin Fever",
-		"Pernyataan Tanggung Jawab" : "Jeff Kinney",
-		"Tempat Terbit" : "London",
-		"Nama Penerbit" : "Penguin Group",
-		"Tahun Terbit" : "2011",
-		"Identifikasi Manifestasi" : "978-0-141-34188-0",
-		"Deskripsi Fisik" : "v, 217 halaman ; 21cm",
-		"Bahasa" : "Inggris"
-	},
-	"bibliografi5" : {
-		"Judul" : "Danke, Deutschland!",
-		"Judul Tambahan" : "Catatan Perjalanan Keluarga Perantau Muslim Indonesia di Jerman",
-		"Pernyataan Tanggung Jawab" : "Tieneke Ayuningrum",
-		"Tempat Terbit" : "Jakarta",
-		"Nama Penerbit" : "Salsabila",
-		"Tahun Terbit" : "2015",
-		"Identifikasi Manifestasi" : "978-602-1695-22-7",
-		"Deskripsi Fisik" : "xvi, 276 halaman ; 21cm"
-	},
-	"bibliografi6" : {
-		"Judul" : "Pembunuhan ABC",
-		"Pernyataan Tanggung Jawab" : "Agatha Christie ; penerjemah Luci Dokubani",
-		"Tempat Terbit" : "Jakarta",
-		"Nama Penerbit" : "Penerbit Gramedia",
-		"Tahun Terbit" : "1988",
-		"Deskripsi Fisik" : "344 halaman ; 18cm"
-	},
-	"bibliografi7" : {
-		"Judul" : "Kontroversi Ganjar",
-		"Pernyataan Tanggung Jawab" : "Isdianto, Budiono Isman, dan Solikun ",
-		"Tempat Terbit" : "Jakarta",
-		"Nama Penerbit" : "Kompas Media Nusantara",
-		"Tahun Terbit" : "2016",
-		"Identifikasi Manifestasi" : "978-602-412-080-1",
-		"Deskripsi Fisik" : "xviii, 326 halaman ; 23cm"
-	},
-	"bibliografi8" : {
-		"Judul" : "Sejarah Dunia Yang Disembunyikan",
-		"Pernyataan Tanggung Jawab" : "Jonthan Black ; penerjemah Isma B. Soekato dan Adi Toha",
-		"Tempat Terbit" : "Jakarta",
-		"Nama Penerbit" : "Pustaka Alvabet",
-		"Tahun Terbit" : "2018",
-		"Identifikasi Manifestasi" : "978-602-9193-67-1",
-		"Deskripsi Fisik" : "x, 626 halaman : ilustrasi ; 24cm"
-	},
-	"bibliografi9" : {
-		"Judul" : "The Kudryavka Sequence",
-		"Pernyataan Tanggung Jawab": "Yonezawa Honobu ; penerjemah Andry Setiawan",
-		"Tempat Terbit" : "Jakarta",
-		"Nama Penerbit" : "Haru Media",
-		"Tahun Terbit" : "2019",
-		"Identifikasi Manifestasi" : "978-602-52972-2-9",
-		"Deskripsi Fisik" : "392 halaman ; 19cm"
-	},
-	"bibliografi10" : {
-		"Judul" : "Bahasa Indonesia",
-		"Judul Tambahan" : "Ekspresi Diri dan Akademik",
-		"Pernyataan Tanggung Jawab" : "Kementrian Pendidikan dan Kebudayaan",
-		"Tempat Terbit" : "Jakarta",
-		"Nama Penerbit" : "Kementrian Pendidikan dan Kebudayaan",
-		"Tahun Terbit" : "2014",
-		"Identifikasi Manifestasi" : "978-602-282-487-9",
-		"Deskripsi Fisik" : "xiv, 222 halaman ; 25cm"
-	}
-}
-	
-		
-		
-		
-		
+    
+    "Si Juki Seri Keroyokan" :
+    [
+        {
+            "Pengaranng" : "Faza Meonk",
+            "Penerbit" : "Bukune",
+            "Tahun Terbit" : "2016",
+            "Tempat Terbit" : "Jakarta", 
+            "ISBN" : "978-602-220-195-3"
+        }
+    ],
 
+
+    "Si Juki Seri Jalan Jalan: Petualanga Di Korea" :
+    [
+        {
+            "Pengaranng" : "Faza Meonk",
+            "Penerbit" : "Bukune",
+            "Tahun Terbit" : "2017",
+            "Tempat Terbit" : "Jakarta", 
+            "ISBN" : "978-602-04-4123_-8-"
+        }
+    ],
+
+    "Teman Tapi Menikah" : 
+    [
+        {
+           "Pengaranng" : "Ayudia Bing Slamet,Ditto Percussion",
+            "Penerbit" : "PT Elex Media Komputindo",
+            "Tahun Terbit" : "2016",
+            "Tempat Terbit" : "Jakarta", 
+            "ISBN" : "978-602-02-9050-8"
+        }
+    ],
+
+    "Dilan: Dia Adalah DIlanku Tahun 1990" :
+    [
+        {
+            "Pengaranng" : "Pidi Baiq",
+            "Penerbit" : "Pastel Books",
+            "Tahun Terbit" : "2014",
+            "Tempat Terbit" : "Bandung", 
+            "ISBN" : "978-602-7870-41-3"
+        }
+    ],
+
+    "99 Pesan Nabi" :
+    [
+        {
+            "Pengaranng" : "vbi_djenggotten",
+            "Penerbit" : "Zahira",
+            "Tahun Terbit" : "2014",
+            "Tempat Terbit" : "Jakarta", 
+            "ISBN" : "978-602-1139-24-0"
+        }
+    ],
+
+    "Dilan Bagian Kedua: Dia Adalah Dilanku Tahun 1991" :
+    [
+        {
+            "Pengaranng" : "Pidi Baiq",
+            "Penerbit" : "Pastel Books",
+            "Tahun Terbit" : "2014",
+            "Tempat Terbit" : "Bandung", 
+            "ISBN" : "978-602-7870-99-04"
+        }
+    ],
+
+    "Si Juki Cari Kerja" :
+    [
+        {
+            "Pengaranng" : "Faza Meonk",
+            "Penerbit" : "Bukune",
+            "Tahun Terbit" : "2016",
+            "Tempat Terbit" : "Jakarta", 
+            "ISBN" : "602-220-096-2"
+        }
+    ],
+
+    "R: Raja, Ratu, dam Rahasia" :
+    [
+        {
+            "Pengaranng" : "Wulanfadi",
+            "Penerbit" : "Best Media",
+            "Tahun Terbit" : "2016",
+            "Tempat Terbit" : "Depok", 
+            "ISBN" : "978-602-6940-26-1"
+        }
+    ],
+
+    "SMS Ucapan Selamat Paling Spesial" :
+    [
+        {
+            "Pengaranng" : "Reymontha Mesha",
+            "Penerbit" : "Wahana Totalita",
+            "Tahun Terbit" : "2009",
+            "Tempat Terbit" : "Yogyakarta", 
+            "ISBN" : "978-602-95006-1-9"
+        }
+    ],
+
+    "EBI: Ejaan Bahasa Indonesia" :
+    [
+        {
+            "Pengaranng" : "Tristanti Tri Wahyuni",
+            "Penerbit" : "Araksa",
+            "Tahun Terbit" : "2020",
+            "Tempat Terbit" : "Yogyakarta", 
+            "ISBN" : "978-623-7573-15-1"
+        }
+    ]
+}
