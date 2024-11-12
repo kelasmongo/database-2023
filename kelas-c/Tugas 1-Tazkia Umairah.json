@@ -1,0 +1,100 @@
+{ 
+  "Bibliografi_1": [
+    {
+	  "Judul": "Pembunuhan di Nihobashi",
+      "Nama Pengarang": "KeigoHigashino",
+      "Penerbit": "PT. Gramedia Pustaka Utama",
+	  "ISBN": "9786020621906",
+      "Tahun Terbit": "2020"  
+    }
+  ],
+    "Bibliografi_2": [
+    {
+       "Judul": "Kim ji yeong lahir 1982",
+       "Nama Pengarang": "Cho Nam Joo",
+       "Penerbit": "Gramedia Pustaka Utama",
+       "Tahun Terbit": "2019",
+       "ISBN": "9786020636191"
+    }
+  ],
+    "Bibliografi_3": [
+    { 
+       "Judul": "Elegi kanaya dan 2022",
+       "Nama Pengarang": "Nopita Sari",
+       "Penerbit": "Indonesia Emas Group",
+       "Tahun Terbit": "2024",
+       "ISBN": "Tidak Teridentifikasi",
+       "Subjek": "Fiksi"
+    }
+  ],
+    "Bibliografi_4": [
+    {
+       "Judul": "Zakat dan Badan Hukum",
+       "Nama Pengarang": "Husin Bafadhal",
+       "Penerbit": "Literasi Nusantara Abadi Group",
+       "Tahun Terbit": "2021",
+       "ISBN": "9786233294027",
+       "Subjek": "Agama"  
+    }
+  ],
+    "Bibliografi_5": [
+    {
+       "Judul": "Badanku Milikku",
+       "Nama Pengarang": "Etty Indriati",
+       "Penerbit": "Gramedia Pustaka Utama",
+       "Tahun Terbit": "2014",
+       "ISBN": "9786020305448",
+       "Kategori": "Keluarga"  
+    }
+  ],
+    "Bibliografi_6": [
+    { 
+       "Judul": "Percaya Diri Dengan Badan Gemuk",
+       "Nama Pengarang": "Marwoto",
+       "Penerbit": "Alprin Finishing",
+       "Tahun Terbit": "2010",
+       "ISBN": "9789790531727",
+       "Kategori": "Kesehatan"
+    }
+  ],
+    "Bibliografi_7": [
+    {
+       "Judul": "Perjalanan dan Nasib Obat dalam Badan",
+       "Nama Pengarang": "Mohammad Anief",
+       "Penerbit": "UGM PRESS",
+       "Tahun Terbit": "2007",
+       "ISBN": "9794201774",
+       "Subjek": "Kesehatan dan Obat obatan"
+    }
+  ],
+    "Bibliografi_8": [
+    {
+       "Judul": "In Frsme", 
+       "Nama Pengarang": "Jensen Utama",
+       "Penerbit": "Transmedia Pustaka",
+       "Tahun Terbit": "2020",
+       "ISBN": "9786237100300",
+       "kategori": "self help"
+    }
+  ],
+      "Bibliografi_9": [
+        {
+         "Judul": "Nilai Keindonesiaan",
+          "Nama Pengarang": "Kumpulan Tulisan",
+          "Penerbit": "Penerbit Buku Kompas",
+          "Tahun Terbit": "2017",
+          "ISBN": "9786024121815",
+          "Subjek": "ilmu sosial"
+         }
+    ],
+        "Bibliografi_10": [
+        {
+           "Judul": "Langkah Awal ",
+           "Nama Penulis": "Sahabat Pecinta Tulisan",
+           "Penerbit": "Pustaka Taman ilmu",
+           "Tahun Terbit": "2020",
+           "ISBN": "Tidak teridentifikasi",
+           "kategori": "puisi"
+        }
+    ]
+}
