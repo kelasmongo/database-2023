@@ -1,0 +1,102 @@
+{
+	"Buku_1": [
+		{
+			"Judul": "Bidadari Tak Bersayap",
+			"Pengarang": "Budi Satrio",
+			"Penerbit": "Idola Qta",
+			"Tempat Terbit": "Yogyakarta",
+			"Tahun Terbit": "2009",
+			"ISBN": "978-979-22-4941-5"
+		}
+	],
+	"Buku_2": [
+		{
+			"Judul": "Surga di Telapak Kaki Ayah",
+			"Pengarang": "Sari Yulianti",
+			"Penerbit": "Leutika",
+			"Tempat Terbit": "Yogyakarta",
+			"Tahun Terbit": "2011",
+			"ISBN": "978-602-9079-90-6"
+		}
+	],
+	"Buku_3": [
+		{
+			"Judul": "Senandung Bisu",
+			"Pengarang": "Aguk Irawan MN",
+			"Penerbit": "Republika",
+			"Tempat Terbit": "Jakarta",
+			"Tahun Terbit": "2018",
+			"ISBN": "978-6020-822-99-0"
+		}
+	],
+	"Buku_4": [
+		{
+			"Judul": "Muhammad Sangh Pewaris Hujan",
+			"Pengarang": "Tasaro GK",
+			"Penerbit": "Bentang",
+			"Tempat Terbit": "Yogyakarta",
+			"Tahun Terbit": "2015",
+			"ISBN": "978-602-291-135-7"
+		}
+	],
+	"Buku_5": [
+		{
+			"Judul": "Harapan di Atas Sajadah",
+			"Pengarang": "Mawar Malka",
+			"Penerbit": "Wahyuqolbu",
+			"Tempat Terbit": "Jakarta",
+			"Tahun Terbit": "2018",
+			"ISBN": "978-602-6358-45-5"
+		}
+	],
+	"Buku_6": [
+		{
+			"Judul": "Mata Sayu Itu Bercerita",
+			"Pengarang": "Guntur Alam",
+			"Penerbit": "Sheila",
+			"Tempat Terbit": "Yogyakarta",
+			"Tahun Terbit": "2014",
+			"ISBN": "978-979-29-4254-5"
+		}
+	],
+	"Buku_7": [
+		{
+			"Judul": "Di Bawah Bendera Merah",
+			"Pengarang": "Mo Yan",
+			"Penerbit": "Serambi Ilmu Semesta",
+			"Tempat Terbit": "Jakarta",
+			"Tahun Terbit": "2010",
+			"ISBN": "978-979-024-410-8"
+		}
+	],
+	"Buku_8": [
+		{
+			"Judul": "Anak-anak Langit",
+			"Pengarang": "Terrence CHENG",
+			"Penerbit": "Serambi Ilmu Semesta",
+			"Tempat Terbit": "Jakarta",
+			"ISBN": "979-16-0063-5"
+		}
+	],
+	"Buku_9": [
+		{
+			"Judul": "Rara Mendut",
+			"Pengarang": "Y.B. Mangunwijaya",
+			"Penerbit": "Gramedia",
+			"Tempat Terbit": "Jakarta",
+			"Tahun Terbit": "2008"
+		}
+	],
+	"Buku_10": [
+		{
+			"Judul": "Sebelas Patriot",
+			"Pengarang": "Andrea Hirata",
+			"Penerbit": "Bentang",
+			"Tempat Terbit": "Yogyakarta",
+			"Tahun Terbit": "2011",
+			"ISBN": "978-602-8811-52-1"
+		}
+	]
+}
+			
+			
