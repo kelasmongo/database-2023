@@ -1,0 +1,151 @@
+{
+    "Buku Nomor 1":
+    [
+        {
+            "Judul": "Laut Bercerita",
+            "Pengarang": "Leila S. Chudori",
+            "Penerbit": "Kepustakaan Populer Gramedia",
+            "Tahun Terbit": 2017,
+            "Tempat Penerbit": "Jakarta",
+            "ISBN": 9786024246945,
+            "Deskripsi Fisik": "x, 379 Halaman ; 20 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi"
+        }
+    ],
+
+    "Buku Nomor 2":
+    [
+        {
+            "Judul": "Laskar Pelangi",
+            "Pengarang": "Andrea Hinata",
+            "Penerbit": "Bentang Pustaka",
+            "Tahun Terbit": 2005,
+            "Tempat Penerbit": "Yogyakarta",
+            "ISBN": 9793062797,
+            "Deskripsi Fisik": "xiv, 529 Halaman",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi"
+        }
+    ],
+
+    "Buku Nomor 3":
+    [
+        {
+            "Judul": "Cantik Itu Luka",
+            "Pengarang": "Eka Kurniawan",
+            "Penerbit": "Gramedia Pustaka Utama",
+            "Tahun Terbit": 2004,
+            "Tempat Penerbit": "Jakarta",
+            "ISBN": 9792207988,
+            "Deskripsi Fisik": "539 Halaman ; Ilustrasi, 21 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi"
+        }
+    ],
+
+    "Buku Nomor 4":
+    [
+        {
+            "Judul": "pariposa",
+            "Pengarang": "Luluk HF",
+            "Penerbit": "Coconut Books",
+            "Tahun Terbit": 2020,
+            "Tempat Penerbit": "Depok, Jawa Barat",
+            "ISBN": 9786025508615,
+            "Deskripsi Fisik": "482 Halaman ; Ilustrasi, 21 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi"
+        }
+    ],
+
+    "Buku Nomor 5":
+    [
+        {
+            "Judul": "Home Sweet Loan",
+            "Pengarang": "Almira Bastari",
+            "Penerbit": "Gramedia Pustaka Utama",
+            "Tahun Terbit": 2022,
+            "Tempat Penerbit": "Jakarta",
+            "ISBN": 9786020658049,
+            "Deskripsi Fisik": "309 Halaman ; 20 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi"
+        }
+    ],
+
+    "Buku Nomor 6":
+    [
+        {
+            "Judul": "Berjuta Rasanya",
+            "Pengarang": "Tere Liye",
+            "Penerbit": "Sabak Grip Nusantara",
+            "Tahun Terbit": 2021,
+            "Tempat Penerbit": "jawa Barat",
+            "ISBN": 9786239554538,
+            "Deskripsi Fisik": "203 Halaman ; 21 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi"
+        }
+    ],
+
+    "Buku Nomor 7":
+    [
+        {
+            "Judul": "Pulang",
+            "Pengarang": "Leila S. Chudori",
+            "Penerbit": "Kepustakaan Populer Gramedia",
+            "Tahun Terbit": 2015,
+            "Tempat Penerbit": "Jakarta",
+            "ISBN": 9789799105158,
+            "Deskripsi Fisik": "viii, 461  Halaman ; Ilustrasi, 21 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi"
+        }
+    ],
+
+    "Buku Nomor 8":
+    [
+        {
+            "Judul": "Pelangi Untuk Rida",
+            "Pengarang": "Luna Torashyngu",
+            "Penerbit": "Gramedia",
+            "Tahun Terbit": 2013,
+            "Tempat Penerbit": "Jakarta",
+            "ISBN": 9789792295474,
+            "Deskripsi Fisik": "247 Halaman ; Ilustrasi, 21 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi"
+        }
+    ],
+
+    "Buku Nomor 9":
+    [
+        {
+            "Judul": "the Other Side",
+            "Pengarang": "Aliaranti",
+            "Penerbit": "Pastel Books",
+            "Tahun Terbit": 2019,
+            "Tempat Penerbit": "Bandung",
+            "ISBN": 9786026716613,
+            "Deskripsi Fisik": "312 Halanman ; Ilustrasi, 21 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi"
+        }
+    ],
+
+    "Buku Nomor 10":
+    [
+        {
+            "Judul": "Kisah Kasih di Ibu",
+            "Pengarang": "Esti Budihabsari",
+            "Penerbit": "Mizan Pustaka",
+            "Tahun Terbit": 2011,
+            "Tempat Penerbit": "Bandung",
+            "ISBN": 9786028579667,
+            "Deskripsi Fisik": "268 Halaman ; Ilustarasi, 21 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi"
+        }
+    ]
+}
