@@ -1,0 +1,92 @@
+{
+	"Buku_1": [
+		{
+			"Judul": "Anatomi Fisiologi Manusia",
+			"Pengarang": "Simon Sani Kleden",
+			"Penerbit": "Deepublish",
+			"Tempat Terbit": "Yogyakarta",
+			"Tahun Terbit": "2023"
+		}
+	],
+	"Buku_2": [
+		{
+			"Judul": "Cinta di Ujung Sejadah",
+			"Pengarang": "Asma Nadia",
+			"Penerbit": "Republika",
+			"Tempat Terbit": "Jakarta",
+			"Tahun Terbit": "2012"
+		}
+	],
+	"Buku_3": [
+		{
+			"Judul": "Sebelas Patriot",
+			"Pengarang": "Andrea Hirata",
+			"Penerbit": "Bentang",
+			"Tempat Terbit": "Yogyakarta",
+			"Tahun Terbit": "2011"
+		}
+	],
+	"Buku_4": [
+		{
+			"Judul": "Bait-Bait Cinta",
+			"Pengarang": "Geidurrahman Elmishry",
+			"Penerbit": "Grafindo Khazanah Ilmu",
+			"Tempat Terbit": "Jakarta",
+			"Tahun Terbit": "2008"
+		}
+	],
+	"Buku_5": [
+		{
+			"Judul": "Mata Sayu Itu Bercerita",
+			"Pengarang": "Guntur Alam",
+			"Penerbit": "Sheila",
+			"Tempat Terbit": "Yogyakarta",
+			"Tahun Terbit": "2014"
+		}
+	],
+	"Buku_6": [
+		{
+			"Judul": "Markamah Karpov : Mimpi-Mimpi Lintang",
+			"Pengarang": "Andrea Hirata",
+			"Penerbit": "Bentang",
+			"Tempat Terbit": "Yogyakarta",
+			"Tahun Terbit": "2008"
+		}
+	],
+	"Buku_7": [
+		{
+			"Judul": "Selamanya Cinta",
+			"Pengarang": "Rudy Efendy",
+			"Penerbit": "Sheila",
+			"Tempat Terbit": "Yogyakarta",
+			"Tahun Terbit": "2013"
+		}
+	],
+	"Buku_8": [
+		{
+			"Judul": "Harapan Diatas Sejadah",
+			"Pengarang": "Mawar Malka",
+			"Penerbit": "Wahyuqolbu",
+			"Tempat Terbit": "Jakarta",
+			"Tahun Terbit": "2018"
+		}
+	],
+	"Buku_9": [
+		{
+			"Judul": "Senandung Bisu",
+			"Pengarang": "Aguk Irawan MN",
+			"Penerbit": "Republika",
+			"Tempat Terbit": "Jakarta",
+			"Tahun Terbit": "2018"
+		}
+	],
+	"Buku_10": [
+		{
+			"Judul": "Bidadari Tak Bersayap",
+			"Pengarang": "Budi Satrio",
+			"Penerbit": "Idola Qta",
+			"Tempat Terbit": "Yogyakarta",
+			"Tahun Terbit": "2009"
+		}
+	]
+}
