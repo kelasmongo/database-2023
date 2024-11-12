@@ -40,38 +40,43 @@
     "isbn": "9786020651927"  
   },
   "books_6": {
-    "title": "
-    "publisher":
-    "year" :
-    "pages" :
-    "isbn":
+    "title": "filsafat teknologi",
+    "publisher": "PT kasinus",
+    "year" : "2008",
+    "language" : "indonesia",
+    "pages" : "199",
+    "isbn": "978-979-21-1909-1"
   },
   "books_7": {
-    "title":
-    "publisher":
-    "year" :
-    "pages" :
-    "isbn":
+    "title": "Percy jackson and the olympians the last olympian",
+    "publisher": "Mizan",
+    "year" : "2009",
+    "language": "indonesia"
+    "pages" : "354",
+    "isbn": "978-623-242-257-5"
   },
   "books_8": {
-    "title":
-    "publisher":
-    "year" :
-    "pages" :
-    "isbn":
+    "title": "Percy jackson and the olympian the battle of the labyrinth",
+    "publisher": "Mizan",
+    "year" : "2008",
+    "pages" : "443",
+    "languange": "indonesia",
+    "isbn": "978-602-1606-19-3"
   },
   "books_9": {
-    "title":
-    "publisher":
-    "year" :
-    "pages" :
-    "isbn":
+    "title": "Junji ito best of the best short story collection",
+    "publisher": "Gramedia pustaka utama",
+    "year" : "2019",
+    "language": "indonesia",
+    "pages" : "271",
+    "isbn": "9786230304118" 
   },
   "books_10": {
-    "title":
-    "publisher":
-    "year" :
-    "pages" :
-    "isbn":
+    "title": "Tomie ito junji compilation 1",
+    "publisher": : "Gramedia pustaka utama",
+    "year" : "2011",
+    "language": "indonesia",
+    "pages" : "376",
+    "isbn": "9786230307515"
   }.
     
