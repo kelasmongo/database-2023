@@ -1,0 +1,98 @@
+{
+
+"buku 1" : 
+    {
+        "Judul Buku" : "Laut Bercerita",
+        "Pengarang" : "Leila S. Chudori",
+        "Tahun" : 2024,
+        "Penerbit" : "Kepustakaan Populer Gramedia",
+        "Jumlah Halaman" : 379,
+        "ISBN" : 9786824246945
+    },
+
+    "buku 2" :
+    {
+        "Judul Buku" : "Pulang",
+        "Pengarang" : "Leila S. Chudori",
+        "Tahun" : 2023,
+        "Penerbit" : "Kepustakaan Populer Gramedia",
+        "Jumlah Halaman" : 460,
+        "ISBN" : 9786824242756
+    },
+
+    "buku 3" :
+    {
+        "Judul Buku" : "Janji",
+        "Pengarang" : "Tere Liye",
+        "Tahun" : 2021,
+        "Penerbit" : "Sabak Grip Nusantara",
+        "Jumlah Halaman" : 488,
+        "ISBN" : 9786239726201
+    },
+
+    "buku 4" :
+    {
+        "Judul Buku" : "Namaku Alam",
+        "Pengarang" : "Leila S. Chudori",
+        "Tahun" : 2023,
+        "Penerbit" : "Kepustakaan Populer Gramedia",
+        "Jumlah Halaman" : 438,
+        "ISBN" : 9786231340825
+    },
+    "buku 5" :
+    {
+        "Judul Buku" : "Laskar Pelangi",
+        "Pengarang" : "Andrea Hirata",
+        "Tahun" : 2005,
+        "Penerbit" : "Bentang Pustaka",
+        "Jumlah Halaman" : 529,
+        "ISBN" : 9793062797
+    },
+    "buku 6" :
+    {
+        "Judul Buku" : "Sang Pemimpin",
+        "Pengarang" : "Andrea Hirata",
+        "Tahun" : 2006,
+        "Penerbit" : "Bentang Pustaka",
+        "Jumlah Halaman" : 292,
+        "ISBN" : 9789793062921
+    },
+    "buku 7" :
+    {
+        "Judul Buku" : "Geez and Ann",
+        "Pengarang" : "Rintik Sedu",
+        "Tahun" : 2017,
+        "Penerbit" : "Gagas Media",
+        "Jumlah Halaman" : 256,
+        "ISBN" : 9789799096
+    },
+    "buku 8" :
+    {
+        "Judul Buku" : "Kata",
+        "Pengarang" : "Rintik Sedu",
+        "Tahun" : 2020,
+        "Penerbit" : "Gagas Media",
+        "Jumlah Halaman" : 398,
+        "ISBN" : 9789797809621
+    }, 
+    "buku 9" :
+    {
+        "Judul Buku" : "Padang Bulan",
+        "Pengarang" : "Andrea Hirata",
+        "Tahun" : 2010,
+        "Penerbit" : "Bentang Pustaka",
+        "Jumlah Halaman" : 260,
+        "ISBN" : 9786028811309
+    },
+    "buku 10" :
+    {
+        "Judul Buku" : "Bumi Manusia",
+        "Pengarang" : "Pramoedya Ananta Tour",
+        "Tahun" : 2011,
+        "Penerbit" : "Lentera Dipantara",
+        "Jumlah Halaman" : 535,
+        "ISBN" : 9789799731237
+    }
+}
+
+       
