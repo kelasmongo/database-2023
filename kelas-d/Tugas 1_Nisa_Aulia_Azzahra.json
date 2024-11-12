@@ -1,4 +1,4 @@
- {
+{
     "buku 1" :
     {
         "Judul Buku" : "Hujan",
@@ -6,7 +6,8 @@
         "Tahun" : 2016,
         "Penerbit" : "Gramedia Pustaka utama",
         "Jumlah Halaman" : 320,
-        "ISBN" : 9786020324784
+        "ISBN" : 9786020324784,
+        "Bahasa" : "Indonesia"
     },
 
     "buku 2" :
@@ -16,7 +17,8 @@
         "Tahun" : 2015,
         "Penerbit" : "Gramedia Pustaka Utama",
         "Jumlah Halaman" : 252,
-        "ISBN" : 9786020318967
+        "ISBN" : 9786020318967,
+        "Bahasa" : "Indonesia"
     },
 
     "buku 3" :
@@ -26,7 +28,8 @@
         "Tahun" : 2020,
         "Penerbit" : "Gramedia Widiasarana Indonesia",
         "Jumlah Halaman" : 144,
-        "ISBN" : 9786020522678
+        "ISBN" : 9786020522678,
+        "Bahasa" : "Indonesia"
     },
 
     "buku 4" :
@@ -36,7 +39,8 @@
         "Tahun" : 2021,
         "Penerbit" : "Bhuana Ilmu Populer",
         "Jumlah Halaman" : 400,
-        "ISBN" : 9786230402876
+        "ISBN" : 9786230402876,
+        "Bahasa" : "Indonesia"
     },
     "buku 5" :
     {
@@ -45,7 +49,8 @@
         "Tahun" : 2020,
         "Penerbit" : "Gramedia Pustaka Utama",
         "Jumlah Halaman" : 440,
-        "ISBN" : 9786020636504
+        "ISBN" : 9786020636504,
+        "Bahasa" : "Indonesia"
     },
     "buku 6" :
     {
@@ -54,7 +59,8 @@
         "Tahun" : 2012,
         "Penerbit" : "Andi",
         "Jumlah Halaman" : 512,
-        "ISBN" : 9789792930757
+        "ISBN" : 9789792930757,
+        "Bahasa" : "Indonesia"
     },
     "buku 7" :
     {
@@ -63,7 +69,8 @@
         "Tahun" : 2012,
         "Penerbit" : "Gramedia Pustaka Utama",
         "Jumlah Halaman" : 284,
-        "ISBN" : 9789792281415
+        "ISBN" : 9789792281415,
+        "Bahasa" : "Indonesia"
     },
     "buku 8" :
     {
@@ -72,7 +79,8 @@
         "Tahun" : 2020,
         "Penerbit" : "Gramedia Pustaka Utama",
         "Jumlah Halaman" : 300,
-        "ISBN" : 9786020648453
+        "ISBN" : 9786020648453,
+        "Bahasa" : "Indonesia"
     }, 
     "buku 9" :
     {
@@ -81,7 +89,8 @@
         "Tahun" : 1997,
         "Penerbit" : "Pustaka Nasional Pte. Ltd. Singapura",
         "Jumlah Halaman" : 961,
-        "ISBN" : 9789971773267
+        "ISBN" : 9789971773267,
+        "Bahasa" : "Indonesia"
     },
     "buku 10" :
     {
@@ -90,6 +99,7 @@
         "Tahun" : 2015,
         "Penerbit" : "Pustaka Cahaya Kasturi Sdn Bhd",
         "Jumlah Halaman" : 103,
-        "ISBN" : 9789670562827
+        "ISBN" : 9789670562827,
+        "Bahasa" : "Malaysia"
     }
 }
