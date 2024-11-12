@@ -1,0 +1,151 @@
+{
+    "Buku Nomor 1":
+    [
+        {
+            "Judul": "Magnus chase and the ship of the dead",
+            "Pengarang": "Rick Riordan",
+            "Penerbit": "Penguin Random House",
+            "Tahun Terbit": 2017,
+            "Tempat Penerbit": "London",
+            "ISBN": 9780141342597,
+            "Deskripsi Fisik": "vii, 456 halaman ; 23 cm",
+            "Bahasa": "Inggris",
+            "Subjek": "Fiksi Remaja, Mitologi Nordik",
+        }
+    ],
+
+    "Buku Nomor 2":
+    [
+        {
+            "Judul": "Sherlock Holmes : the memoirs",
+            "Pengarang": "Sir Arthur Conan Doyle",
+            "Penerbit": "Immortal Publisher",
+            "Tahun Terbit": 2013,
+            "Tempat Penerbit": "Yogyakarta",
+            "ISBN": "9780486477831",
+            "Deskripsi Fisik": "374 halaman ; 21 cm",
+            "Bahasa": "Inggris",
+            "Subjek": "Fiksi Detektif"
+        }
+    ],
+
+    "Buku Nomor 3":
+    [
+        {
+            "Judul": "The Great Gatsby",
+            "Pengarang": "F. Scott Fitzgerald",
+            "Penerbit": "Random House",
+            "Tahun Terbit": 1991,
+            "Tempat Penerbit": "London",
+            "ISBN": 1857150198,
+            "Deskripsi Fisik": "xxxix, 148 halaman ; 21 cm",
+            "Bahasa": "Inggris",
+            "Subjek": "American Fiction"
+        }
+    ],
+
+    "Buku Nomor 4":
+    [
+        {
+            "Judul": "Little Women",
+            "Pengarang": "Louisa May Alcott",
+            "Penerbit": "Hardie Grant Egmont",
+            "Tahun Terbit": 2014,
+            "Tempat Penerbit": "Richmond",
+            "ISBN": 9781405271790,
+            "Deskripsi Fisik": "393 halaman ; 18 cm",
+            "Bahasa": "Inggris",
+            "Subjek": "Fiction"
+        }
+    ],
+
+    "Buku Nomor 5":
+    [
+        {
+            "Judul": "Cantik itu Luka",
+            "Pengarang": "Eka Kurniawan",
+            "Penerbit": "Gramedia Pustaka Utama",
+            "Tahun Terbit": 2002,
+            "Tempat Penerbit": "Jakarta",
+            "ISBN": 617202031,
+            "Deskripsi Fisik": "505 halaman ; 22 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi Indonesia"
+        }
+    ],
+
+    "Buku Nomor 6":
+    [
+        {
+            "Judul": "The Seven Husbands of Evelyn Hugo",
+            "Pengarang": "Taylor Jenkins Reid",
+            "Penerbit": "Atria Books",
+            "Tahun Terbit": 2017,
+            "Tempat Penerbit": "New York",
+            "ISBN": 9781501139239,
+            "Deskripsi Fisik": "389 halaman ; 24 cm",
+            "Bahasa": "Inggris",
+            "Subjek": "Fiksi Sejarah"
+        }
+    ],
+
+    "Buku Nomor 7":
+    [
+        {
+            "Judul": "Alice's Adventures in Wonderland",
+            "Pengarang": "Lewis Carroll",
+            "Penerbit": "A Tom Doherty Associates Boook",
+            "Tahun Terbit": 1992,
+            "Tempat Penerbit": "New York",
+            "ISBN": 9780812504187,
+            "Deskripsi Fisik": "ix, 110 halaman ; 21 cm",
+            "Bahasa": "Inggris",
+            "Subjek": "Fantasi"
+        }
+    ],
+
+    "Buku Nomor 8":
+    [
+        {
+            "Judul": "A Dance with Dragons",
+            "Pengarang": "George R. R. Martin",
+            "Penerbit": "Bantam Books",
+            "Tahun Terbit": 2011,
+            "Tempat Penerbit": "New York",
+            "ISBN": 9780553841121,
+            "Deskripsi Fisik": "1112 pages ; 18 cm",
+            "Bahasa": "Inggris",
+            "Subjek": "Fantasi"
+        }
+    ],
+
+    "Buku Nomor 9":
+    [
+        {
+            "Judul": "Padang Bulan",
+            "Pengarang": "Andrea Hirata",
+            "Penerbit": "Bentang",
+            "Tahun Terbit": 2016,
+            "Tempat Penerbit": "Yogyakarta",
+            "ISBN": 9786028811309,
+            "Deskripsi Fisik": "209 halaman : Ilustrasi ; 28 cm",
+            "Bahasa": "Indonesia",
+            "Subjek": "Fiksi Indonesia"
+        }
+    ],
+
+    "Buku Nomor 10":
+    [
+        {
+            "Judul": "The Waste Lands",
+            "Pengarang": "Stephen King",
+            "Penerbit": "A Signet Book",
+            "Tahun Terbit": 1991,
+            "Tempat Penerbit": "New York",
+            "ISBN": 0451173317,
+            "Deskripsi Fisik": "590 Halaman ; 18 cm",
+            "Bahasa": "Inggris",
+            "Subjek": "Fiksi"
+        }
+    ]
+}
