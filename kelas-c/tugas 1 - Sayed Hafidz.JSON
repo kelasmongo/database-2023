@@ -1,0 +1,84 @@
+{
+    "Sayed'S Library":
+    [
+        {
+            "numbers of book": "1",
+            "Judul": "Mengenal dan meraih sasaran hidup",
+            "Penulis": "Grant Brench",
+            "Penerbit": "Prenhalindo",
+            "Tempat terbit": "Jakarta",
+            "ISBN": "9796830892"
+        },
+        {
+            "numbers of book": "2",
+            "Judul": "Psikologi kepemimpinan",
+            "Penulis": "Panji Anoraga",
+            "Penerbit": "Rineka Cipta",
+            "Tempat terbit": "Jakarta",
+            "ISBN": "97951826"
+        },
+        {
+            "numbers of book": "3",
+            "Judul": "Mereka bilang, saya monyet!",
+            "Penulis": "Djenar Maesa Ayu",
+            "Penerbit": "Gramedia Pustaka Utama",
+            "Tempat terbit": "Jakarta",
+            "ISBN": "9796869934"
+        },
+        {
+            "numbers of book": "4",
+            "Judul": "Srargirl",
+            "Penulis": "Jerry Spinelli",
+            "Penerbit": "Alferd A. Knopf",
+            "Tempat terbit": "New York",
+            "ISBN": "037582233"
+        },
+        {
+            "numbers of book": "5",
+            "Judul": "Ceroz dan Batozr",
+            "Penulis": "Tere Liye",
+            "Penerbit": "PT Gramedia",
+            "Tempat terbit": "Jakarta",
+            "ISBN": "9786239987800"
+        },
+        {
+            "numbers of book": "6",
+            "Judul": "Les Caves du Vatikan sotie",
+            "Penulis": "Andre Gide",
+            "Penerbit": "Gallimard",
+            "Tempat terbit": "Paris"
+        },
+        {
+            "numbers of book": "7",
+            "Judul": "Nayla",
+            "Penulis": "Djenar Maesa Ayu",
+            "Penerbit": "Gramedia Pustaka Utama",
+            "Tempat terbit": "Jakarta",
+            "ISBN": "20105011"
+        },
+        {
+            "numbers of book": "8",
+            "Judul": "Sawarga Malapetaka",
+            "Penulis": "Risa Saraswati",
+            "Penerbit": "Bukune",
+            "Tempat terbit": "Jakarta",
+            "ISBN": "9786022204473"
+        },
+        {
+            "numbers of book": "9",
+            "Judul": "Kenduri Arwah",
+            "Penulis": "A.R. Rizal",
+            "Penerbit": "Yayasan Pustaka Obor Indonesia",
+            "Tempat terbit": "Jakarta",
+            "ISBN": "9786236421185"
+        },
+        {
+            "numbers of book": "10",
+            "Judul": "10 arrrrrgh...",
+            "Penulis": "Melly Goeslaw",
+            "Penerbit": "Gagas Media",
+            "Tempat terbit": "Jakarta",
+            "ISBN": "9793600411"
+        }
+    ]
+}
