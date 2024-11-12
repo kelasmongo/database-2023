@@ -44,7 +44,7 @@
     "pages": 187,
     "isbn": "979-3035-84-6"
   },
-  "books_6":
+  "books_6": {
     "title": "Manajemen Perpustakaan",
     "author": "Lubis",
     "publisher": "Deepublish",
@@ -53,7 +53,7 @@
     "pages": 65,
     "isbn": "9786024758301"
   },
-  "books_7":
+  "books_7": {
     "title": "Cinta Bertepuk Sebelah Tangan",
     "author": "Zalfa Juadah Jahro",
     "publisher": "Cahaya Pelangi Media",
@@ -62,7 +62,7 @@
     "pages": 196,
     "isbn": "978-623-6670-38-5"
   },
-  "books_8":
+  "books_8": {
     "title": "Pengantar Ilmu Kearsipan",
     "author": "Sulistyo Basuki",
     "publisher": "Universitas Terbuka",
@@ -71,7 +71,7 @@
     "pages": 561,
     "isbn": "979-689-964-7"
   },
-  "books_9":
+  "books_9": {
     "title": "Pengantar Psikologi Lintas Budaya",
     "author": "Matsumoto",
     "publisher": "Pustaka Pelajar",
@@ -79,8 +79,8 @@
     "language": "Indonesia",
     "pages": 266,
     "isbn": "979-3477-55-5"
-  }, 
-  "books_10":
+  },
+  "books_10": {
     "title": "Dear Nathan",
     "author": "Erisca Febriani",
     "publisher": "Best Media",
