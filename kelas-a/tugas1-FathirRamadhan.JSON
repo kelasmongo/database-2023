@@ -1,0 +1,95 @@
+{
+    "Detailed Book Information": [
+        {
+            "Book_Id" : 1,
+            "Title": "Nonversation",
+            "Author": "Valerie Patkar",
+            "Publisher": "Bhuana Ilmu Populer",
+            "Subject": "Fiction",
+            "Language": "Indonesia",
+            "ISBN": 9786024832933
+        },
+        {
+            "Book_Id" : 2,
+            "Title": "Loversation",
+            "Author": "Valerie Patkar",
+            "Publisher": "Bhuana Ilmu Populer",
+            "Subject": "Fiction",
+            "Language": "Indonesia",
+            "ISBN": 9786230413131
+        },
+        {
+            "Book_Id" : 3,
+            "Title": "Atlas Pelajar Perlengkap Indonesia & Dunia",
+            "Author": "Sev Sukandar",
+            "Publisher": "Bmedia",
+            "Subject": "Geography",
+            "Language": "Indonesia",
+            "ISBN": 9786027428232
+        },
+        {
+            "Book_Id" : 4,
+            "Title": "Dinamika dan perspektif : haji indonesia",
+            "Author": "Kementrian Agama",
+            "Publisher": "Kementrian Agama",
+            "Subject": "Education",
+            "Language": "Indonesia",
+            "ISBN": 9786029127010
+        },
+        {
+            "Book_Id" : 5,
+            "Title": "Gender, power and organisation",
+            "Author": "Paula Nicolson",
+            "Publisher": "Rouledge",
+            "Subject": "Psychology",
+            "Language": "Indonesia",
+            "ISBN": "Undefined"
+        },
+        {
+            "Book_Id" : 6,
+            "Title": "Reformasi politik dan kekuatan masyarakat",
+            "Author": "Maruto MD dan Anwari MK",
+            "Publisher": "Pustaka LP3ES",
+            "Subject": "Politic",
+            "Language": "Indonesia",
+            "ISBN": 9798391977
+        },
+        {
+            "Book_Id" : 7,
+            "Title": "The lessons of history : pelajaran dari 5.000 tahun sejarah manusia",
+            "Author": "Will Durant",
+            "Publisher": "Qaftara Imprint",
+            "Subject": "History",
+            "Language": "Indonesia",
+            "ISBN": 9786236219850
+        },
+        {
+            "Book_Id" : 8,
+            "Title": "Islam ditinjau dari berbagai aspeknya",
+            "Author": "Harun Nasution",
+            "Publisher": "Universitas Indonesia (UI-press)",
+            "Subject": "Islam",
+            "Language": "Indonesia",
+            "ISBN": 9798034023
+        },
+        {
+            "Book_Id" : 9,
+            "Title": "Literasi membaca : hasrat memahami makna kehidupan Tahun",
+            "Author": "Vismaia S. Damianti",
+            "Publisher": "PT Refika Aditama",
+            "Subject": "Reading",
+            "Language": "Indonesia",
+            "ISBN": 9786236232149
+        },
+        {
+            "Book_Id" : 10,
+            "Title": "Menjerat Gus Dur tahun 2020",
+            "Author": "Virdika Rizky Utama",
+            "Publisher": "NUmedia digital Indonesia",
+            "Subject": "Politic",
+            "Language": "Indonesia",
+            "ISBN": 9786025242069
+        }
+    
+    ]
+}
