@@ -28,7 +28,7 @@
           "Call Number": "-", 
           "Language": "Indonesia",
           "Abstract":"Buku ini menceritakan tentang kisah pasangan yang pada akhirnya tidak bisa bersama kembali", 
-          "ISBN": "978-602-220-257-8", 
+          "ISBN": "978-602-220-257-8"
         }, 
         "Books_3": {
           "Title": "Pesan Terakhir",
@@ -43,7 +43,7 @@
           "Call Number": "813 WEN p", 
           "Language": "Indonesia",
           "Abstract":"Buku ini menceritakan tentang tujuh orang sahabat SMA yang berkumpul kembali setelah bertahun-tahun terpisah melalui surat misterius", 
-          "ISBN": "978-602-03-3381-6", 
+          "ISBN": "978-602-03-3381-6"
         }, 
         "Books_4": {
           "Title": "Crime and Punishment",
@@ -58,7 +58,7 @@
           "Call Number": "891.73 DOS c", 
           "Language": "Rusia",
           "Abstract":"Buku ini menceritakan tentang pergulatan batin seorang mahasiswa yang kesepian dan penyendiri bernama Raskolnikov, yang mencoba menghibur diri dengan ilusi kekuasaan, dan meyakini dirinya boleh melakukan pembunuhan tanpa harus menanggung rasa bersalah dan sanksi hukum", 
-          "ISBN": "978-014-305-814-4", 
+          "ISBN": "978-014-305-814-4"
         }, 
           "Books_5": {
           "Title": "Doroymon : A Wonderful Masa Jadul",
@@ -88,7 +88,7 @@
           "Call Number": "-", 
           "Language": "Indonesia",
           "Abstract":"Buku ini berisi tentang Ilmu Pengetahuan Alam yang didalamnya membahas bab-bab mengenai gerak dan benda pada makhluk hidup", 
-          "ISBN": "978-602-282-314-8", 
+          "ISBN": "978-602-282-314-8"
         }, 
           "Books_7": {
           "Title": "I'rab Al-Qur'an Al-Adzim",
@@ -118,7 +118,7 @@
           "Call Number": "659.2 SOL d", 
           "Language": "Indonesia",
           "Abstract":"Buku ini menceritakan tentang gambaran perlunya kualifikasi tertentu bagi mereka yang hendak menjalani profesi Public Relations,", 
-          "ISBN": "978-692-208-8", 
+          "ISBN": "978-692-208-8"
         }, 
           "Books_9": {
           "Title": "Manajemen dan Strategi Kepuasan Pelanggan",
@@ -133,7 +133,7 @@
           "Call Number": "658.8342 FAN m", 
           "Language": "Indonesia",
           "Abstract":"Buku ini menceritakan tentang topik-topik utama yang mengutamakan kepuasan pelanggan, yang dapat dilihat dari rumusan visi, misi, tujuan, sasaran, positioning, slogan maupun tagline yang dikomunikasikan kepada publik", 
-          "ISBN": "978-623-01-2939-1", 
+          "ISBN": "978-623-01-2939-1"
         }, 
           "Books_10": {
           "Title": "Kitab Undang-Undang Hukum Pidana",
@@ -148,5 +148,5 @@
           "Call Number": "-", 
           "Language": "Indonesia",
           "Abstract":"Buku ini menceritakan tentang undang-undang hukum pidana, yang didalamnya berisi pasal-pasal terkait aturan umum, kejahatan, dan pelanggaran pidana", 
-          "ISBN": "978-602-50009-6-6", 
+          "ISBN": "978-602-50009-6-6"
         }, 
