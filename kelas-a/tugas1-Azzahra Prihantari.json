@@ -1,5 +1,6 @@
 {
     "Book": [
+        {
         "Books_1": {
           "Title": "Negeri Para Bedebah",
           "Author": "Tere Liye",
@@ -101,7 +102,7 @@
           "Dimension": "24,5 cm", 
           "Subject": "Ilmu-ilmu Al-Qur'an", 
           "Call Number": "2x1 ZAK i", 
-          "Language": "Arab",
+          "Language": "Arabic",
           "Abstract":"Buku ini berisi tentang ilmu Al-Qur'an yang membahas tentang kedudukan kata dalam susunan kalimat atau ta'bir untuk mengetahui makna dan arti suatu ayat",
           "ISBN": "978-014-305-814-4"
         }, 
@@ -150,3 +151,4 @@
           "Abstract":"Buku ini menceritakan tentang undang-undang hukum pidana, yang didalamnya berisi pasal-pasal terkait aturan umum, kejahatan, dan pelanggaran pidana", 
           "ISBN": "978-602-50009-6-6"
         }, 
+            ]
