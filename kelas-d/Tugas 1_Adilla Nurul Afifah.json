@@ -1,0 +1,141 @@
+{ 
+"Buku nomor 1":
+  [
+    {
+      "Judul": "Super What?",
+      "Pengarang": "Jax Abbot",
+      "Tempat Terbit": "Jakarta",
+      "Penerbit": "Gramedia",
+      "Tahun Terbit": "2010",
+      "ISBN": "9789792264777",
+      "Deskripsi fisik": "256 halaman;20 cm.",
+      "Bahasa": "Bahasa Indonesia",
+    }
+      ],
+  
+ "Buku nomor 2":
+  [
+    {
+      "Judul": "Lampu Minyak Lintang",
+      "Pengarang": "Saniya Millatina",
+      "Tempat Terbit": "Yogyakarta",
+      "Penerbit": "Bentang Belia",
+      "Tahun Terbit": "2012",
+      "ISBN": "9786029397031",
+      "Deskripsi fisik": "vi, 122 halaman;21 cm.",
+      "Bahasa": "Bahasa Indonesia",
+    }
+      ],
+
+  "Buku nomor 3":
+  [
+    {
+      "Judul": "12 Cerita Glen Anggara",
+      "Pengarang": "Luluk HF",
+      "Tempat Terbit": "Depok",
+      "Penerbit": "Coconut Books",
+      "Tahun Terbit": "2019",
+      "ISBN": "9786237439073",
+      "Deskripsi fisik": "384 halaman;21 cm.",
+      "Bahasa": "Bahasa Indonesia",
+    }
+      ],
+
+  "Buku nomor 4":
+  [
+    {
+      "Judul": "Laguna",
+      "Pengarang": "Iwok Abqary",
+      "Tempat Terbit": "Jakarta",
+      "Penerbit": "Gramedia Pustaka Utama",
+      "Tahun Terbit": "2013",
+      "ISBN": "9786020300535",
+      "Deskripsi fisik": "232 halaman;20 cm.",
+      "Bahasa": "Bahasa Indonesia",
+    }
+      ],
+
+  "Buku nomor 5":
+  [
+    {
+      "Judul": "Negeri 5 Menara",
+      "Pengarang": "Ahmad Fuadi",
+      "Tempat Terbit": "Jakarta",
+      "Penerbit": "Gramedia Pustaka Utama",
+      "Tahun Terbit": "2012",
+      "ISBN": "9789792280043",
+      "Deskripsi fisik": "xi, 440 halaman;ilustrasi;21 cm.",
+      "Bahasa": "Bahasa Indonesia",
+    }
+      ],
+
+  "Buku nomor 6":
+  [
+    {
+      "Judul": "Kasih YangTerkelam",
+      "Pengarang": "Melissa Marr",
+      "Tempat Terbit": "Jakarta",
+      "Penerbit": "Gramedia Pustaka Utama",
+      "Tahun Terbit": "2012",
+      "ISBN": "9789792290875",
+      "Deskripsi fisik": "368 halaman;20 cm.",
+      "Bahasa": "Bahasa Indonesia",
+    }
+      ],
+
+  "Buku nomor 7":
+  [
+    {
+      "Judul": "Petualangan Wartawan Geje Jay & Wilow: Superhero Supermellow",
+      "Pengarang": "Deanmedi dan Gendukgendis",
+      "Tempat Terbit": "Jakarta",
+      "Penerbit": "Gramedia Pustaka Utama",
+      "Tahun Terbit": "2014",
+      "ISBN": "9786020302096",
+      "Deskripsi fisik": "200 halaman;20 cm.",
+      "Bahasa": "Bahasa Indonesia",
+    }
+      ],
+
+  "Buku nomor 8":
+  [
+    {
+      "Judul": "The Dozen Dice",
+      "Pengarang": "Haniva Sekar Deanty",
+      "Tempat Terbit": "Bandung",
+      "Penerbit": "DAR! Mizan",
+      "Tahun Terbit": "2013",
+      "ISBN": "9786022421528",
+      "Deskripsi fisik": "168 halaman;ilustrasi.;20 cm.",
+      "Bahasa": "Bahasa Indonesia",
+    }
+      ],
+
+  "Buku nomor 9":
+  [
+    {
+      "Judul": "Celah Waktu",
+      "Pengarang": "Rieham Junianti",
+      "Tempat Terbit": "Jakarta",
+      "Penerbit": "Terrant",
+      "Tahun Terbit": "2003",
+      "ISBN": "9799780624",
+      "Deskripsi fisik": "182 halaman;17 cm.",
+      "Bahasa": "Bahasa Indonesia",
+    }
+      ],
+
+  "Buku nomor 10":
+  [
+    {
+      "Judul": "Senja, hujan, dan cerita yang telah usai",
+      "Pengarang": "Boy Candra",
+      "Tempat Terbit": "Jakarta",
+      "Penerbit": "mediakita",
+      "Tahun Terbit": "2015",
+      "ISBN": "9797944999",
+      "Deskripsi fisik": "vii, 240 halaman;19 cm.",
+      "Bahasa": "Bahasa Indonesia",
+    }
+      ],
+}
