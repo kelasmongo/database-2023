@@ -1,0 +1,82 @@
+{
+    "Buku_1": {
+        "Judul": "Novel Milea Suara dari Dilan",
+        "Penulis": "Pidi Baiq",
+        "Penerbit": "Mizan Publishing",
+        "Tahun Terbit": 2020,
+        "Tempat Terbit": "Jakarta",
+        "Identifikasi": "9786020851563"
+    }, 
+    "Buku_2": {
+        "Judul": "Buku Rahasia Geez",
+        "Penulis": "Rintik Sedu",
+        "Penerbit": "Kawah Media",
+        "Tahun Terbit": 2018,
+        "Tempat Terbit": "Jakarta",
+        "Identifikasi": "9789797809294"
+    },
+    "Buku_3": {
+        "Judul": "Novel Cantik itu Luka",
+        "Penulis": "Eka Kurniawan",
+        "Penerbit": "Gramedia Pustaka Utama",
+        "Tahun Terbit": 2018,
+        "Tempat Terbit": "Jakarta",
+        "Identifikasi": "9786020312583"
+    },
+    "Buku_4": {
+        "Judul": "Buku Anak Harry Potter Dan Batu Bertuah",
+        "Penulis": "J.K. Rowling",
+        "Penerbit": "Gramedia Pustaka Utama",
+        "Tahun Terbit": 2017,
+        "Tempat Terbit": "Jakarta",
+        "Identifikasi": "9786020337647"    
+    },
+    "Buku_5": {
+       "Judul": "Jengki",
+        "Penulis": "Tere Liye",
+        "Penerbit": "Penerbit Sabak Grip",
+        "Tahun Terbit": 2024,
+        "Tempat Terbit": "Jakarta",
+        "Identifikasi": "9786238882236"    
+    },
+    "Buku_6": {
+        "Judul": "Suku Penunggang Layang-layang",
+        "Penulis": "Tere Liye",
+        "Penerbit": "Penerbit Sabak Grip",
+        "Tahun Terbit": 2024,
+        "Tempat Terbit": "Jakarta",
+        "Identifikasi": "9786238882274" 
+    },
+    "Buku_7": {
+       "Judul": "Pulau Batu di Samudra Buatan",
+        "Penulis": "Ziggyzesyazeoviennazabrizkie",
+        "Penerbit": "Kepustakaan Populer Gramedia",
+        "Tahun Terbit": 2023,
+        "Tempat Terbit": "Jakarta",
+        "Identifikasi": "9786231341303"
+    },
+    "Buku_8": {
+       "Judul": "K Si Pemalas",
+        "Penulis": "Tere Liye",
+        "Penerbit": "Penerbit Sabak Grip",
+        "Tahun Terbit": 2023,
+        "Tempat Terbit": "Jakarta",
+        "Identifikasi": "9786238829682"
+    },
+    "Buku_9": {
+        "Judul": "Namaku Alam",
+        "Penulis": "Leila S. Chudori",
+        "Penerbit": "Kepustakaan Populer Gramedia",
+        "Tahun Terbit": 2023,
+        "Tempat Terbit": "Jakarta",
+        "Identifikasi": "592302176"
+    }, 
+    "Buku_10": {
+        "Judul": "Pulang",
+        "Penulis": "Leila S. Chudori",
+        "Penerbit": "Kepustakaan Populer Gramedia",
+        "Tahun Terbit": 2023,
+        "Tempat Terbit": "Jakarta",
+        "Identifikasi": "9786024242756" 	
+    }
+}
