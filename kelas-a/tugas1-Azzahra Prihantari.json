@@ -1,6 +1,5 @@
 {
-    "Book": [
-        { 
+    "Book": {
         "Books_1": {
           "Title": "Negeri Para Bedebah",
           "Author": "Tere Liye",
@@ -16,7 +15,6 @@
           "Abstract":"Buku ini menceritakan tentang menggambarkan kehidupan perekonomian dan politik negara yang dipenuhi musang berbulu domba", 
           "ISBN": "978-979-228-552-9"
         }, 
-        {
         "Books_2": {
           "Title": "Untukmu Di Hari Kemarin",
           "Author": "Galih Hidayatullah dan RA Monica",
@@ -32,7 +30,6 @@
           "Abstract":"Buku ini menceritakan tentang kisah pasangan yang pada akhirnya tidak bisa bersama kembali", 
           "ISBN": "978-602-220-257-8", 
         }, 
-        {
         "Books_3": {
           "Title": "Pesan Terakhir",
           "Author": "Wenny Smart",
@@ -48,7 +45,6 @@
           "Abstract":"Buku ini menceritakan tentang tujuh orang sahabat SMA yang berkumpul kembali setelah bertahun-tahun terpisah melalui surat misterius", 
           "ISBN": "978-602-03-3381-6", 
         }, 
-        {
         "Books_4": {
           "Title": "Crime and Punishment",
           "Author": "Fyodor Dostoyevsky",
@@ -64,7 +60,6 @@
           "Abstract":"Buku ini menceritakan tentang pergulatan batin seorang mahasiswa yang kesepian dan penyendiri bernama Raskolnikov, yang mencoba menghibur diri dengan ilusi kekuasaan, dan meyakini dirinya boleh melakukan pembunuhan tanpa harus menanggung rasa bersalah dan sanksi hukum", 
           "ISBN": "978-014-305-814-4", 
         }, 
-        {
           "Books_5": {
           "Title": "Doroymon : A Wonderful Masa Jadul",
           "Author": "Roy Saputra",
@@ -78,8 +73,8 @@
           "Call Number": "792.93 SAP d", 
           "Language": "Indonesia",
           "Abstract":"Buku ini menceritakan tentang kenangan si Penulis semasa ospek sampai ke jenjang persahabatan, tentang perpisahan, tentang mengenang masa-masa terindah dalam hidup",
+          "ISBN": "978-014-305-814-4"
         }, 
-        {
           "Books_6": {
           "Title": "Ilmu Pengetahuan Alam",
           "Author": "Kementerian Pendidikan dan Kebudayaan",
@@ -109,8 +104,8 @@
           "Call Number": "2x1 ZAK i", 
           "Language": "Arab",
           "Abstract":"Buku ini berisi tentang ilmu Al-Qur'an yang membahas tentang kedudukan kata dalam susunan kalimat atau ta'bir untuk mengetahui makna dan arti suatu ayat",
+          "ISBN": "978-014-305-814-4"
         }, 
-        {
           "Books_8": {
           "Title": "Dasar-dasar Public Relations",
           "Author": "Soleh Soemirat dan Elvinaro Ardianto",
