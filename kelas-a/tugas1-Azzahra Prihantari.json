@@ -1,6 +1,5 @@
 {
-    "Book": [
-        {
+    "Book": {
         "Books_1": {
           "Title": "Negeri Para Bedebah",
           "Author": "Tere Liye",
@@ -150,6 +149,6 @@
           "Language": "Indonesia",
           "Abstract":"Buku ini menceritakan tentang undang-undang hukum pidana, yang didalamnya berisi pasal-pasal terkait aturan umum, kejahatan, dan pelanggaran pidana", 
           "ISBN": "978-602-50009-6-6"
-        }
-    ]
+         }
+    }
 }
